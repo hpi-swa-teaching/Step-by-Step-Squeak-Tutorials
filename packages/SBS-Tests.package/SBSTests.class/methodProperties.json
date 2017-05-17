@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDisappearAtClick" : "DK 5/17/2017 17:20",
+		"testEventWhenClicked" : "DK 5/17/2017 17:24",
+		"testInitializeWithMorph" : "DK 5/17/2017 17:20",
+		"testInitializeWithPosition" : "DK 5/17/2017 17:20" } }

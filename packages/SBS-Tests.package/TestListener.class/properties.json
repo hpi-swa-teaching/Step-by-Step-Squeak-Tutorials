@@ -1,0 +1,14 @@
+{
+	"category" : "SBS-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"eventHappened" ],
+	"name" : "TestListener",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

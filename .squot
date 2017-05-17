@@ -1,0 +1,6 @@
+OrderedDictionary {
+	'packages\/46Deprecated.package' : #SquotCypressCodeSerializer,
+	'packages\/BaselineOfSBS.package' : #SquotCypressCodeSerializer,
+	'packages\/SBS-Core.package' : #SquotCypressCodeSerializer,
+	'packages\/SBS-Tests.package' : #SquotCypressCodeSerializer
+}

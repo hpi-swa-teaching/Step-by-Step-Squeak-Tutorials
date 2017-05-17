@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSBS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSBS",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
