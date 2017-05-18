@@ -7,5 +7,6 @@ testDisappearAtClick
 				background: Color black
 				at: [20 @ 20].
 	explain openInWorld.
+	self assert: explain owner notNil.
 	explain click.
-	self assert: explain equals: nil
+	self assert: explain owner equals: nil
