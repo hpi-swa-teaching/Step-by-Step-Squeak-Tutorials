@@ -2,6 +2,8 @@
 	"class" : {
 		"text:color:background:at:" : "DK 5/17/2017 10:29" },
 	"instance" : {
-		"calculatePosition:" : "DK 5/17/2017 10:39",
+		"calculatePosition:" : "EM 5/18/2017 10:21",
 		"handlesMouseDown:" : "DK 5/16/2017 10:32",
-		"mouseDown:" : "DK 5/16/2017 10:31" } }
+		"handlesMouseUp:" : "EM 5/18/2017 10:39",
+		"mouseDown:" : "EM 5/18/2017 10:39",
+		"mouseUp:" : "EM 5/18/2017 10:40" } }
