@@ -1,0 +1,3 @@
+constants
+DefaultOverlayColor
+	^	Color black
