@@ -9,9 +9,9 @@ testInitializeWithPosition
 				text: testString
 				color: testColor
 				background: testBackground
-				atPosition: [testPosition].
+				at: [testPosition].
 	explanation openInWorld.
 	self assert: explanation contents equals: testString;
 		 assert: explanation color equals: testColor;
-		 assert: explanation background equals: testBackground;
+		 assert: explanation backgroundColor  equals: testBackground;
 		 assert: explanation position equals: testPosition

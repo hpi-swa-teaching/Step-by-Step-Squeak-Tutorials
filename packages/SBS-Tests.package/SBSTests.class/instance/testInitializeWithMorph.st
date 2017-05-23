@@ -10,9 +10,9 @@ testInitializeWithMorph
 				text: testString
 				color: testColor
 				background: testBackground
-				at: [rectangle].
+				at: [rectangle position].
 	explanation openInWorld.
 	self assert: explanation contents equals: testString;
 		 assert: explanation color equals: testColor;
-		 assert: explanation background equals: testBackground;
-		 assert: explanation position equals: rectangle bottomLeft x + (rectangle width - self width) @ rectangle bottom + 20
+		 assert: explanation backgroundColor equals: testBackground;
+		 assert: explanation position equals: rectangle bottomLeft x + (rectangle width - explanation width) @ rectangle bottom + 20

@@ -1,7 +1,11 @@
 {
 	"class" : {
-		"text:color:background:at:" : "DK 5/17/2017 10:29" },
+		"text:color:background:at:" : "EM 5/23/2017 11:30" },
 	"instance" : {
-		"calculatePosition:" : "DK 5/17/2017 10:39",
+		"background" : "EM 5/23/2017 11:32",
+		"background:" : "EM 5/23/2017 11:32",
+		"createBackground:" : "EM 5/23/2017 11:36",
 		"handlesMouseDown:" : "DK 5/16/2017 10:32",
-		"mouseDown:" : "DK 5/16/2017 10:31" } }
+		"handlesMouseUp:" : "EM 5/18/2017 10:39",
+		"mouseDown:" : "EM 5/18/2017 10:39",
+		"mouseUp:" : "EM 5/18/2017 10:40" } }
