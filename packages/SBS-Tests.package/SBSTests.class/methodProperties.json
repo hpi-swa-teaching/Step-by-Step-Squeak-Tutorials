@@ -4,7 +4,7 @@
 	"instance" : {
 		"setUp" : "EM 5/18/2017 10:37",
 		"tearDown" : "EM 5/18/2017 10:46",
-		"testDisappearAtClick" : "EM 5/18/2017 10:41",
+		"testDisappearAtClick" : "DK 5/18/2017 14:15",
 		"testEventWhenClicked" : "EM 5/18/2017 10:44",
 		"testInitializeWithMorph" : "EM 5/18/2017 10:43",
 		"testInitializeWithPosition" : "EM 5/18/2017 10:31" } }

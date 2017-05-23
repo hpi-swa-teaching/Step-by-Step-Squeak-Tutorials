@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"background" ],
-	"name" : "SBSExplanation",
+		 ],
+	"name" : "SBSOverlay",
 	"pools" : [
 		 ],
-	"super" : "StringMorph",
+	"super" : "RectangleMorph",
 	"type" : "normal" }
