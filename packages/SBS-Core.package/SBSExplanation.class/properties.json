@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"background" ],
+		"label" ],
 	"name" : "SBSExplanation",
 	"pools" : [
 		 ],
-	"super" : "StringMorph",
+	"super" : "RectangleMorph",
 	"type" : "normal" }

@@ -2,7 +2,8 @@ as yet unclassified
 testInitializeWithMorph
 	| explanation testString testColor testBackground rectangle |
 	rectangle := RectangleMorph new.
-	rectangle position: 20 @ 20.
+	rectangle position: 200 @ 200.
+	rectangle openInWorld.
 	testString := 'This is a test string.'.
 	testColor := Color red.
 	testBackground := Color black.
@@ -10,9 +11,11 @@ testInitializeWithMorph
 				text: testString
 				color: testColor
 				background: testBackground
-				at: [rectangle position].
+				atMorph: rectangle.
 	explanation openInWorld.
-	self assert: explanation contents equals: testString;
-		 assert: explanation color equals: testColor;
-		 assert: explanation backgroundColor equals: testBackground;
-		 assert: explanation position equals: rectangle bottomLeft x + (rectangle width - explanation width) @ rectangle bottom + 20
+	self assert: explanation label contents equals: testString;
+		 assert: explanation label color equals: testColor;
+		 assert: explanation color equals: testBackground;
+		 assert: explanation position equals: rectangle center - explanation extent / 2 @ rectangle bottom + 20.
+	explanation abandon.
+	rectangle abandon.
