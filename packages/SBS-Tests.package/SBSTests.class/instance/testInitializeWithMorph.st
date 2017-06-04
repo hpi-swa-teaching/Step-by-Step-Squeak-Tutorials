@@ -16,6 +16,6 @@ testInitializeWithMorph
 	self assert: explanation label contents equals: testString;
 		 assert: explanation label color equals: testColor;
 		 assert: explanation color equals: testBackground;
-		 assert: explanation position equals: rectangle center - explanation extent / 2 @ rectangle bottom + 20.
+		 assert: explanation position equals: (rectangle center x - (explanation width / 2)) @ (rectangle bottom + 20).
 	explanation abandon.
 	rectangle abandon.
