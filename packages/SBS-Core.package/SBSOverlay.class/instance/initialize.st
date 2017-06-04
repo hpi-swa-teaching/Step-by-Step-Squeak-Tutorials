@@ -6,4 +6,5 @@ initialize
 		borderWidth: 0;
 		bounds: Display fullBoundingBox;
 		sticky: true;
-		resistsRemoval: true.
+		resistsRemoval: true;
+		clippingMorphs: OrderedCollection new.
