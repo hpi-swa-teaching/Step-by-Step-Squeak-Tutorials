@@ -1,11 +1,20 @@
 {
 	"class" : {
-		"text:color:background:at:" : "EM 5/23/2017 11:30" },
+		"Gap" : "DK 5/23/2017 13:49",
+		"Padding" : "DK 5/23/2017 14:35",
+		"text:color:background:atMorph:" : "DK 5/23/2017 14:26",
+		"text:color:background:atPosition:" : "DK 5/23/2017 14:34" },
 	"instance" : {
+		"adaptExtent" : "DK 5/23/2017 14:18",
 		"background" : "EM 5/23/2017 11:32",
 		"background:" : "EM 5/23/2017 11:32",
 		"createBackground:" : "EM 5/23/2017 11:36",
+		"createLabel:withColor:" : "DK 5/23/2017 14:25",
 		"handlesMouseDown:" : "DK 5/16/2017 10:32",
 		"handlesMouseUp:" : "EM 5/18/2017 10:39",
-		"mouseDown:" : "EM 5/18/2017 10:39",
-		"mouseUp:" : "EM 5/18/2017 10:40" } }
+		"label" : "DK 5/23/2017 13:52",
+		"label:" : "DK 5/23/2017 13:52",
+		"mouseDown:" : "DK 5/23/2017 12:05",
+		"mouseUp:" : "EM 5/18/2017 10:40",
+		"positionLabel" : "DK 5/23/2017 14:35",
+		"positionToMorph:" : "DK 5/23/2017 14:32" } }

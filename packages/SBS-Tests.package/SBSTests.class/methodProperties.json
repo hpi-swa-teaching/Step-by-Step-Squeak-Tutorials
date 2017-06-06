@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "EM 5/18/2017 10:37",
-		"tearDown" : "EM 5/18/2017 10:46",
-		"testDisappearAtClick" : "DK 5/18/2017 14:15",
-		"testEventWhenClicked" : "EM 5/18/2017 10:44",
-		"testInitializeWithMorph" : "EM 5/18/2017 10:43",
-		"testInitializeWithPosition" : "EM 5/18/2017 10:31" } }
+		"setUp" : "DK 5/23/2017 14:38",
+		"tearDown" : "DK 5/23/2017 14:38",
+		"testDisappearAtClick" : "Deeps 6/4/2017 15:11",
+		"testEventWhenClicked" : "DK 5/23/2017 12:12",
+		"testInitializeWithMorph" : "Deeps 6/4/2017 15:09",
+		"testInitializeWithPosition" : "DK 5/23/2017 14:35" } }

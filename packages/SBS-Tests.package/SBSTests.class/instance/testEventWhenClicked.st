@@ -2,8 +2,7 @@ as yet unclassified
 testEventWhenClicked
 	| explain listener |
 	listener := TestListener new.
-	explain := self subject.
-	explain openInWorld.
+	explain := self subject morphs first.
 	explain addDependent: listener.
 	listener eventHappened: false.
 	explain click.

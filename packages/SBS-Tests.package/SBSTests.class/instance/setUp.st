@@ -4,4 +4,4 @@ setUp
 						text: 'Hello'
 						color: Color red
 						background: Color black
-						at: [20 @ 20]).
+						atPosition: 20 @ 20).
