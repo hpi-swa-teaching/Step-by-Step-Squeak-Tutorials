@@ -6,8 +6,6 @@
 		"text:color:background:atPosition:" : "DK 5/23/2017 14:34" },
 	"instance" : {
 		"adaptExtent" : "DK 5/23/2017 14:18",
-		"background" : "EM 5/23/2017 11:32",
-		"background:" : "EM 5/23/2017 11:32",
 		"createBackground:" : "EM 5/23/2017 11:36",
 		"createLabel:withColor:" : "DK 5/23/2017 14:25",
 		"handlesMouseDown:" : "DK 5/16/2017 10:32",
