@@ -1,3 +1,5 @@
 as yet unclassified
 adaptExtent
-	self extent: self label extent + (20@20).
+	| gap |
+	gap := self class Gap.
+	self extent: self label extent + (gap @ gap)

@@ -1,3 +1,5 @@
 as yet unclassified
-positionLabel 
-	self label position: self position + (self class Padding @ self class Padding)
+positionLabel
+	| padding |
+	padding := self class Padding.
+	self label position: self position + (padding @ padding)
