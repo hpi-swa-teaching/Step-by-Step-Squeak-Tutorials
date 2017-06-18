@@ -1,0 +1,17 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"story",
+		"prevButton",
+		"nextButton",
+		"skipButton" ],
+	"name" : "SBSNavigator",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

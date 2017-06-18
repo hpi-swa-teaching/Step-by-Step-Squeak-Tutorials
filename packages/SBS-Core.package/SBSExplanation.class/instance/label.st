@@ -1,4 +1,3 @@
 accessing
 label
-	
-	^ label
+	^	self stringMorph contents

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"withTitle:" : "Deeps 6/15/2017 23:32" },
+	"instance" : {
+		"addStep:" : "Deeps 6/18/2017 13:48",
+		"currentStep" : "Deeps 6/15/2017 23:31",
+		"currentStep:" : "Deeps 6/15/2017 23:31",
+		"endStory" : "Deeps 6/18/2017 12:17",
+		"initialize" : "Deeps 6/16/2017 00:21",
+		"isRunning" : "Deeps 6/16/2017 00:16",
+		"isRunning:" : "Deeps 6/16/2017 00:16",
+		"navigator" : "Deeps 6/15/2017 23:51",
+		"navigator:" : "Deeps 6/15/2017 23:51",
+		"nextStep" : "Deeps 6/18/2017 12:15",
+		"onEndBlock" : "Deeps 6/15/2017 23:31",
+		"onEndBlock:" : "Deeps 6/15/2017 23:31",
+		"onStartBlock" : "Deeps 6/15/2017 23:31",
+		"onStartBlock:" : "Deeps 6/15/2017 23:31",
+		"prevStep" : "Deeps 6/18/2017 12:16",
+		"showStep:" : "Deeps 6/16/2017 00:02",
+		"startStory" : "Deeps 6/18/2017 12:17",
+		"steps" : "Deeps 6/15/2017 23:31",
+		"steps:" : "Deeps 6/15/2017 23:32",
+		"title" : "Deeps 6/15/2017 23:31",
+		"title:" : "Deeps 6/15/2017 23:32" } }

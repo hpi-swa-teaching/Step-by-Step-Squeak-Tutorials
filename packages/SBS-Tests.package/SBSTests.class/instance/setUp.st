@@ -1,7 +1,3 @@
 as yet unclassified
 setUp 
-	self wantsToTest: (SBSExplanation
-						text: 'Hello'
-						color: Color red
-						background: Color black
-						atPosition: 20 @ 20).
+	self wantsToTest: ((SBSExplanation withText: 'This is a test string.' at: 200 @ 200) textColor: Color red; backgroundColor: Color black ).

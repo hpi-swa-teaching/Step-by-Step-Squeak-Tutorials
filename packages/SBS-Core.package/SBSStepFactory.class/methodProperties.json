@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"DefaultBackgroundAlpha" : "Deeps 6/18/2017 13:48",
+		"DefaultBackgroundColor" : "Deeps 6/18/2017 13:46",
+		"DefaultExplainationBackgroundColor" : "Deeps 6/18/2017 13:49",
+		"DefaultExplainationTextColor" : "Deeps 6/18/2017 13:49",
+		"makeStepForMorphSearchStartingAt:using:searchCriteria:" : "Deeps 6/18/2017 14:57",
+		"makeStepWithExplainationMessage:atPosition:" : "Deeps 6/18/2017 15:54" },
+	"instance" : {
+		 } }

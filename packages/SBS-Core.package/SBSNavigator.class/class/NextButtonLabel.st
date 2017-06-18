@@ -1,0 +1,3 @@
+constants
+NextButtonLabel
+	^	'Next'

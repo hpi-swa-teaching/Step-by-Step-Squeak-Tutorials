@@ -1,0 +1,20 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"steps",
+		"title",
+		"navigator",
+		"currentStep",
+		"onStartBlock",
+		"onEndBlock",
+		"isRunning" ],
+	"name" : "SBSStory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

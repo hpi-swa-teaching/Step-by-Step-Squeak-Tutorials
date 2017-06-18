@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"label" ],
+		"stringMorph",
+		"alignToMorph",
+		"highlightedMorph" ],
 	"name" : "SBSExplanation",
 	"pools" : [
 		 ],

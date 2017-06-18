@@ -1,0 +1,21 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"story",
+		"hightlightedMorph",
+		"morphFinder",
+		"onNextBlock",
+		"onPrevBlock",
+		"onEnterBlock",
+		"onLeaveBlock",
+		"explainations" ],
+	"name" : "SBSStep",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

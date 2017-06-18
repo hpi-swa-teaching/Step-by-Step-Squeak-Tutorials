@@ -1,0 +1,3 @@
+constants
+NavigatorHeight
+	^	100.

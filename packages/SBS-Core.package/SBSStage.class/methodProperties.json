@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"getSingleStage" : "Deeps 6/18/2017 17:05",
+		"singleStage" : "Deeps 6/18/2017 16:51",
+		"singleStage:" : "Deeps 6/18/2017 16:51" },
+	"instance" : {
+		"askForStoryChange:" : "Deeps 6/18/2017 17:13",
+		"changeStory:" : "Deeps 6/18/2017 17:08",
+		"currentStory" : "Deeps 6/18/2017 16:51",
+		"currentStory:" : "Deeps 6/18/2017 16:51",
+		"isAvailable" : "Deeps 6/18/2017 17:06",
+		"swapStory:" : "Deeps 6/18/2017 17:06" } }
