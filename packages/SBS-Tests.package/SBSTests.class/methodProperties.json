@@ -4,6 +4,5 @@
 	"instance" : {
 		"setUp" : "Deeps 6/18/2017 17:22",
 		"tearDown" : "Deeps 6/18/2017 17:19",
-		"testEventWhenClicked" : "DK 5/23/2017 12:12",
-		"testInitializeWithMorph" : "Deeps 6/18/2017 17:47",
+		"testInitializeWithMorph" : "DK 6/20/2017 23:00",
 		"testInitializeWithPosition" : "Deeps 6/18/2017 17:25" } }
