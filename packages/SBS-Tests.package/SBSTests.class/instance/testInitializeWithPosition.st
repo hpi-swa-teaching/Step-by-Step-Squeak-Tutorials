@@ -1,17 +1,8 @@
 as yet unclassified
 testInitializeWithPosition
-	| explanation testString testColor testBackground testPosition |
-	testString := 'This is a test string.'.
-	testColor := Color red.
-	testBackground := Color black.
-	testPosition := 200 @ 200.
-	explanation := SBSExplanation
-				text: testString
-				color: testColor
-				background: testBackground
-				atPosition: testPosition.
-	explanation openInWorld.
-	self assert: explanation label contents equals: testString;
-		 assert: explanation label color equals: testColor;
-		 assert: explanation color  equals: testBackground;
-		 assert: explanation position equals: testPosition
+	self setUp.
+	self subject openInWorld.
+	self assert: self subject label equals: 'This is a test string.';
+		 assert: self subject textColor equals: Color red;
+		 assert: self subject backgroundColor equals: Color black;
+		 assert: self subject position equals: 200@200

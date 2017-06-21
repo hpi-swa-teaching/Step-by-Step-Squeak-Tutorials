@@ -1,0 +1,3 @@
+constants
+PaddingLR
+	^	10.

@@ -1,3 +1,0 @@
-constants
-Padding
-	^ 10.

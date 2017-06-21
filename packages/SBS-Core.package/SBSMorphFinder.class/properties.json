@@ -1,0 +1,16 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rootMorph",
+		"searchType",
+		"searchCriteria" ],
+	"name" : "SBSMorphFinder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

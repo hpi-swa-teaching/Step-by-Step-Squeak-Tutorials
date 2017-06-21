@@ -1,3 +1,0 @@
-constants
-Gap
-	^ 20.

@@ -1,3 +1,3 @@
-as yet unclassified
-mouseUp: anEvenet
-	self abandon.
+event handling
+mouseUp: anEvent
+	self changed: #explanationClicked.

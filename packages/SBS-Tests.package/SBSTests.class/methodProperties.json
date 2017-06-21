@@ -2,10 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "DK 5/23/2017 14:38",
-		"tearDown" : "DK 5/23/2017 14:38",
-		"testDisappearAtClick" : "Deeps 6/4/2017 15:11",
-		"testEventWhenClicked" : "DK 5/23/2017 12:12",
-		"testHighlightSubmorphByLabel" : "EM 6/11/2017 16:04",
-		"testInitializeWithMorph" : "Deeps 6/4/2017 15:09",
-		"testInitializeWithPosition" : "DK 5/23/2017 14:35" } }
+		"setUp" : "Deeps 6/18/2017 17:22",
+		"tearDown" : "Deeps 6/18/2017 17:19",
+		"testHighlightSubmorphByLabel" : "EM 6/11/2017 17:05",
+		"testInitializeWithMorph" : "DK 6/20/2017 23:00",
+		"testInitializeWithPosition" : "Deeps 6/18/2017 17:25" } }

@@ -1,5 +1,7 @@
 as yet unclassified
 testHighlightSubmorphByLabel
-	| story |
-	story := Story newFor: Browser open do: [:container | (container findByLabel: 'implementors') color: (Color red)].
-	self assert: story container color hue equals: (Color red hue).
+	| story browser |
+	browser := Browser open.
+	self wantsToTest: browser myDependents first.
+	story := Story newFor: browser do: [:container | (container findByLabel: 'implementors') color: (Color red)]. "TODO: Figure out how to get the morph of a Browser"
+	self assert: (self subject findByLabel: 'implementors') color hue equals: (Color red) hue.

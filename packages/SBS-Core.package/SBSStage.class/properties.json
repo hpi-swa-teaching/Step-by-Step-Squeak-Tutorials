@@ -1,0 +1,14 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		"singleStage" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentStory" ],
+	"name" : "SBSStage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

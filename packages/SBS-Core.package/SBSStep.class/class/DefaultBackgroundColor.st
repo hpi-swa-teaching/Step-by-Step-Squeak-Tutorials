@@ -1,0 +1,3 @@
+constants
+DefaultBackgroundColor
+	^	Color black
