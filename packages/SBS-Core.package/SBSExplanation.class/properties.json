@@ -12,5 +12,5 @@
 	"name" : "SBSExplanation",
 	"pools" : [
 		 ],
-	"super" : "RectangleMorph",
+	"super" : "SBSBorderlessMorph",
 	"type" : "normal" }

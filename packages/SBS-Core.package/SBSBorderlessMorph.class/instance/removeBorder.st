@@ -1,3 +1,3 @@
-not yet classified
+as yet unclassified
 removeBorder
 	self borderWidth: 0.

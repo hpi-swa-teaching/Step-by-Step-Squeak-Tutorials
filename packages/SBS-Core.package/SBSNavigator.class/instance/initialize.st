@@ -6,7 +6,8 @@ initialize
 		color: (self class DefaultBackgroundColor alpha: self class DefaultBackgroundAlpha);
 		resistsRemoval: true;
 		sticky: true;
-		removeBorder;
-		initializeLayout;
+		initializeRootLayout;
+		initializeProgressBar;
+		initializeButtonLayout;
 		initializeNavigatorButtons;
 		makePermamentForeground.

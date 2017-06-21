@@ -4,5 +4,5 @@ initializeButtonForLabel: aString
 	button := (SimpleButtonMorph newWithLabel: aString)
 						hResizing: #spaceFill;
 						target: self.
-	self addMorphBack: button.
+	self buttonWrapper addMorphBack: button.
 	^	button.

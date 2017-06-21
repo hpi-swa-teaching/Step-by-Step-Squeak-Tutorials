@@ -6,14 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"story",
-		"prevButton",
-		"nextButton",
-		"skipButton",
-		"buttonWrapper",
-		"progressBar" ],
-	"name" : "SBSNavigator",
+		 ],
+	"name" : "SBSBorderlessMorph",
 	"pools" : [
 		 ],
-	"super" : "SBSBorderlessMorph",
+	"super" : "RectangleMorph",
 	"type" : "normal" }
