@@ -8,7 +8,10 @@ baseline: spec
 				baseline: 'Project12' with: [
 					spec loads: #('default'); repository: 'github://HPI-SWA-Teaching/Morphic-Testing-Framework:master/packages'];
 				
-				package: 'SBS-Core';
+				baseline: 'Widgets' with: [
+					spec loads: #('default'); repository: 'github://hpi-swa/widgets:master/repository'];
+				
+				package: 'SBS-Core' with: [spec requires: #('Widgets')];
 				package: 'SBS-Tests' with: [spec requires: #('default' 'Project12')];
 				yourself.
 			
