@@ -4,6 +4,6 @@
 	"instance" : {
 		"setUp" : "Deeps 6/18/2017 17:22",
 		"tearDown" : "Deeps 6/18/2017 17:19",
-		"testHighlightSubmorphByLabel" : "EM 6/11/2017 17:05",
+		"testEventWhenClicked" : "EM 6/21/2017 19:32",
 		"testInitializeWithMorph" : "DK 6/20/2017 23:00",
 		"testInitializeWithPosition" : "Deeps 6/18/2017 17:25" } }

@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "SBSTests",
+		"story" ],
+	"name" : "SBSStepTests",
 	"pools" : [
 		 ],
 	"super" : "MTFTestCase",

@@ -1,0 +1,4 @@
+constants
+DefaultEndPosition 
+
+	^World topLeft. 

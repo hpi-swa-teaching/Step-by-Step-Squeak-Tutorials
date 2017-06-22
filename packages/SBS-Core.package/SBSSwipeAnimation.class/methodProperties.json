@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"DefaultEndPosition" : "EM 6/22/2017 10:37",
+		"DefaultStartPosition" : "EM 6/22/2017 10:37",
+		"DefaultStartVector" : "EM 6/22/2017 10:31",
+		"DefaultVector" : "EM 6/22/2017 10:32",
+		"newWithDefault" : "EM 6/22/2017 10:17" },
+	"instance" : {
+		"doAnimation" : "EM 6/22/2017 10:29",
+		"endPosition" : "EM 6/21/2017 20:28",
+		"endPosition:" : "EM 6/21/2017 20:28",
+		"startAnimation:" : "EM 6/22/2017 10:01",
+		"startPosition" : "EM 6/21/2017 20:28",
+		"startPosition:" : "EM 6/21/2017 20:28" } }

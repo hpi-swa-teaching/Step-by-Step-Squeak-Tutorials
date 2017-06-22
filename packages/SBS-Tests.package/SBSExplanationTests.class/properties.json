@@ -1,14 +1,14 @@
 {
-	"category" : "SBS-Core",
+	"category" : "SBS-Tests",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"container" ],
-	"name" : "Story",
+		 ],
+	"name" : "SBSExplanationTests",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "MTFTestCase",
 	"type" : "normal" }

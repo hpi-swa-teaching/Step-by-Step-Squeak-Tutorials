@@ -13,7 +13,9 @@
 		"onPrevBlock",
 		"onEnterBlock",
 		"onLeaveBlock",
-		"explainations" ],
+		"explainations",
+		"animated",
+		"animation" ],
 	"name" : "SBSStep",
 	"pools" : [
 		 ],

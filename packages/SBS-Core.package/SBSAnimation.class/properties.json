@@ -6,15 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"steps",
-		"title",
-		"navigator",
-		"currentStep",
-		"onStartBlock",
-		"onEndBlock",
-		"isRunnin" ],
-	"name" : "SBSStory",
+		"morph",
+		"animationStarted" ],
+	"name" : "SBSAnimation",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "Morph",
 	"type" : "normal" }

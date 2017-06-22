@@ -1,14 +1,15 @@
 {
-	"category" : "SBS-Tests",
+	"category" : "SBS-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "SBSOverlayTest",
+		"startPosition",
+		"endPosition" ],
+	"name" : "SBSSwipeAnimation",
 	"pools" : [
 		 ],
-	"super" : "MTFTestCase",
+	"super" : "SBSAnimation",
 	"type" : "normal" }
