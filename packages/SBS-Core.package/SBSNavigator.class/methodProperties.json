@@ -1,13 +1,13 @@
 {
 	"class" : {
-		"DefaultBackgroundAlpha" : "Deeps 6/16/2017 00:14",
-		"DefaultBackgroundColor" : "Deeps 6/16/2017 00:14",
-		"LastNextButtonLabel" : "Deeps 6/18/2017 11:47",
-		"NavigatorHeight" : "Deeps 6/16/2017 00:03",
-		"NextButtonLabel" : "Deeps 6/18/2017 11:46",
-		"PrevButtonLabel" : "Deeps 6/18/2017 11:46",
-		"SkipButtonLabel" : "Deeps 6/18/2017 11:46",
-		"forStory:" : "Deeps 6/21/2017 16:35" },
+		"DefaultBackgroundAlpha" : "DK 6/26/2017 15:32",
+		"DefaultBackgroundColor" : "DK 6/26/2017 15:32",
+		"LastNextButtonLabel" : "DK 6/26/2017 15:32",
+		"NavigatorHeight" : "DK 6/26/2017 15:33",
+		"NextButtonLabel" : "DK 6/26/2017 15:33",
+		"PrevButtonLabel" : "DK 6/26/2017 15:33",
+		"SkipButtonLabel" : "DK 6/26/2017 15:33",
+		"forStory:" : "DK 6/26/2017 15:33" },
 	"instance" : {
 		"assignActionsToNavigationButtons" : "Deeps 6/18/2017 11:42",
 		"buttonWrapper" : "Deeps 6/21/2017 16:12",

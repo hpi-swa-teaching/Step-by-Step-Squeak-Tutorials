@@ -1,0 +1,3 @@
+constants
+PaddingTopBottom
+	^ 10

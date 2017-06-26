@@ -1,4 +1,3 @@
 private
 stringMorph
-	
 	^ stringMorph

@@ -1,5 +1,5 @@
 constructors
 forStory: aStory
-	^	self new
+	^ self new
 			story: aStory;
-			yourself.
+			yourself

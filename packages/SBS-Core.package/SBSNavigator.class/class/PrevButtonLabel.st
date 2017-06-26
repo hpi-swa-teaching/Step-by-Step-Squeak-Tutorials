@@ -1,3 +1,3 @@
 constants
 PrevButtonLabel
-	^	'Previous'
+	^ 'Previous'

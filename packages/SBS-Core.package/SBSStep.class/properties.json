@@ -7,15 +7,15 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"story",
-		"hightlightedMorph",
 		"morphFinder",
 		"onNextBlock",
 		"onPrevBlock",
 		"onEnterBlock",
 		"onLeaveBlock",
-		"explainations",
 		"animated",
-		"animation" ],
+		"animation",
+		"explanations",
+		"highlightedMorph" ],
 	"name" : "SBSStep",
 	"pools" : [
 		 ],

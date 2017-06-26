@@ -1,7 +1,7 @@
 constructors
 withText: aString at: aPoint
-	^	self new
+	^ self new
 			label: aString;
 			position: aPoint;
 			alignToMorph: false;
-			yourself.
+			yourself

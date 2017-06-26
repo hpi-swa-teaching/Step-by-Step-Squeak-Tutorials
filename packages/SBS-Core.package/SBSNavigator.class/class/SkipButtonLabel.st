@@ -1,3 +1,3 @@
 constants
 SkipButtonLabel
-	^	'Skip'
+	^ 'Skip'

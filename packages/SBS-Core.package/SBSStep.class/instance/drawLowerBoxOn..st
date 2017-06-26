@@ -1,3 +1,5 @@
 drawing
-drawLowerBoxOn: aCanvas
-	self drawBox: (self left @ self hightlightedMorph bottom corner: self bottomRight) on: aCanvas.
+drawLowerBoxOn: aCanvas 
+	self
+		drawBox: (self left @ self highlightedMorph bottom corner: self bottomRight)
+		on: aCanvas

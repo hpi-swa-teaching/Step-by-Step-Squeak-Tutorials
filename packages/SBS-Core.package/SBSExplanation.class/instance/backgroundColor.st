@@ -1,3 +1,3 @@
 accessing
 backgroundColor
-	^	self color.
+	^ self color

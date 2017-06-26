@@ -1,3 +1,5 @@
 drawing
-drawRightBoxOn: aCanvas
-	self drawBox: (self hightlightedMorph topRight corner: self right @ self hightlightedMorph bottom) on: aCanvas.
+drawRightBoxOn: aCanvas 
+	self
+		drawBox: (self highlightedMorph topRight corner: self right @ self highlightedMorph bottom)
+		on: aCanvas

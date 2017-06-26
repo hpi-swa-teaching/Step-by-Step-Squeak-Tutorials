@@ -1,0 +1,3 @@
+constants
+PaddingLeftRight
+	^ 10

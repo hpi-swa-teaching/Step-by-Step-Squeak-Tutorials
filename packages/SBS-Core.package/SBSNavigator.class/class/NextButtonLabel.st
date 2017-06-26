@@ -1,3 +1,3 @@
 constants
 NextButtonLabel
-	^	'Next'
+	^ 'Next'

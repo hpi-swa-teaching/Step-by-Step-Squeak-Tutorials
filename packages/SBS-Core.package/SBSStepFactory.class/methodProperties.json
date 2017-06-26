@@ -2,9 +2,9 @@
 	"class" : {
 		"DefaultBackgroundAlpha" : "Deeps 6/18/2017 13:48",
 		"DefaultBackgroundColor" : "Deeps 6/18/2017 13:46",
-		"DefaultExplainationBackgroundColor" : "Deeps 6/18/2017 13:49",
-		"DefaultExplainationTextColor" : "Deeps 6/18/2017 13:49",
+		"DefaultExplanationBackgroundColor" : "DK 6/26/2017 17:02",
+		"DefaultExplanationTextColor" : "DK 6/26/2017 17:02",
 		"makeStepForMorphSearchStartingAt:using:searchCriteria:" : "Deeps 6/18/2017 14:57",
-		"makeStepWithExplainationMessage:atPosition:" : "Deeps 6/18/2017 15:54" },
+		"makeStepWithExplanationMessage:atPosition:" : "DK 6/26/2017 17:03" },
 	"instance" : {
 		 } }

@@ -1,3 +1,5 @@
 drawing
-drawOn: aCanvas
-	self hightlightedMorph ifNil: [super drawOn: aCanvas.] ifNotNil: [self drawBackgroundOn: aCanvas.].
+drawOn: aCanvas 
+	self highlightedMorph
+		ifNil: [super drawOn: aCanvas]
+		ifNotNil: [self drawBackgroundOn: aCanvas]

@@ -1,4 +1,5 @@
 initialization
 initializeStringMorph
-	self stringMorph: StringMorph new.
-	self addMorphBack: self stringMorph.
+	self 
+		stringMorph: StringMorph new;
+		addMorphBack: self stringMorph.

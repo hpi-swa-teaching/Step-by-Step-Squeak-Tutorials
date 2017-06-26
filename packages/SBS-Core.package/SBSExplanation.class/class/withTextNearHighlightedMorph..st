@@ -1,6 +1,6 @@
 constructors
 withTextNearHighlightedMorph: aString
-	^	self new
+	^ self new
 			label: aString;
 			alignToMorph: true;
-			yourself.
+			yourself
