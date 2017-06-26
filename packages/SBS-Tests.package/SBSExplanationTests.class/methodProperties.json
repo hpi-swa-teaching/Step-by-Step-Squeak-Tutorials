@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "Deeps 6/18/2017 17:22",
-		"tearDown" : "Deeps 6/18/2017 17:19",
-		"testEventWhenClicked" : "EM 6/21/2017 19:32",
-		"testInitializeWithMorph" : "DK 6/20/2017 23:00",
-		"testInitializeWithPosition" : "Deeps 6/18/2017 17:25" } }
+		"setUp" : "DK 6/26/2017 21:24",
+		"tearDown" : "DK 6/26/2017 22:10",
+		"testEventWhenClicked" : "DK 6/26/2017 21:25",
+		"testInitializeWithMorph" : "DK 6/26/2017 22:11",
+		"testInitializeWithPosition" : "DK 6/26/2017 22:11" } }

@@ -1,4 +1,3 @@
 private
 buttonWrapper
-	
 	^ buttonWrapper

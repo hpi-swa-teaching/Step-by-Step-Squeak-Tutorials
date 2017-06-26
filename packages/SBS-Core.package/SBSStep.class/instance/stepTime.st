@@ -1,4 +1,3 @@
 as yet unclassified
 stepTime
-
-	^30.
+	^ 30

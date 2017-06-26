@@ -1,4 +1,3 @@
 constants
 DefaultVector
-
-	^(200 @ 0).
+	^ (200 @ 0)

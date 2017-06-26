@@ -1,4 +1,3 @@
 constants
 DefaultEndPosition 
-
-	^World topLeft. 
+	^ World topLeft

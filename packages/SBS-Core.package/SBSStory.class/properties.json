@@ -12,7 +12,8 @@
 		"currentStep",
 		"onStartBlock",
 		"onEndBlock",
-		"isRunnin" ],
+		"isRunnin",
+		"isRunning" ],
 	"name" : "SBSStory",
 	"pools" : [
 		 ],

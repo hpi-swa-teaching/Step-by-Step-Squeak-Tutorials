@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"getSingleStage" : "Deeps 6/18/2017 17:05",
-		"singleStage" : "Deeps 6/18/2017 16:51",
-		"singleStage:" : "Deeps 6/18/2017 16:51" },
+		"getSingleStage" : "DK 6/26/2017 21:59",
+		"singleStage" : "DK 6/26/2017 21:59",
+		"singleStage:" : "DK 6/26/2017 21:59" },
 	"instance" : {
-		"askForStoryChange:" : "Deeps 6/18/2017 17:13",
+		"askForStoryChange:" : "DK 6/26/2017 21:53",
 		"changeStory:" : "Deeps 6/18/2017 17:08",
-		"currentStory" : "Deeps 6/18/2017 16:51",
-		"currentStory:" : "Deeps 6/18/2017 16:51",
-		"isAvailable" : "Deeps 6/18/2017 17:06",
-		"swapStory:" : "Deeps 6/18/2017 17:06" } }
+		"currentStory" : "DK 6/26/2017 21:53",
+		"currentStory:" : "DK 6/26/2017 21:53",
+		"isAvailable" : "DK 6/26/2017 21:53",
+		"swapStory:" : "DK 6/26/2017 21:58" } }

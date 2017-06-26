@@ -1,4 +1,3 @@
 constants
 DefaultStartPosition
-
-	^(World right @ World top).
+	^ (World right @ World top)

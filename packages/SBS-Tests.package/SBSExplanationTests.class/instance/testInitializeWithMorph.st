@@ -9,4 +9,4 @@ testInitializeWithMorph
 	explanation openInWorld.
 	self assert: explanation position equals: rectangle center x - (self subject width / 2) @ (rectangle bottom + 20).
 	explanation abandon.
-	rectangle abandon
+	rectangle abandon.

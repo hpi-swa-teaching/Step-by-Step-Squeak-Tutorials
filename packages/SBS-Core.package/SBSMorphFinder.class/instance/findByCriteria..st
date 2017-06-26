@@ -1,3 +1,3 @@
 private
 findByCriteria: aMethodBlock
-	^	self rootMorph findDeepSubmorphThat: aMethodBlock ifAbsent: [nil].
+	^ self rootMorph findDeepSubmorphThat: aMethodBlock ifAbsent: [nil]

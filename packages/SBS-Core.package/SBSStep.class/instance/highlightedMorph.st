@@ -1,4 +1,3 @@
 accessing
 highlightedMorph
-	
 	^ highlightedMorph

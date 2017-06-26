@@ -7,4 +7,4 @@ find
 		[#name] -> [self findByName].
 		[#label] -> [self findByLabel].
 	}.
-	^	self searchType caseOf: cases.
+	^ self searchType caseOf: cases

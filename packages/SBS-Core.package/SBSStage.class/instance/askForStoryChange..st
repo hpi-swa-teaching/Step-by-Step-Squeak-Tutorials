@@ -1,5 +1,5 @@
 private
 askForStoryChange: aStory
-	^	UIManager getDefault
+	^ UIManager getDefault
 			confirm: 'Do you want to change to story ', aStory title, '?'
-			title: 'Change story'.
+			title: 'Change story'

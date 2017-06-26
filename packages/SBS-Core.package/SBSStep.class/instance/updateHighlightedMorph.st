@@ -5,4 +5,4 @@ updateHighlightedMorph
 	self morphFinder
 		ifNotNil: [self explanations
 				select: [:e | e alignToMorph]
-				thenDo: [:e | e highlightedMorph: self highlightedMorph]]
+				thenDo: [:e | e highlightedMorph: self highlightedMorph]].

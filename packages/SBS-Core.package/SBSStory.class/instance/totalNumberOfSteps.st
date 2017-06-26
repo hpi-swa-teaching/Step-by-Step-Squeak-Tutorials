@@ -1,3 +1,3 @@
 as yet unclassified
 totalNumberOfSteps
-	^	self steps size.
+	^ self steps size

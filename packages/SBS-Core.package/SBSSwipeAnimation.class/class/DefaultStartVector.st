@@ -1,4 +1,3 @@
 constants
 DefaultStartVector
-
-	^(60 @ 0).
+	^ (60 @ 0)

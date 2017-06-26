@@ -1,5 +1,5 @@
 constructors
 withTitle: aString
-	^	self new
+	^ self new
 			title: aString;
-			yourself.
+			yourself

@@ -1,14 +1,14 @@
 {
 	"class" : {
-		"DefaultEndPosition" : "EM 6/22/2017 10:37",
-		"DefaultStartPosition" : "EM 6/22/2017 10:37",
-		"DefaultStartVector" : "EM 6/22/2017 10:31",
-		"DefaultVector" : "EM 6/22/2017 10:32",
-		"newWithDefault" : "EM 6/22/2017 10:17" },
+		"DefaultEndPosition" : "DK 6/26/2017 21:35",
+		"DefaultStartPosition" : "DK 6/26/2017 21:35",
+		"DefaultStartVector" : "DK 6/26/2017 21:35",
+		"DefaultVector" : "DK 6/26/2017 21:35",
+		"newWithDefault" : "DK 6/26/2017 21:36" },
 	"instance" : {
-		"doAnimation" : "EM 6/22/2017 10:29",
-		"endPosition" : "EM 6/21/2017 20:28",
-		"endPosition:" : "EM 6/21/2017 20:28",
-		"startAnimation:" : "EM 6/22/2017 10:01",
-		"startPosition" : "EM 6/21/2017 20:28",
-		"startPosition:" : "EM 6/21/2017 20:28" } }
+		"doAnimation" : "DK 6/26/2017 21:34",
+		"endPosition" : "DK 6/26/2017 21:36",
+		"endPosition:" : "DK 6/26/2017 21:36",
+		"startAnimation:" : "DK 6/26/2017 21:37",
+		"startPosition" : "DK 6/26/2017 21:37",
+		"startPosition:" : "DK 6/26/2017 21:37" } }

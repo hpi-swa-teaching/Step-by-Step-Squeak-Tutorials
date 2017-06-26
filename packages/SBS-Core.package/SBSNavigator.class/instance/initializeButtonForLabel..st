@@ -5,4 +5,4 @@ initializeButtonForLabel: aString
 						hResizing: #spaceFill;
 						target: self.
 	self buttonWrapper addMorphBack: button.
-	^	button.
+	^ button

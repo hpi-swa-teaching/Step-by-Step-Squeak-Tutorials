@@ -1,4 +1,3 @@
 accessing
 morphFinder
-	
 	^ morphFinder

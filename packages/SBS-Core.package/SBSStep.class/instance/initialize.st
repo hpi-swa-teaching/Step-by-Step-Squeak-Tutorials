@@ -10,4 +10,4 @@ initialize
 		 makePermamentForeground;
 		 explanations: OrderedCollection new;
 		 openInWorld;
-		 hide
+		 hide.

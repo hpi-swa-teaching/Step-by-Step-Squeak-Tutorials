@@ -1,4 +1,3 @@
 accessing
 onLeaveBlock
-	
 	^ onLeaveBlock

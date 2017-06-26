@@ -1,4 +1,4 @@
 as yet unclassified
-tearDown 
+tearDown
 	super tearDown.
 	SBSExplanation allInstancesDo: [:x | x delete].
