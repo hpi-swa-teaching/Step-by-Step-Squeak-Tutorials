@@ -1,14 +1,17 @@
 {
 	"class" : {
-		"DefaultEndPosition" : "DK 6/26/2017 21:35",
-		"DefaultStartPosition" : "DK 6/26/2017 21:35",
-		"DefaultStartVector" : "DK 6/26/2017 21:35",
 		"DefaultVector" : "DK 6/26/2017 21:35",
-		"newWithDefault" : "DK 6/26/2017 21:36" },
+		"LeftPosition" : "EM 6/27/2017 11:36",
+		"RightPosition" : "EM 6/27/2017 11:37",
+		"newExitLeftToRightWithDuration:" : "EM 6/27/2017 12:19",
+		"newExitRightToLeftWithDuration:" : "EM 6/27/2017 12:11",
+		"newLeftToRightWithDuration:" : "EM 6/27/2017 11:36",
+		"newRightToLeftWithDuration:" : "EM 6/27/2017 11:37" },
 	"instance" : {
-		"doAnimation" : "DK 6/26/2017 21:34",
+		"computeMorphPosition" : "EM 6/27/2017 10:28",
+		"doAnimationStep" : "EM 6/27/2017 10:41",
 		"endPosition" : "DK 6/26/2017 21:36",
 		"endPosition:" : "DK 6/26/2017 21:36",
-		"startAnimation:" : "DK 6/26/2017 21:37",
+		"startAnimation:" : "EM 6/27/2017 10:39",
 		"startPosition" : "DK 6/26/2017 21:37",
 		"startPosition:" : "DK 6/26/2017 21:37" } }

@@ -1,4 +1,6 @@
 as yet unclassified
 exitStep
 	self onLeaveBlock ifNotNil: [self onLeaveBlock value].
-	self hide.
+	self exitAnimated 
+		ifTrue: [self exitAnimation startAnimation: self]
+		ifFalse: [self hide].

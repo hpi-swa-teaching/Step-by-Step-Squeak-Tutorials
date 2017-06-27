@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"newFadeInWithDuration:" : "EM 6/27/2017 11:51",
+		"newFadeOutWithDuration:" : "EM 6/27/2017 12:09" },
+	"instance" : {
+		"computeAlpha" : "EM 6/27/2017 11:50",
+		"doAnimationStep" : "EM 6/27/2017 11:43",
+		"endAlpha" : "EM 6/27/2017 11:45",
+		"endAlpha:" : "EM 6/27/2017 11:45",
+		"startAlpha" : "EM 6/27/2017 11:45",
+		"startAlpha:" : "EM 6/27/2017 11:45",
+		"startAnimation:" : "EM 6/27/2017 12:00" } }

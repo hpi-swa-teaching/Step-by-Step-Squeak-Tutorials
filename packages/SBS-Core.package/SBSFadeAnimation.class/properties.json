@@ -6,13 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"morph",
-		"animationStarted",
-		"duration",
-		"currentTime",
-		"onFinishBlock" ],
-	"name" : "SBSAnimation",
+		"startAlpha",
+		"endAlpha" ],
+	"name" : "SBSFadeAnimation",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "SBSAnimation",
 	"type" : "normal" }

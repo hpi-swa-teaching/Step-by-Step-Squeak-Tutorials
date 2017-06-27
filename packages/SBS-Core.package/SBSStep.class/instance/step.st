@@ -1,5 +1,4 @@
 as yet unclassified
 step
-	self animated 
-		ifTrue: [(self animation animationStarted)
-			ifTrue: [self animation doAnimation. self updateHighlightedMorph]].
+	self enterAnimated ifTrue: [self enterAnimation doAnimation. self updateHighlightedMorph].
+	self exitAnimated ifTrue: [self exitAnimation doAnimation. self updateHighlightedMorph].

@@ -3,8 +3,9 @@ initialize
 	super initialize.
 	self
 		color: (self class DefaultBackgroundColor alpha: self class DefaultBackgroundAlpha);
-		 animated: false;
 		 fitSizeToFullscreen;
+		enterAnimated: false;
+		exitAnimated: false;
 		 sticky: true;
 		 resistsRemoval: true;
 		 makePermamentForeground;
