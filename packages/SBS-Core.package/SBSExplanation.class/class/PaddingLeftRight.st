@@ -1,3 +1,3 @@
 constants
 PaddingLeftRight
-	^ 10
+	^ 20

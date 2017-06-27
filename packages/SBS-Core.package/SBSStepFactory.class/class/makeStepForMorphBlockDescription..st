@@ -1,5 +1,5 @@
 as yet unclassified
 makeStepForMorphBlockDescription: aMethodBlock
-	^	SBSStep new
+	^ SBSStep new
 			morphFinder: (SBSMorphFinder withBlock: aMethodBlock);
-			yourself.
+			yourself

@@ -18,7 +18,11 @@
 		"highlightedMorph",
 		"nextOnHighlightedMorphClick",
 		"nextOnExplanationClick",
-		"drawBackground" ],
+		"drawBackground",
+		"enterAnimated",
+		"enterAnimation",
+		"exitAnimated",
+		"exitAnimation" ],
 	"name" : "SBSStep",
 	"pools" : [
 		 ],

@@ -1,4 +1,3 @@
 accessing
 startAlpha
-	
 	^ startAlpha

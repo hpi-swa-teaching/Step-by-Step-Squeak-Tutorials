@@ -1,6 +1,5 @@
 as yet unclassified
 setCurrentTime 
-
 	| newTime |
 	newTime := self currentTime + self morph stepTime.
 	(newTime < self duration) 

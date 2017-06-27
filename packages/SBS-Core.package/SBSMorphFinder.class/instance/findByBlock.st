@@ -1,3 +1,3 @@
 as yet unclassified
 findByBlock
-	^	self block ifNil: [nil] ifNotNil: [self block value].
+	^ self block ifNil: [nil] ifNotNil: [self block value]

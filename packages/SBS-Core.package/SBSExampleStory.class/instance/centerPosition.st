@@ -1,3 +1,3 @@
 initialization
 centerPosition
-	^	Display fullBoundingBox center x @ 100
+	^ Display fullBoundingBox center x @ 100

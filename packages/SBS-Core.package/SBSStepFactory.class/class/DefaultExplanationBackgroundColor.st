@@ -1,3 +1,0 @@
-constants
-DefaultExplanationBackgroundColor
-	^ Color black

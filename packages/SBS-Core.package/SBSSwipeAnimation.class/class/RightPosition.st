@@ -1,4 +1,3 @@
 constants
 RightPosition
-
-	^ (World right @ 18).
+	^ (World right @ 18)

@@ -1,14 +1,10 @@
 {
 	"class" : {
-		"DefaultBackgroundAlpha" : "DK 6/26/2017 22:00",
-		"DefaultBackgroundColor" : "DK 6/26/2017 22:00",
-		"DefaultExplanationBackgroundColor" : "DK 6/26/2017 17:02",
-		"DefaultExplanationTextColor" : "DK 6/26/2017 17:02",
-		"makeStepForMorph:" : "Deeps 6/27/2017 17:04",
-		"makeStepForMorphBlockDescription:" : "Deeps 6/27/2017 18:17",
-		"makeStepForMorphSearchStartingAt:using:searchValue:" : "Deeps 6/27/2017 17:04",
-		"makeStepForMorphUsingCustomSearchStartingAt:searchCriteria:" : "Deeps 6/27/2017 17:09",
-		"makeStepWithExplanationMessage:atPosition:" : "DK 6/26/2017 17:03",
-		"makeStepWithExplanationMessage:center:" : "Deeps 6/26/2017 22:03" },
+		"makeStepForMorph:" : "DK 6/27/2017 23:17",
+		"makeStepForMorphBlockDescription:" : "DK 6/27/2017 23:17",
+		"makeStepForMorphSearchStartingAt:using:searchValue:" : "DK 6/27/2017 23:17",
+		"makeStepForMorphUsingCustomSearchStartingAt:searchCriteria:" : "DK 6/27/2017 23:17",
+		"makeStepWithExplanationMessage:atPosition:" : "DK 6/27/2017 23:06",
+		"makeStepWithExplanationMessage:center:" : "DK 6/27/2017 23:07" },
 	"instance" : {
 		 } }

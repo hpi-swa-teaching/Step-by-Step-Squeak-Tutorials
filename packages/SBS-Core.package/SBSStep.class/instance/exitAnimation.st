@@ -1,4 +1,3 @@
 accessing
 exitAnimation
-	
 	^ exitAnimation

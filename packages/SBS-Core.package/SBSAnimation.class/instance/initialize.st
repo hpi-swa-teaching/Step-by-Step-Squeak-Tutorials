@@ -1,6 +1,5 @@
 as yet unclassified
-initialize 
-	
+initialize
 	super initialize.
 	self 
 		currentTime: 0;

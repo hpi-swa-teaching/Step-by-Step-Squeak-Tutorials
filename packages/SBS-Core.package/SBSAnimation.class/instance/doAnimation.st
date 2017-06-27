@@ -1,7 +1,6 @@
 as yet unclassified
-doAnimation 
-
+doAnimation
 	self animationStarted ifTrue: [
 		(self currentTime >= self duration) ifTrue: [self stopAnimation].
 		self doAnimationStep.
-		self setCurrentTime.]
+		self setCurrentTime.].

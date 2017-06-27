@@ -1,6 +1,6 @@
 constructors
 withBlock: aMethodBlock
-	^	self new
+	^ self new
 			searchType: #block;
 			block: aMethodBlock;
-			yourself.
+			yourself

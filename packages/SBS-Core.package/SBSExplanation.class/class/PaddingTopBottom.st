@@ -1,3 +1,3 @@
 constants
 PaddingTopBottom
-	^ 10
+	^ 15

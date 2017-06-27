@@ -2,11 +2,14 @@ as yet unclassified
 testInitializeWithMorph
 	| rectangle explanation |
 	rectangle := RectangleMorph new.
-	rectangle position: 200 @ 200.
+	rectangle position: self class TestExplanationPosition.
 	rectangle openInWorld.
-	explanation := SBSExplanation withTextNearHighlightedMorph: 'This is a test string.'.
+	explanation := SBSExplanation withTextNearHighlightedMorph: self class TestExplanationText.
+	explanation alignType: #bottom.
 	explanation highlightedMorph: rectangle.
 	explanation openInWorld.
-	self assert: explanation position equals: rectangle center x - (self subject width / 2) @ (rectangle bottom + 20).
+	self 
+		assert: explanation center x equals: rectangle center x;
+		assert: explanation top equals: rectangle bottom + explanation class Margin.
 	explanation abandon.
 	rectangle abandon.

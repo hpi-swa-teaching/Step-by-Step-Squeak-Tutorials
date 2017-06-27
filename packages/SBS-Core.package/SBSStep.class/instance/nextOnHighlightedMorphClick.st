@@ -1,4 +1,3 @@
 accessing
 nextOnHighlightedMorphClick
-	
 	^ nextOnHighlightedMorphClick

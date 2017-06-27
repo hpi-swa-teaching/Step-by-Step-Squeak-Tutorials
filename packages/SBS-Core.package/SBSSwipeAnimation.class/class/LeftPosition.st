@@ -1,4 +1,3 @@
 constants
 LeftPosition
-
-	^ (World left @ 18).
+	^ (World left @ 18)

@@ -1,0 +1,3 @@
+constants
+DefaultTextColor
+	^ Color black

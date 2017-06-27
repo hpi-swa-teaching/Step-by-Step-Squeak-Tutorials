@@ -1,3 +1,0 @@
-constants
-DefaultExplanationTextColor
-	^ Color white

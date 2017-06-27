@@ -7,8 +7,8 @@ initializeButtonLayout
 		wrapDirection: #topToBottom;
 		listCentering: #topLeft;
 		wrapCentering: #center;
-		cellInset: 5@5;
+		cellInset: 5 @ 5;
 		hResizing: #spaceFill;
-		spaceFillWeight: 0.7;
+		spaceFillWeight: self class ButtonSpaceFillWeight;
 		color: Color transparent.
 	self addMorphBack: self buttonWrapper.

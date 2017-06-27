@@ -1,3 +1,3 @@
 constants
 DefaultAlignType
-	^	#auto.
+	^ #auto

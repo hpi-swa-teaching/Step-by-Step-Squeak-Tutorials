@@ -1,3 +1,3 @@
 initialization
 show
-	SBSStage getSingleStage changeStory: self story.
+	SBSStage singleStage changeStory: self story

@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"centerPosition" : "Deeps 6/26/2017 22:05",
+		"centerPosition" : "DK 6/27/2017 23:26",
 		"handleListenEvent:" : "Deeps 6/27/2017 19:33",
 		"handleStepFiveEvent:" : "Deeps 6/27/2017 19:12",
 		"hideAllMorphs" : "Deeps 6/26/2017 22:21",
@@ -10,7 +10,7 @@
 		"initializeFifthStep" : "Deeps 6/27/2017 19:33",
 		"initializeFirstStep" : "Deeps 6/27/2017 21:39",
 		"initializeFourthStep" : "Deeps 6/27/2017 17:35",
-		"initializeSecondStep" : "Deeps 6/27/2017 21:38",
+		"initializeSecondStep" : "DK 6/27/2017 23:27",
 		"initializeSixthStep" : "Deeps 6/27/2017 20:54",
 		"initializeSteps" : "Deeps 6/27/2017 18:21",
 		"initializeStory" : "Deeps 6/26/2017 22:16",
@@ -18,8 +18,8 @@
 		"onStoryEnd" : "Deeps 6/27/2017 18:36",
 		"onStoryStart" : "Deeps 6/27/2017 18:40",
 		"registerMouseListener" : "Deeps 6/27/2017 18:35",
-		"show" : "Deeps 6/26/2017 22:08",
+		"show" : "DK 6/27/2017 23:20",
 		"showAllMorphs" : "Deeps 6/26/2017 22:14",
-		"story" : "Deeps 6/26/2017 22:03",
-		"story:" : "Deeps 6/26/2017 22:03",
+		"story" : "DK 6/27/2017 23:27",
+		"story:" : "DK 6/27/2017 23:27",
 		"unregisterMouseListener" : "Deeps 6/27/2017 18:36" } }

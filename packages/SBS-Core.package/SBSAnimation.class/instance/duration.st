@@ -1,4 +1,3 @@
 accessing
 duration
-	
 	^ duration
