@@ -1,3 +1,4 @@
 accessing
-searchCriteria: anObject
-	searchCriteria := anObject.
+searchCriteria: aBlock
+	
+	searchCriteria := aBlock.

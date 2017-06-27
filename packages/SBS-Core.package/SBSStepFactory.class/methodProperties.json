@@ -4,7 +4,11 @@
 		"DefaultBackgroundColor" : "DK 6/26/2017 22:00",
 		"DefaultExplanationBackgroundColor" : "DK 6/26/2017 17:02",
 		"DefaultExplanationTextColor" : "DK 6/26/2017 17:02",
-		"makeStepForMorphSearchStartingAt:using:searchCriteria:" : "DK 6/26/2017 22:01",
-		"makeStepWithExplanationMessage:atPosition:" : "DK 6/26/2017 17:03" },
+		"makeStepForMorph:" : "Deeps 6/27/2017 17:04",
+		"makeStepForMorphBlockDescription:" : "Deeps 6/27/2017 18:17",
+		"makeStepForMorphSearchStartingAt:using:searchValue:" : "Deeps 6/27/2017 17:04",
+		"makeStepForMorphUsingCustomSearchStartingAt:searchCriteria:" : "Deeps 6/27/2017 17:09",
+		"makeStepWithExplanationMessage:atPosition:" : "DK 6/26/2017 17:03",
+		"makeStepWithExplanationMessage:center:" : "Deeps 6/26/2017 22:03" },
 	"instance" : {
 		 } }

@@ -1,12 +1,16 @@
 {
 	"class" : {
+		"DefaultAlignType" : "Deeps 6/27/2017 16:09",
 		"PaddingLeftRight" : "DK 6/26/2017 15:31",
 		"PaddingTopBottom" : "DK 6/26/2017 15:31",
 		"withText:at:" : "DK 6/26/2017 15:32",
+		"withText:atCenter:" : "Deeps 6/26/2017 22:03",
 		"withTextNearHighlightedMorph:" : "DK 6/26/2017 15:32" },
 	"instance" : {
 		"alignToMorph" : "DK 6/26/2017 15:26",
 		"alignToMorph:" : "DK 6/26/2017 15:26",
+		"alignType" : "Deeps 6/27/2017 16:09",
+		"alignType:" : "Deeps 6/27/2017 16:09",
 		"backgroundColor" : "DK 6/26/2017 15:26",
 		"backgroundColor:" : "DK 6/26/2017 15:26",
 		"basicHighlightedMorph:" : "DK 6/26/2017 15:26",
@@ -15,7 +19,7 @@
 		"handlesMouseUp:" : "DK 6/26/2017 15:27",
 		"highlightedMorph" : "DK 6/26/2017 15:27",
 		"highlightedMorph:" : "DK 6/26/2017 15:27",
-		"initialize" : "Deeps 6/21/2017 15:59",
+		"initialize" : "Deeps 6/27/2017 16:18",
 		"initializeStringMorph" : "DK 6/26/2017 15:28",
 		"label" : "DK 6/26/2017 15:28",
 		"label:" : "DK 6/26/2017 21:18",
@@ -25,4 +29,9 @@
 		"textColor" : "DK 6/26/2017 15:29",
 		"textColor:" : "Deeps 6/18/2017 15:28",
 		"updateBackgroundSize" : "DK 6/26/2017 15:29",
-		"updatePosition" : "DK 6/26/2017 15:29" } }
+		"updatePosition" : "Deeps 6/27/2017 16:28",
+		"updatePositionAuto" : "Deeps 6/27/2017 16:36",
+		"updatePositionBottom" : "Deeps 6/27/2017 16:28",
+		"updatePositionLeft" : "Deeps 6/27/2017 16:28",
+		"updatePositionRight" : "Deeps 6/27/2017 16:28",
+		"updatePositionTop" : "Deeps 6/27/2017 16:28" } }

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"centerPosition" : "Deeps 6/26/2017 22:05",
+		"handleListenEvent:" : "Deeps 6/27/2017 19:33",
+		"handleStepFiveEvent:" : "Deeps 6/27/2017 19:12",
+		"hideAllMorphs" : "Deeps 6/26/2017 22:21",
+		"initialize" : "Deeps 6/27/2017 18:38",
+		"initializeFifthStep" : "Deeps 6/27/2017 19:33",
+		"initializeFirstStep" : "Deeps 6/26/2017 22:08",
+		"initializeFourthStep" : "Deeps 6/27/2017 17:35",
+		"initializeSecondStep" : "Deeps 6/27/2017 16:53",
+		"initializeSixthStep" : "Deeps 6/27/2017 18:26",
+		"initializeSteps" : "Deeps 6/27/2017 18:21",
+		"initializeStory" : "Deeps 6/26/2017 22:16",
+		"initializeThirdStep" : "Deeps 6/27/2017 17:12",
+		"onStoryEnd" : "Deeps 6/27/2017 18:36",
+		"onStoryStart" : "Deeps 6/27/2017 18:40",
+		"registerMouseListener" : "Deeps 6/27/2017 18:35",
+		"show" : "Deeps 6/26/2017 22:08",
+		"showAllMorphs" : "Deeps 6/26/2017 22:14",
+		"story" : "Deeps 6/26/2017 22:03",
+		"story:" : "Deeps 6/26/2017 22:03",
+		"unregisterMouseListener" : "Deeps 6/27/2017 18:36" } }

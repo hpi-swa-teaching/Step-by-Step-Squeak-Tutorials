@@ -8,6 +8,7 @@
 	"instvars" : [
 		"stringMorph",
 		"alignToMorph",
+		"alignType",
 		"highlightedMorph" ],
 	"name" : "SBSExplanation",
 	"pools" : [

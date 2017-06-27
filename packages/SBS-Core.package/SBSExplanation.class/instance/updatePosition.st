@@ -1,5 +1,12 @@
 as yet unclassified
 updatePosition
-	self 
-		center: self highlightedMorph center;
-		top: self highlightedMorph bottom + 20.
+	| cases |
+	cases := {
+		[#auto]->[self updatePositionAuto.].
+		[#top]->[self updatePositionTop.].
+		[#right]->[self updatePositionRight.].
+		[#bottom]->[self updatePositionBottom.].
+		[#left]->[self updatePositionLeft.].
+	}.
+	self alignType caseOf: cases.
+	

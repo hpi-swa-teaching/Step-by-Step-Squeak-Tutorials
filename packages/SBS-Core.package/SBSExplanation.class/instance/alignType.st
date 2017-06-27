@@ -1,0 +1,4 @@
+accessing
+alignType
+	
+	^ alignType

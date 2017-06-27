@@ -1,4 +1,6 @@
 initialization
 initialize
 	super initialize.
-	self initializeStringMorph.
+	self 
+		initializeStringMorph;
+		alignType: self class DefaultAlignType.
