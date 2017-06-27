@@ -13,4 +13,4 @@ initialize
 		nextOnExplanationClick: false;
 		drawBackground: true;
 		openInWorld;
-		hide
+		hide.

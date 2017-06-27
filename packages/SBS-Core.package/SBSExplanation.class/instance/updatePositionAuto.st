@@ -8,5 +8,5 @@ updatePositionAuto
 		with: [self updatePositionLeft].
 	methods do: [ :m |
 		m value.
-		(World bounds containsRect: self bounds) ifTrue: [^	self].
+		(self owner bounds containsRect: self bounds) ifTrue: [^	self].
 	].   
