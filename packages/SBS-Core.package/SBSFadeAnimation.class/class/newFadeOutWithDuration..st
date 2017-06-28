@@ -1,8 +1,8 @@
 as yet unclassified
 newFadeOutWithDuration: aDuration
 	^ SBSFadeAnimation new 
-		startAlpha: 0.5; 
-		endAlpha: 0;
+		startAlpha: self defaultHighAlpha; 
+		endAlpha: self defaultLowAlpha ;
 		duration: aDuration; 
 		onFinishBlock: 
-			[:morph | morph hide.]
+			[:morph | morph hide.].

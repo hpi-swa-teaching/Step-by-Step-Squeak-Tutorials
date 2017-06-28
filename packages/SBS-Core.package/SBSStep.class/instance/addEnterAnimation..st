@@ -1,4 +1,4 @@
 drawing
 addEnterAnimation: anSBSAnimation
-	self enterAnimated:  true.
-	self enterAnimation: anSBSAnimation.
+	self enterAnimated:  true;
+		enterAnimation: anSBSAnimation.

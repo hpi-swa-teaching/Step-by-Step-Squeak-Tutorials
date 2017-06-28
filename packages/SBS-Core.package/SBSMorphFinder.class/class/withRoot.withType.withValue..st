@@ -4,4 +4,4 @@ withRoot: aMorph withType: aSymbol withValue: aString
 			rootMorph: aMorph;
 			searchType: aSymbol;
 			searchValue: aString;
-			yourself
+			yourself.

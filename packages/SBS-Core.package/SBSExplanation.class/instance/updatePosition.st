@@ -6,7 +6,7 @@ updatePosition
 		[#top]->[self updatePositionTop.].
 		[#right]->[self updatePositionRight.].
 		[#bottom]->[self updatePositionBottom.].
-		[#left]->[self updatePositionLeft.].
-	}.
+		[#left]->[self updatePositionLeft.].}.
+	
 	self alignType caseOf: cases.
 	

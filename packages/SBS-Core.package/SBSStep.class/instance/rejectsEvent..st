@@ -5,5 +5,5 @@ rejectsEvent: anEvent
 					and: [anEvent isMouseDown
 							and: [self highlightedMorph notNil
 									and: [self highlightedMorph visible
-										and: [self highlightedMorph containsPoint: anEvent cursorPoint]]]]])
-		or: [super rejectsEvent: anEvent]
+										and: [self highlightedMorph containsPoint: anEvent cursorPoint]]]]]) or:
+		[super rejectsEvent: anEvent]

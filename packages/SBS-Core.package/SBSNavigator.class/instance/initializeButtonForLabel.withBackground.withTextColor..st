@@ -1,11 +1,8 @@
 initialization
 initializeButtonForLabel: aString withBackground: aBackgroundColor withTextColor: aTextColor
 	| button |
-	button := (SimpleButtonMorph new)
-						label: aString font: self class DefaultFont;
-						hResizing: #spaceFill;
-						backgroundColor: aBackgroundColor;
-						cornerStyle: #rounded;
-						target: self.
+	button := self initializeButtonForLabel: aString.
+	button backgroundColor: aBackgroundColor;
+			textColor: aTextColor.
 	self buttonWrapper addMorphBack: button.
 	^ button

@@ -4,4 +4,4 @@ withRoot: aMorph withCustomCriteria: aMethodBlock
 			rootMorph: aMorph;
 			searchType: #custom;
 			searchCriteria: aMethodBlock;
-			yourself
+			yourself.

@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"makeStepForMorph:" : "DK 6/27/2017 23:17",
-		"makeStepForMorphBlockDescription:" : "DK 6/27/2017 23:17",
-		"makeStepForMorphSearchStartingAt:using:searchValue:" : "DK 6/27/2017 23:17",
-		"makeStepForMorphUsingCustomSearchStartingAt:searchCriteria:" : "DK 6/27/2017 23:17",
+		"makeStepForMorph:" : "pre 6/28/2017 10:54",
+		"makeStepForMorphBlockDescription:" : "pre 6/28/2017 10:55",
+		"makeStepForMorphSearchStartingAt:using:searchValue:" : "pre 6/28/2017 10:55",
+		"makeStepForMorphUsingCustomSearchStartingAt:searchCriteria:" : "pre 6/28/2017 10:55",
 		"makeStepWithExplanationMessage:atPosition:" : "DK 6/27/2017 23:06",
 		"makeStepWithExplanationMessage:center:" : "DK 6/27/2017 23:07" },
 	"instance" : {

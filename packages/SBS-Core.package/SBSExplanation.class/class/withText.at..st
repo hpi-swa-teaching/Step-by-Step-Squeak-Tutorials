@@ -4,4 +4,4 @@ withText: aString at: aPoint
 			label: aString;
 			position: aPoint;
 			alignToMorph: false;
-			yourself
+			yourself.

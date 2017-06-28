@@ -1,4 +1,4 @@
 as yet unclassified
 addExitAnimation: anSBSAnimation
-	self exitAnimated:  true.
-	self exitAnimation: anSBSAnimation.
+	self exitAnimated:  true;
+		exitAnimation: anSBSAnimation.

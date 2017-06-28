@@ -4,4 +4,4 @@ newExitRightToLeftWithDuration: aDuration
 		startPosition: self RightPosition;
 		endPosition: self LeftPosition;
 		duration: aDuration;
-		onFinishBlock: [:morph | morph hide]
+		onFinishBlock: [:morph | morph hide].

@@ -1,5 +1,5 @@
 as yet unclassified
 startAnimation: aMorph
-	self animationStarted: true.
-	self morph: aMorph.
-	self currentTime: 0.
+	self animationStarted: true;
+		morph: aMorph;
+		currentTime: 0.
