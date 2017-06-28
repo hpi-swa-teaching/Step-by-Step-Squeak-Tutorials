@@ -1,6 +1,5 @@
 as yet unclassified
-newFadeInWithDuration: aDuration
-	^ SBSFadeAnimation 
-		new startAlpha: 0; 
-		endAlpha: 0.5; 
-		duration: aDuration
+newFadeInWithDuration: aDuration 
+	^ SBSFadeAnimation new startAlpha: self class DefaultLowAlpha;
+		 endAlpha: self class DefaultHighAlpha;
+		 duration: aDuration
