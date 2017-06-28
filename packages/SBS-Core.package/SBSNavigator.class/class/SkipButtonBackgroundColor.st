@@ -1,0 +1,3 @@
+constants
+SkipButtonBackgroundColor
+	^ Color white

@@ -1,0 +1,3 @@
+constants
+PrevButtonBackgroundColor
+	^ Color white

@@ -1,0 +1,3 @@
+constants
+NextButtonBackgroundColor
+	^ Color blue
