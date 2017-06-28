@@ -1,0 +1,3 @@
+constants
+PrevButtonLabelColor
+	^ Color black

@@ -1,0 +1,3 @@
+constants
+NextButtonLabelColor
+	^ Color white
