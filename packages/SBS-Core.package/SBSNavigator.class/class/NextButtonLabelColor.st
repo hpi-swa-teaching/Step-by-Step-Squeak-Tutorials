@@ -1,3 +1,0 @@
-constants
-NextButtonLabelColor
-	^ Color white

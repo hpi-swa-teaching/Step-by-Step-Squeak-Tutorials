@@ -1,3 +1,0 @@
-constants
-ButtonColorWhite
-	^ Color white

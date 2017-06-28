@@ -1,3 +1,0 @@
-constants
-SkipButtonLabelColor
-	^ Color red
