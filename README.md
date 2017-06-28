@@ -3,7 +3,7 @@ Step-By-Step  [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/SWT17-Proj
 
 A simple package, offering an API for building step-based walkthroughs and intros in Squeak.
 
-##Current features:
+Current features:
 - text-based explanations
 - highlighting morphs (also submorphs like buttons)
 - automated explanation alignment
