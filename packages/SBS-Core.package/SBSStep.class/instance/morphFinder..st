@@ -1,3 +1,5 @@
 accessing
 morphFinder: aMorphFinder
-	morphFinder := aMorphFinder.
+	self 
+		basicMorphFinder: aMorphFinder;
+		registerHighlightedMorphSearchStep.

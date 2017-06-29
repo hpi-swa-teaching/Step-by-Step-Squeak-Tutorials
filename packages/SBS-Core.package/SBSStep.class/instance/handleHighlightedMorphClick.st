@@ -1,0 +1,4 @@
+accessing
+handleHighlightedMorphClick
+	
+	^ handleHighlightedMorphClick

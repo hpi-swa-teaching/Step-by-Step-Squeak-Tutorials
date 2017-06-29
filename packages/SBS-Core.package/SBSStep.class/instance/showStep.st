@@ -3,7 +3,8 @@ showStep
 	self onEnterBlock ifNotNil: [self onEnterBlock value].
 	self animated ifTrue: [self animation startAnimation: self].
 	self
-		updateHighlightedMorph;
-		registerMouseListener;
+		hideSystemWindowButtons;
+		registerMouseCaptureFilter;
+		updateNavigatorNext;
 		show.
 		

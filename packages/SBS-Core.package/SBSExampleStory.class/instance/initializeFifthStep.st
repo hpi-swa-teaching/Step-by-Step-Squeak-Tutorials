@@ -5,6 +5,7 @@ initializeFifthStep
 	subStep1 := 
 		(SBSStepFactory makeStepForMorphBlockDescription: [self story steps fourth highlightedMorph submorphs sixth])
 			addExplanation: explanation;
+			handleHighlightedMorphClick: [ :anEvent | self handleStepFiveEvent: anEvent];
 			onEnterBlock: [self story navigator hideNextButton];
 			onLeaveBlock: [self story navigator showNextButton].
 	subStep2 := 

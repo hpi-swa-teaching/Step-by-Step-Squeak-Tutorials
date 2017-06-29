@@ -12,5 +12,6 @@ initialize
 		nextOnHighlightedMorphClick: false;
 		nextOnExplanationClick: false;
 		drawBackground: true;
+		hideSystemWindowButtons: true;
 		openInWorld;
 		hide.
