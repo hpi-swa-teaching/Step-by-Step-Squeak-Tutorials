@@ -6,4 +6,5 @@ initializeSteps
 		initializeThirdStep;
 		initializeFourthStep;
 		initializeFifthStep;
-		initializeSixthStep.
+		initializeSixthStep;
+		initializeSeventhStep.

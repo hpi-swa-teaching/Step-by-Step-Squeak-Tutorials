@@ -1,5 +1,5 @@
 accessing
 handleStepFiveEvent: anEvent
-	(anEvent isMouseUp and: 
-		[anEvent whichButtonString = '( yellow )']) 
+	(anEvent isMouseDown and: 
+		[anEvent yellowButtonPressed]) 
 			ifTrue: [self story nextStep].

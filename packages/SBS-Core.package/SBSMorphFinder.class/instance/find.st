@@ -10,6 +10,6 @@ find
 		[#contents] -> [self findByContents].
 		[#custom] -> [self findByCriteria: self searchCriteria].
 		[#submorphindex] -> [self findBySubmorphIndex].
-		[#block] -> [self findByBlock].}.
-	
+		[#block] -> [self findByBlock].
+	}.
 	^ self searchType caseOf: cases

@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 delete
-	self story endStory.
+	self story ifNotNil: [self story endStory].
 	super delete.
