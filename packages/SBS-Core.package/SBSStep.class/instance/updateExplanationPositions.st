@@ -1,5 +1,5 @@
 as yet unclassified
 updateExplanationPositions
-	self highlightedMorph ifNotNil: [self explanations
+	self wasHighlightedMorphFound ifTrue: [self explanations
 		select: [:e | e alignToMorph]
-		thenDo: [:e | e highlightedMorph: self highlightedMorph]].
+		thenDo: [ :e | e updatePosition]].

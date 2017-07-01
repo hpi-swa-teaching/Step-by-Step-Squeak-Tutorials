@@ -1,0 +1,3 @@
+accessing
+highlightedMorph
+	^ highlightedMorph

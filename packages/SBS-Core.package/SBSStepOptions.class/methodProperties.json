@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"BackgroundAlpha" : "Deeps 7/1/2017 17:04",
+		"BackgroundColor" : "Deeps 7/1/2017 17:04",
+		"DrawBackground" : "Deeps 7/1/2017 17:04",
+		"HideNextButton" : "Deeps 7/1/2017 17:05",
+		"HideSystemButtons" : "Deeps 7/1/2017 17:05",
+		"ShowNextStepOnMorphClick" : "Deeps 7/1/2017 23:54" },
+	"instance" : {
+		"backgroundAlpha" : "Deeps 7/1/2017 17:01",
+		"backgroundAlpha:" : "Deeps 7/1/2017 17:02",
+		"backgroundColor" : "Deeps 7/1/2017 17:01",
+		"backgroundColor:" : "Deeps 7/1/2017 17:02",
+		"drawBackground" : "Deeps 7/1/2017 17:01",
+		"drawBackground:" : "Deeps 7/1/2017 17:02",
+		"hideNextButton" : "Deeps 7/1/2017 16:26",
+		"hideNextButton:" : "Deeps 7/1/2017 16:26",
+		"hideSystemButtons" : "Deeps 7/1/2017 15:49",
+		"hideSystemButtons:" : "Deeps 7/1/2017 15:50",
+		"initialize" : "Deeps 7/1/2017 17:07",
+		"showNextStepOnMorphClick" : "Deeps 7/1/2017 15:53",
+		"showNextStepOnMorphClick:" : "Deeps 7/1/2017 15:53" } }

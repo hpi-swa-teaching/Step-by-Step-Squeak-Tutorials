@@ -1,0 +1,3 @@
+initialization
+emptyListeners
+	self listenerExtension: SBSStepListenerExtension new.

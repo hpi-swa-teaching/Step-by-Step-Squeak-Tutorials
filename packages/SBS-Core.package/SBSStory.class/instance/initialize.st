@@ -2,6 +2,9 @@ initialization
 initialize
 	super initialize.
 	self
-		steps: OrderedCollection new;
-		navigator: (SBSNavigator forStory: self);
+		emptySteps;
+		initializeNavigator;
+		defaultOptions;
+		initializeTools;
+		initializeListenerExtension;
 		isRunning: false.

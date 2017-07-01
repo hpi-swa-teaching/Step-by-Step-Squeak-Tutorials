@@ -1,3 +1,3 @@
 constants
 Margin
-	^ 20
+	^ 100

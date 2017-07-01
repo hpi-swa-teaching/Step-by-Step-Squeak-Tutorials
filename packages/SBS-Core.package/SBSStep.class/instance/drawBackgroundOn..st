@@ -1,7 +1,7 @@
 drawing
 drawBackgroundOn: aCanvas
 	self 
-		drawUpperBoxOn: aCanvas;
+		drawTopBoxOn: aCanvas;
 		drawLeftBoxOn: aCanvas;
 		drawRightBoxOn: aCanvas;
-		drawLowerBoxOn: aCanvas.
+		drawBottomBoxOn: aCanvas.

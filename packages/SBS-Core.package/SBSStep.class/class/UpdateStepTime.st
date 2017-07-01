@@ -1,0 +1,3 @@
+constants
+UpdateStepTime
+	^ 50.

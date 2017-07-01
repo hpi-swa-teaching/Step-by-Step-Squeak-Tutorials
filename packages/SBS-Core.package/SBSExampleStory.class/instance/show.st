@@ -1,3 +1,6 @@
 initialization
 show
-	SBSStage singleStage changeStory: self story
+	self 
+		initializeStory;
+		initializeSteps.
+	SBSStage singleStage changeStory: self story.

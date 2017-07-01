@@ -1,0 +1,3 @@
+constants
+SearchStepTime 
+	^ 500.

@@ -10,7 +10,8 @@
 		"searchType",
 		"searchValue",
 		"searchCriteria",
-		"block" ],
+		"block",
+		"useDeepSearch" ],
 	"name" : "SBSMorphFinder",
 	"pools" : [
 		 ],

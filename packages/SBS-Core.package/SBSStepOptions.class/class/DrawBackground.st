@@ -1,0 +1,3 @@
+constants
+DrawBackground
+	^	true

@@ -1,0 +1,3 @@
+events-filtering-bubbling
+unregisterMouseBubbleFilter
+	self highlightedMorph removeMouseBubbleFilter: self bubbleEventHandler.

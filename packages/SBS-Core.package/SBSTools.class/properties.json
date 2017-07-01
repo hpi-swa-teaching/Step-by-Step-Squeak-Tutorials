@@ -1,0 +1,15 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"visibleSystemButtons",
+		"visibleMorphs" ],
+	"name" : "SBSTools",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
