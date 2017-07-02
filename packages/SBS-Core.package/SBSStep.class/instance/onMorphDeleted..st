@@ -1,4 +1,3 @@
-accessing
-onMorphDeleted: anObject
-	
-	onMorphDeleted := anObject.
+event handling
+onMorphDeleted: aBlockOrSelector
+	self listenerExtension onMorphDeleted: aBlockOrSelector.

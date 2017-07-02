@@ -1,7 +1,8 @@
 as yet unclassified
 startStory
-	(self isRunning or: [steps isEmpty]) ifTrue: [^ self].
+	(self isRunning or: [self steps isEmpty]) ifTrue: [^ self].
 	self isRunning: true.
-	self onStartBlock ifNotNil: [self onStartBlock value].
-	self navigator openInWorld.
+	self applyStartOptions.
+	self listenerExtension runOnStart.
 	self showStep: self steps first.
+	self navigator show.

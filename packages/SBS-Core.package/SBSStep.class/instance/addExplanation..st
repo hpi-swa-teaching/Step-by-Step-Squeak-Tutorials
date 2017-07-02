@@ -1,5 +1,4 @@
-as yet unclassified
-addExplanation: anExplanation 
-	anExplanation addDependent: self.
+convenience
+addExplanation: anExplanation
 	self explanations add: anExplanation.
-	self addMorph: anExplanation.
+	self addMorphFront: anExplanation.

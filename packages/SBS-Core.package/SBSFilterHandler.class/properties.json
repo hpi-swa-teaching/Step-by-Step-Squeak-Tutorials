@@ -1,0 +1,14 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBSFilterHandler",
+	"pools" : [
+		 ],
+	"super" : "SBSEventHandler",
+	"type" : "normal" }

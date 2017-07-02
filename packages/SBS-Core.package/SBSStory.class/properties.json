@@ -8,11 +8,13 @@
 	"instvars" : [
 		"steps",
 		"title",
-		"navigator",
 		"currentStep",
-		"onStartBlock",
-		"onEndBlock",
-		"isRunning" ],
+		"listenerExtension",
+		"isRunning",
+		"target",
+		"navigator",
+		"options",
+		"tools" ],
 	"name" : "SBSStory",
 	"pools" : [
 		 ],

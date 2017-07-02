@@ -1,3 +1,4 @@
-private
+accessing
 explanations: aCollection
+	
 	explanations := aCollection.

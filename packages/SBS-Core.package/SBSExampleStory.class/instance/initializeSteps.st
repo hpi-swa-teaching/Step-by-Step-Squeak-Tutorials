@@ -1,10 +1,11 @@
 initialization
 initializeSteps
-	self 
-		initializeFirstStep;
-		initializeSecondStep;
-		initializeThirdStep;
-		initializeFourthStep;
-		initializeFifthStep;
-		initializeSixthStep;
-		initializeSeventhStep.
+	self
+		initializeWelcomeStep;
+		initializeOpenWorldContextStep;
+		initializeSelectBrowserStep;
+		initializeBrowserOpenedStep;
+		initializeCategoryPaneStep;
+		initializeAddCategoryStep;
+		initializeEnterCategoryNameStep;
+		initializeShowCategoryNameStep.

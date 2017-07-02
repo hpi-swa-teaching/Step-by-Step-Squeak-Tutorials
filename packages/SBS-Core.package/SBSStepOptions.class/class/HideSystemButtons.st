@@ -1,0 +1,3 @@
+constants
+HideSystemButtons
+	^	false

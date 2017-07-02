@@ -1,0 +1,10 @@
+initialization
+initializeSteps
+	self 
+		initializeFirstStep;
+		initializeSecondStep;
+		initializeThirdStep;
+		initializeFourthStep;
+		initializeFifthStep;
+		initializeSixthStep;
+		initializeSeventhStep.

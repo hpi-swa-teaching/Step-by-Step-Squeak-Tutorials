@@ -2,12 +2,10 @@ initialization
 initialize
 	super initialize.
 	self 
-		fitSizeToFullscreen;
-		color: (self class DefaultBackgroundColor alpha: self class DefaultBackgroundAlpha);
 		resistsRemoval: true;
 		sticky: true;
+		height: self class NavigatorHeight;
 		initializeRootLayout;
 		initializeProgressBar;
 		initializeButtonLayout;
-		initializeNavigatorButtons;
-		makePermamentForeground.
+		initializeNavigatorButtons.

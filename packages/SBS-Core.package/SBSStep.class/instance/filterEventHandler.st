@@ -1,0 +1,4 @@
+accessing
+filterEventHandler
+	
+	^ filterEventHandler

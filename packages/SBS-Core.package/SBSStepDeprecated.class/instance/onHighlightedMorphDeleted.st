@@ -1,0 +1,3 @@
+events-processing
+onHighlightedMorphDeleted
+	self listenerExtension runOnMorphDeleted: self highlightedMorph.

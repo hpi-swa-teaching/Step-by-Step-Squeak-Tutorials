@@ -1,0 +1,4 @@
+accessing
+onMorphMouseEvent
+	
+	^ onMorphMouseEvent

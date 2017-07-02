@@ -1,0 +1,14 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBSBubbleHandler",
+	"pools" : [
+		 ],
+	"super" : "SBSEventHandler",
+	"type" : "normal" }

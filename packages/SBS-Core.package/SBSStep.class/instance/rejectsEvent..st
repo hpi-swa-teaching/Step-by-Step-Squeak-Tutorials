@@ -1,9 +1,4 @@
 events-processing
-rejectsEvent: anEvent 
-	^ (self visible
-			and: [anEvent isMouse
-					and: [anEvent isMouseDown
-							and: [self highlightedMorph notNil
-									and: [self highlightedMorph visible
-										and: [self highlightedMorph containsPoint: anEvent cursorPoint]]]]]) or:
-		[super rejectsEvent: anEvent]
+rejectsEvent: anEvent
+	^ (((self isEventInNavigator: anEvent) not) and: 
+			[self isEventInHighlightedMorph: anEvent]) or: [super rejectsEvent: anEvent]
