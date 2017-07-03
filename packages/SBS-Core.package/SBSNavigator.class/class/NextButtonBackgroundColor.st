@@ -1,3 +1,3 @@
 constants
 NextButtonBackgroundColor
-	^ (Color r: 0.3 g: 0.3 b: 0.95 ).
+	^ (Color r: 0.35 g: 0.55 b: 0.9 ).

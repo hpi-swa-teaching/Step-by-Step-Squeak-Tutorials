@@ -7,7 +7,7 @@ assignNavigatorToFirstExplanation
 		ifTrue: [first width: first class MinWidth.
 				first stringMorph center: first center.
 				first stringMorph top: first top + (first class PaddingTopBottom / 2)].
-	self navigator 
+	self navigator
 		width: first width;
 		top: first bottom - self navigator height;
 		left: first left.
