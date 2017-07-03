@@ -33,7 +33,7 @@
 		"initializeProgressBar" : "DK 6/28/2017 00:32",
 		"initializeRootLayout" : "dk 7/3/2017 01:04",
 		"isFirstStep:" : "Deeps 6/18/2017 16:38",
-		"isLastStep:" : "dk 7/3/2017 11:46",
+		"isLastStep:" : "dk 7/3/2017 13:27",
 		"nextButton" : "DK 6/26/2017 21:42",
 		"nextButton:" : "DK 6/26/2017 21:42",
 		"onNextClicked" : "Deeps 6/15/2017 23:55",
@@ -50,4 +50,5 @@
 		"skipButton:" : "DK 6/26/2017 21:43",
 		"story" : "DK 6/26/2017 21:43",
 		"story:" : "DK 6/26/2017 21:43",
+		"updateNextButtonLabel:" : "dk 7/3/2017 13:26",
 		"updateProgressBar" : "Deeps 6/21/2017 16:39" } }
