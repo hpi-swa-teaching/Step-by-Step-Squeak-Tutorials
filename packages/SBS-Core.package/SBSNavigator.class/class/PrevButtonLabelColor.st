@@ -1,3 +1,3 @@
 constants
 PrevButtonLabelColor
-	^ Color black
+	^ Color darkGray darker.

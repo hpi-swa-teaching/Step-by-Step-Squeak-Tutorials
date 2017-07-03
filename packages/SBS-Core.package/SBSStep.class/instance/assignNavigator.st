@@ -1,5 +1,5 @@
 accessing
 assignNavigator
-	self explanations isEmpty
-		ifTrue: [self assignNavigatorToSelf]
-		ifFalse: [self assignNavigatorToFirstExplanation].
+	self explanations
+		ifEmpty: [self assignNavigatorToSelf]
+		ifNotEmpty: [self assignNavigatorToFirstExplanation].
