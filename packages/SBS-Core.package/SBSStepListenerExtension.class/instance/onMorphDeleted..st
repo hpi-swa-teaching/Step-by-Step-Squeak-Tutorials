@@ -1,4 +1,3 @@
 accessing
-onMorphDeleted: aMorph
-	
-	onMorphDeleted := aMorph.
+onMorphDeleted: aBlockOrSymbol
+	onMorphDeleted := aBlockOrSymbol

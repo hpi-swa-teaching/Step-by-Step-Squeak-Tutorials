@@ -6,11 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"eventHappened",
-		"explanationClicked",
-		"highlightedMorphFound" ],
-	"name" : "TestListener",
+		"story" ],
+	"name" : "SBSStepFactoryTests",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "MTFTestCase",
 	"type" : "normal" }
