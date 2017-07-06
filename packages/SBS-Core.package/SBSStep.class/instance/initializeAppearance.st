@@ -3,7 +3,7 @@ initializeAppearance
 	self
 		updateBackgroundColor;
 		fitSizeToFullscreen;
-		makePermamentForeground;
+		makePermanentForeground;
 		sticky: true;
 		resistsRemoval: true;
 		openInWorld;

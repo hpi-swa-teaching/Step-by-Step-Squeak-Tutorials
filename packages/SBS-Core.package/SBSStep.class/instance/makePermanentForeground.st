@@ -1,3 +1,3 @@
-as yet unclassified
-makePermamentForeground
+initialization
+makePermanentForeground
 	self extension setProperty: #morphicLayerNumber toValue: 0.

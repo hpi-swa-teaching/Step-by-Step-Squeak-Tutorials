@@ -15,5 +15,5 @@
 	"name" : "SBSNavigator",
 	"pools" : [
 		 ],
-	"super" : "SBSBorderlessMorph",
+	"super" : "Morph",
 	"type" : "normal" }

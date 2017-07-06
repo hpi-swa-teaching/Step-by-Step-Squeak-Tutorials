@@ -19,5 +19,5 @@
 	"name" : "SBSStep",
 	"pools" : [
 		 ],
-	"super" : "SBSBorderlessMorph",
+	"super" : "Morph",
 	"type" : "normal" }
