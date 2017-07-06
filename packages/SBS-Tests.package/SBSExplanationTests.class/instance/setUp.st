@@ -1,4 +1,4 @@
-as yet unclassified
+explanationTests
 setUp
 	self wantsToTest: (
 		(SBSExplanation withText: self class TestExplanationText at: self class TestExplanationPosition) 

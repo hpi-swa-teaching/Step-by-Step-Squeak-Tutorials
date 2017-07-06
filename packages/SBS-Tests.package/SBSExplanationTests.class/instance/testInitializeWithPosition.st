@@ -1,4 +1,4 @@
-as yet unclassified
+explanationTests
 testInitializeWithPosition
 	self
 		assert: self subject label equals: self class TestExplanationText;

@@ -1,9 +1,9 @@
-as yet unclassified
+explanationTests
 testEventWhenClicked 
 	| listener |
-	listener := TestListener new.
-	listener explanationClicked: false.
+	listener := TestListener new
+						explanationClicked: false;
+						yourself.
 	self subject morphs first addDependent: listener.
-	self 
-		subject click;
-		assert: listener explanationClicked.
+	self subject click.
+	self assert: listener explanationClicked.

@@ -1,13 +1,6 @@
 accessing
 assignNavigatorToFirstExplanation
-	| first |
-	first := self explanations first.
-	first addMorph: self navigator.
-	(first width < first class MinWidth)
-		ifTrue: [first width: first class MinWidth.
-				first stringMorph center: first center.
-				first stringMorph top: first top + (first class PaddingTopBottom / 2)].
-	self navigator
-		width: first width;
-		top: first bottom - self navigator height;
-		left: first left.
+	self explanations first addMorph: self navigator.
+	self navigator width: self explanations first width;
+			left: self explanations first left;
+			top: self explanations first bottom - self navigator height.

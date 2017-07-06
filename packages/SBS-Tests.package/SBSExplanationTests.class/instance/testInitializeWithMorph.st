@@ -1,4 +1,4 @@
-as yet unclassified
+explanationTests
 testInitializeWithMorph
 	| rectangle explanation |
 	rectangle := RectangleMorph new.
