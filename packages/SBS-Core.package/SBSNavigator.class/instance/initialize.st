@@ -4,9 +4,9 @@ initialize
 	self 
 		resistsRemoval: true;
 		sticky: true;
+		height: self class NavigatorHeight;
 		color: self class DefaultBackgroundColor;
 		cornerStyle: #rounded;
-		height: self class NavigatorHeight;
 		initializeRootLayout;
 		initializeProgressBar;
 		initializeButtonLayout;

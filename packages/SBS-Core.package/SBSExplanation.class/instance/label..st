@@ -1,4 +1,4 @@
 accessing
-label: aString
-	self stringMorph contents: aString.
+label: aText
+	self textMorph contents: aText.
 	self updateBackgroundSize.

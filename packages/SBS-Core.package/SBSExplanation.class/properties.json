@@ -6,10 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"stringMorph",
 		"alignToMorph",
 		"alignType",
-		"highlightedMorph" ],
+		"highlightedMorph",
+		"textMorph" ],
 	"name" : "SBSExplanation",
 	"pools" : [
 		 ],

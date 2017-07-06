@@ -4,5 +4,5 @@ initialize
 	self 
 		cornerStyle: #rounded;
 		backgroundColor: self class DefaultBackgroundColor;
-		initializeStringMorph;
+		initializeTextMorph;
 		alignType: self class DefaultAlignType.

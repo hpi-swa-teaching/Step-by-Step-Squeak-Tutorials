@@ -2,8 +2,7 @@
 	"class" : {
 		"ButtonColorWhite" : "DK 6/28/2017 10:20",
 		"ButtonSpaceFillWeight" : "DK 6/27/2017 23:37",
-		"DefaultBackgroundAlpha" : "DK 6/26/2017 15:32",
-		"DefaultBackgroundColor" : "dk 7/3/2017 11:00",
+		"DefaultBackgroundColor" : "dk 7/6/2017 18:50",
 		"DefaultFont" : "DK 6/28/2017 00:01",
 		"LastNextButtonLabel" : "DK 6/26/2017 15:32",
 		"NavigatorHeight" : "dk 7/3/2017 00:52",
@@ -26,7 +25,7 @@
 		"hideNextButton" : "Deeps 6/18/2017 11:43",
 		"hidePrevButton" : "Deeps 6/18/2017 11:43",
 		"hideSkipButton" : "Deeps 6/18/2017 11:43",
-		"initialize" : "dk 7/3/2017 11:01",
+		"initialize" : "dk 7/6/2017 18:50",
 		"initializeButtonForLabel:withBackground:withTextColor:withBorderColor:" : "dk 7/2/2017 23:18",
 		"initializeButtonLayout" : "dk 7/3/2017 01:07",
 		"initializeNavigatorButtons" : "dk 7/2/2017 23:30",

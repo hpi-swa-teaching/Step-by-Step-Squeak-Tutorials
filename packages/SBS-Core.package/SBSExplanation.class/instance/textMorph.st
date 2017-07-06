@@ -1,0 +1,3 @@
+private
+textMorph
+	^ textMorph

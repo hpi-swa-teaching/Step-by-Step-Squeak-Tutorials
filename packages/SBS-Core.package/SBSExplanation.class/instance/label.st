@@ -1,3 +1,3 @@
 accessing
 label
-	^ self stringMorph contents
+	^ self textMorph contents

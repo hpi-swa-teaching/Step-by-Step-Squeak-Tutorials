@@ -1,3 +1,3 @@
 accessing
 textColor: aColor
-	self stringMorph color: aColor.
+	self textMorph color: aColor.
