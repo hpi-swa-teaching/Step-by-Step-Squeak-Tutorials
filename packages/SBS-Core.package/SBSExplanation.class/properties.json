@@ -9,7 +9,8 @@
 		"alignToMorph",
 		"alignType",
 		"highlightedMorph",
-		"textMorph" ],
+		"textMorph",
+		"maxWidth" ],
 	"name" : "SBSExplanation",
 	"pools" : [
 		 ],

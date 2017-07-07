@@ -24,10 +24,12 @@
 		"handlesMouseDown:" : "DK 6/26/2017 15:27",
 		"highlightedMorph" : "DK 6/26/2017 15:27",
 		"highlightedMorph:" : "DK 6/26/2017 15:27",
-		"initialize" : "dk 7/6/2017 18:20",
+		"initialize" : "dk 7/7/2017 11:27",
 		"initializeTextMorph" : "dk 7/6/2017 18:39",
 		"label" : "dk 7/6/2017 18:16",
 		"label:" : "dk 7/6/2017 18:41",
+		"maxWidth" : "dk 7/7/2017 11:25",
+		"maxWidth:" : "dk 7/7/2017 11:26",
 		"mouseUp:" : "Deeps 6/18/2017 16:04",
 		"textColor" : "dk 7/6/2017 18:16",
 		"textColor:" : "dk 7/6/2017 18:16",
@@ -41,4 +43,4 @@
 		"updatePositionLeft" : "DK 6/27/2017 22:46",
 		"updatePositionRight" : "DK 6/27/2017 22:46",
 		"updatePositionTop" : "DK 6/27/2017 22:46",
-		"updateTextMorphWidth" : "dk 7/6/2017 18:46" } }
+		"updateTextMorphWidth" : "dk 7/7/2017 11:26" } }
