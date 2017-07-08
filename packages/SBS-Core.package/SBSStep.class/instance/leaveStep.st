@@ -4,5 +4,7 @@ leaveStep
 	self wasHighlightedMorphFound ifTrue: [ self unregisterMouseBubbleFilter].
 	self
 		unregisterEventCaptureFilter;
+		stopSearchStepping;
+		stopDeleteStepping;
 		applyExitOptions;
 		hide.

@@ -2,10 +2,17 @@ initialization
 initializeSteps
 	self
 		initializeWelcomeStep;
-		initializeOpenWorldContextStep;
+		initializeOpenBrowserStep;
 		initializeSelectBrowserStep;
 		initializeBrowserOpenedStep;
-		initializeCategoryPaneStep;
+		initializePackagePaneStep;
+		initializeAddPackageStep;
+		initializeEnterPackageNameStep;
+		initializeShowPackageNameStep;
+		initializeCodePaneStep;
+		initializeHighlightCategoryPaneStep;
+		initializeMethodStep;
+		initializeOpenCategoryContextStep;
 		initializeAddCategoryStep;
 		initializeEnterCategoryNameStep;
-		initializeShowCategoryNameStep.
+		initializeCompletedStep.

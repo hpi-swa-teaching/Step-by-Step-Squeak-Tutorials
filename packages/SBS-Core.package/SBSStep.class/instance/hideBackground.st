@@ -1,3 +1,3 @@
 convenience
 hideBackground
-	self options drawBackground: false.
+	self color: Color transparent.

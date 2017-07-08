@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"filterKeyboardEvent:for:" : "Deeps 7/1/2017 22:31",
-		"filterMouseEvent:for:" : "Deeps 7/2/2017 00:15",
-		"handleGlobalKeyevent:" : "Deeps 7/1/2017 22:45" } }
+		"filterKeyboardEvent:for:" : "Deeps 7/8/2017 15:44",
+		"filterMouseEvent:for:" : "Deeps 7/8/2017 16:15",
+		"handleGlobalKeyEvent:" : "Deeps 7/8/2017 17:22",
+		"rightMouseButtonAllowed:" : "Deeps 7/8/2017 16:27" } }

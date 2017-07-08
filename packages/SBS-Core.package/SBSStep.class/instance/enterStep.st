@@ -1,5 +1,6 @@
 as yet unclassified
 enterStep
+	self resetHighlightedMorph.
 	self listenerExtension runOnEnter.
 	self
 		registerEventCaptureFilter;

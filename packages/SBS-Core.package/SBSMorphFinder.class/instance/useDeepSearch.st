@@ -1,4 +1,3 @@
 accessing
 useDeepSearch
-	
-	^ useDeepSearch
+	self useDeepSearch: true.

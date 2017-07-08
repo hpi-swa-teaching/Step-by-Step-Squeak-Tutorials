@@ -11,7 +11,8 @@
 		"hideNextButton",
 		"drawBackground",
 		"backgroundColor",
-		"backgroundAlpha" ],
+		"backgroundAlpha",
+		"blockRightMouseClick" ],
 	"name" : "SBSStepOptions",
 	"pools" : [
 		 ],

@@ -1,0 +1,3 @@
+constants
+BlockRightMouseClick
+	^ false

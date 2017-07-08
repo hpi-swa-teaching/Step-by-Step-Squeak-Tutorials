@@ -7,7 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"story",
-		"categoryNameExplanation" ],
+		"browser",
+		"codePane",
+		"packageNameExplanation" ],
 	"name" : "SBSExampleStory",
 	"pools" : [
 		 ],

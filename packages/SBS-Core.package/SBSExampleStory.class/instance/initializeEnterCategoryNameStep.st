@@ -1,8 +1,10 @@
 initialization
 initializeEnterCategoryNameStep
+	
 	self story addStep:
-		((SBSStepFactory makeStepForMorphSearchStartingAt: World using: #class searchValue: FillInTheBlankMorph)
-		addExplanation: (SBSExplanation withTextNearHighlightedMorph: 'Go ahead and enter a name for your category, e.g. ''CoolCategory''. Next, press Confirm.');
+		((SBSStepFactory makeStepForMorphSearchStartingAt: World using: #class searchValue: PluggableDialogWindow)
+		addExplanation: (SBSExplanation withTextNearHighlightedMorph: 'The initialize method typically goes into the ''initialize-release'' category. Enter this name, the hit Accept.');
 		onMorphFound: #onCategoryNameDialogFound:;
 		onMorphDeleted: #onCategoryNameDialogClosed:;
+		hideBackground;
 		hideNextButton).

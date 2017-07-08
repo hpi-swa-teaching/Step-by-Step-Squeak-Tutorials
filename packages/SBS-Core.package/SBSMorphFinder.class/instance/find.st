@@ -12,4 +12,5 @@ find
 		[#submorphindex] -> [self findBySubmorphIndex].
 		[#block] -> [self findByBlock].
 	}.
+	self considerHierarchy.
 	^ self searchType caseOf: cases
