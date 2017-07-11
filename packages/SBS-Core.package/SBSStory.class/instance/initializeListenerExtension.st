@@ -1,3 +1,0 @@
-initialization
-initializeListenerExtension
-	self listenerExtension: SBSStoryListenerExtension new.

@@ -4,4 +4,5 @@ addStep: aStep
 		story: self;
 		navigator: self navigator;
 		eventTarget: self target.
+	self addAnimationsTo: aStep.
 	self steps add: aStep.

@@ -15,7 +15,8 @@
 		"navigator",
 		"tools",
 		"filterEventHandler",
-		"bubbleEventHandler" ],
+		"bubbleEventHandler",
+		"animationExtension" ],
 	"name" : "SBSStep",
 	"pools" : [
 		 ],

@@ -6,5 +6,5 @@ initialize
 		initializeNavigator;
 		defaultOptions;
 		initializeTools;
-		initializeListenerExtension;
+		emptyListeners;
 		isRunning: false.

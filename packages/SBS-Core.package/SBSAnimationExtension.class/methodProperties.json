@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addEnterAnimation:" : "EM 7/11/2017 16:44",
+		"addExitAnimation:" : "EM 7/11/2017 16:43",
+		"doAnimation:" : "EM 7/11/2017 16:47",
+		"enterAnimated" : "EM 7/11/2017 16:43",
+		"enterAnimated:" : "EM 7/11/2017 16:43",
+		"enterAnimation" : "EM 7/11/2017 16:43",
+		"enterAnimation:" : "EM 7/11/2017 16:43",
+		"exitAnimated" : "EM 7/11/2017 16:43",
+		"exitAnimated:" : "EM 7/11/2017 16:43",
+		"exitAnimation" : "EM 7/11/2017 16:43",
+		"exitAnimation:" : "EM 7/11/2017 16:43",
+		"initialize" : "EM 7/11/2017 17:02",
+		"startEnterAnimation:Then:" : "EM 7/11/2017 17:06",
+		"startExitAnimation:Then:" : "EM 7/11/2017 17:06" } }
