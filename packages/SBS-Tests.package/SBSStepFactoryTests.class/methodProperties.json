@@ -4,14 +4,10 @@
 		"TestExplanationPosition" : "DK 6/29/2017 00:22",
 		"TestString" : "dk 6/29/2017 11:13" },
 	"instance" : {
-		"addStep:andAbandon:" : "dk 7/12/2017 12:00",
-		"setUp" : "dk 7/1/2017 18:42",
-		"story" : "dk 7/1/2017 18:43",
-		"story:" : "dk 7/1/2017 18:43",
-		"tearDown" : "dk 7/1/2017 18:43",
-		"testMakeStepForMorph" : "dk 7/12/2017 12:00",
-		"testMakeStepForMorphSearchUsingContents" : "dk 7/12/2017 12:05",
-		"testMakeStepForMorphSearchUsingKnownName" : "dk 7/12/2017 12:09",
-		"testMakeStepForMorphSearchUsingLabel" : "dk 7/12/2017 12:08",
-		"testMakeStepForMorphSearchUsingName" : "dk 7/12/2017 12:10",
-		"testMakeStepWithExplanationMessageAtPosition" : "dk 7/1/2017 18:45" } }
+		"tearDown" : "dk 7/12/2017 19:31",
+		"testMakeStepForMorph" : "dk 7/12/2017 19:30",
+		"testMakeStepForMorphSearchUsingContents" : "dk 7/12/2017 18:42",
+		"testMakeStepForMorphSearchUsingKnownName" : "dk 7/12/2017 19:58",
+		"testMakeStepForMorphSearchUsingLabel" : "dk 7/12/2017 19:58",
+		"testMakeStepForMorphSearchUsingName" : "dk 7/12/2017 19:59",
+		"testMakeStepWithExplanationMessageAtPosition" : "dk 7/12/2017 18:33" } }

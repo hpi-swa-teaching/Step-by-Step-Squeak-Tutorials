@@ -1,6 +1,6 @@
 explanationTests
 testMinWidth
 	self subject
-			minWidth: 400;
-			label: 'Hi'.
-	self assert: self subject width equals: 400. 
+			minWidth: self class TestExplanationWidth;
+			label: self class TestExplanationTextShort.
+	self assert: self subject width equals: self class TestExplanationWidth. 

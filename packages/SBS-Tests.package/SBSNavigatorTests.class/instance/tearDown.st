@@ -1,6 +1,8 @@
 as yet unclassified
 tearDown 
-	self story notNil ifTrue: [self story endStory].
+	super tearDown.
+	self story isRunning ifTrue: [self story endStory].
+	self story: nil.
 	SBSStage reset.
-	SBSStep allInstancesDo: [ :s | s delete. s abandon. ].
+	SBSStep allInstancesDo: [ :s | s delete. s abandon.].
 	Smalltalk garbageCollect.

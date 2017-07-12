@@ -3,12 +3,15 @@
 		"TestExplanationBackgroundColor" : "DK 6/27/2017 22:07",
 		"TestExplanationPosition" : "DK 6/27/2017 22:04",
 		"TestExplanationText" : "DK 6/27/2017 22:04",
-		"TestExplanationTextColor" : "DK 6/27/2017 22:06" },
+		"TestExplanationTextColor" : "DK 6/27/2017 22:06",
+		"TestExplanationTextLong" : "dk 7/12/2017 19:30",
+		"TestExplanationTextShort" : "dk 7/12/2017 19:20",
+		"TestExplanationWidth" : "dk 7/12/2017 19:21" },
 	"instance" : {
 		"setUp" : "DK 6/27/2017 22:09",
 		"tearDown" : "DK 6/26/2017 22:10",
 		"testEventWhenClicked" : "dk 7/3/2017 17:22",
 		"testInitializeWithMorph" : "DK 6/27/2017 23:50",
 		"testInitializeWithPosition" : "DK 6/27/2017 22:16",
-		"testMaxWidth" : "dk 7/12/2017 12:05",
-		"testMinWidth" : "dk 7/12/2017 12:04" } }
+		"testMaxWidth" : "dk 7/12/2017 19:21",
+		"testMinWidth" : "dk 7/12/2017 19:21" } }

@@ -4,4 +4,4 @@ testMakeStepForMorph
 	rect := RectangleMorph new openInWorld.
 	step := (SBSStepFactory makeStepForMorph: rect).
 	step onMorphFound: [ : m | self assert: m equals: rect.].
-	self addStep: step andAbandon: rect.
+	rect abandon.

@@ -1,6 +1,4 @@
 as yet unclassified
 setUp
-	| story |
-	story := SBSStory withTitle: ''.
-	story addStep: self class TestStep.
-	self wantsToTest: story.
+	self story: (SBSStory withTitle: 'Test').
+	self story addStep: self class TestStep.
