@@ -2,10 +2,10 @@
 	"class" : {
 		"TestStep" : "dk 6/29/2017 10:47" },
 	"instance" : {
-		"setUp" : "dk 7/12/2017 21:45",
+		"setUp" : "dk 6/30/2017 14:31",
 		"story" : "dk 6/30/2017 14:29",
 		"story:" : "dk 6/30/2017 14:28",
-		"tearDown" : "dk 7/12/2017 20:06",
+		"tearDown" : "dk 6/30/2017 14:52",
 		"testEndButton" : "dk 6/30/2017 14:27",
 		"testNextButton" : "dk 6/30/2017 14:26",
 		"testPrevButton" : "dk 6/30/2017 14:27",

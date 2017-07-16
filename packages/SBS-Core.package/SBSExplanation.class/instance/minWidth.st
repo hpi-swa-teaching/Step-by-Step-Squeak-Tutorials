@@ -1,3 +1,0 @@
-accessing
-minWidth
-	^ minWidth

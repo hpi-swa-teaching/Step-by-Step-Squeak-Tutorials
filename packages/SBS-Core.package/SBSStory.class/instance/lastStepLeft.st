@@ -1,3 +1,3 @@
 as yet unclassified
 lastStepLeft
-	self currentStep enterStep.
+	self currentStep ifNotNil: [self currentStep enterStep].

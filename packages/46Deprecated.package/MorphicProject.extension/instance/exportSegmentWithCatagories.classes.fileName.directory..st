@@ -37,7 +37,7 @@ exportSegmentWithCatagories: catList classes: classList fileName: aFileName dire
 		(SystemOrganization listAtCategoryNamed: sysCat asSymbol) do: [:symb |
 			roots add: (Smalltalk at: symb); add: (Smalltalk at: symb) class]].
 
-	is := ImageSegment copySmartRootsExport: roots asArray.
+	is := ImageSegment new copySmartRootsExport: roots asArray.
 		"old way was (is := ImageSegment new copyFromRootsForExport: roots asArray)"
 
 	is state = #tooBig ifTrue: [^ false].
