@@ -3,9 +3,9 @@
 		 },
 	"instance" : {
 		"setUp" : "EM 7/13/2017 11:30",
-		"tearDown" : "EM 7/14/2017 09:39",
+		"tearDown" : "dk 7/17/2017 12:07",
 		"testAddAnimationToStory" : "EM 7/16/2017 09:41",
-		"testFadeEnterAnimation" : "EM 7/14/2017 09:58",
-		"testFadeExitAnimation" : "EM 7/14/2017 10:22",
+		"testFadeEnterAnimation" : "dk 7/17/2017 12:21",
+		"testFadeExitAnimation" : "dk 7/18/2017 13:59",
 		"testSwipeEnterAnimation" : "EM 7/14/2017 09:42",
 		"testSwipeExitAnimation" : "EM 7/14/2017 10:03" } }
