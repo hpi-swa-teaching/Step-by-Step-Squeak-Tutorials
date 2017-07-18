@@ -1,0 +1,3 @@
+constants
+KillAllKeyString
+	^ '<Ctrl-delete>'

@@ -1,8 +1,9 @@
 {
 	"class" : {
-		 },
+		"KillAllKeyString" : "Deeps 7/18/2017 17:27" },
 	"instance" : {
-		"filterKeyboardEvent:for:" : "Deeps 7/8/2017 15:44",
+		"checkIfKillAllPressed:" : "Deeps 7/18/2017 17:21",
+		"filterKeyboardEvent:for:" : "Deeps 7/18/2017 17:27",
 		"filterMouseEvent:for:" : "Deeps 7/8/2017 16:15",
-		"handleGlobalKeyEvent:" : "Deeps 7/8/2017 17:22",
+		"handleGlobalKeyEvent:" : "Deeps 7/18/2017 17:15",
 		"rightMouseButtonAllowed:" : "Deeps 7/8/2017 16:27" } }
