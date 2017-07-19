@@ -1,3 +1,3 @@
 constants
 KillAllKeyString
-	^ '<Ctrl-delete>'
+	^ '<Ctrl-space>'
