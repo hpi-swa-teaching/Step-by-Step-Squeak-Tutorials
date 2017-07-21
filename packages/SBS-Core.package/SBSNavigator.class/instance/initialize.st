@@ -8,6 +8,6 @@ initialize
 		color: self class DefaultBackgroundColor;
 		cornerStyle: #rounded;
 		initializeRootLayout;
-		initializeProgressBar;
 		initializeButtonLayout;
-		initializeNavigatorButtons.
+		initializeNavigatorButtons;
+		initializeProgressBar.
