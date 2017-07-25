@@ -1,3 +1,3 @@
 not yet classified
 onPrevClicked
-	self story prevStep.
+	self play prevStep.

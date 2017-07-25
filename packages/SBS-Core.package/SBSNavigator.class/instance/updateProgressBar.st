@@ -1,5 +1,6 @@
 not yet classified
 updateProgressBar
 	self progressBar
-		done: self story currentStepNumber / self story totalNumberOfSteps;
-		label: 'Step ', self story currentStepNumber, '/', self story totalNumberOfSteps.
+		maximum: self play totalNumberOfSteps;
+		progress: self play currentStepNumber;
+		text: 'Step ', self play currentStepNumber, '/', self play totalNumberOfSteps.

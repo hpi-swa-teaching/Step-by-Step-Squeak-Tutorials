@@ -1,6 +1,6 @@
 as yet unclassified
 setUp
-	| story |
-	story := SBSStory withTitle: ''.
-	story addStep: self class TestStep.
-	self wantsToTest: story.
+	| play |
+	play := SBSPlay withTitle: ''.
+	play addStep: self class TestStep.
+	self wantsToTest: play.

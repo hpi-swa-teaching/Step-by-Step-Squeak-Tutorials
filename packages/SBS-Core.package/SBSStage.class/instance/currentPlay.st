@@ -1,0 +1,3 @@
+accessing
+currentPlay
+	^ currentPlay

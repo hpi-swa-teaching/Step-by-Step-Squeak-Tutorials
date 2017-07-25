@@ -1,3 +1,3 @@
 constants
 NavigatorHeight
-	^ 90
+	^ 120

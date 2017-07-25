@@ -1,0 +1,17 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"browser",
+		"codePane",
+		"packageNameExplanation",
+		"play" ],
+	"name" : "SBSExamplePlay",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

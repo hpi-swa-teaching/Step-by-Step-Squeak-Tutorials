@@ -1,0 +1,23 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"steps",
+		"title",
+		"currentStep",
+		"listenerExtension",
+		"isRunning",
+		"target",
+		"navigator",
+		"options",
+		"tools",
+		"animationExtension" ],
+	"name" : "SBSPlay",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,5 +1,5 @@
 as yet unclassified
 testPrevButton
-	self story showStep: self story steps second.
+	self play showStep: self play steps second.
 	(self subject findByLabel: 'Previous') click.
-	self assert: self story currentStep equals: self story steps first.
+	self assert: self play currentStep equals: self play steps first.

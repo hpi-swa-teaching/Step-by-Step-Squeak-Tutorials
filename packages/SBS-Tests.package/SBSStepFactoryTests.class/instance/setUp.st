@@ -1,3 +1,3 @@
 as yet unclassified
 setUp
-	self story: SBSStory new.
+	self play: SBSStory new.

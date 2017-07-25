@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"story",
 		"morphFinder",
 		"explanations",
 		"highlightedMorph",
@@ -16,7 +15,8 @@
 		"tools",
 		"filterEventHandler",
 		"bubbleEventHandler",
-		"animationExtension" ],
+		"animationExtension",
+		"play" ],
 	"name" : "SBSStep",
 	"pools" : [
 		 ],

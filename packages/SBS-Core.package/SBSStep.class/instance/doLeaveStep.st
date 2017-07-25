@@ -8,4 +8,4 @@ doLeaveStep
 		stopDeleteStepping;
 		applyExitOptions;
 		hide.
-	self story lastStepLeft.		
+	self play lastStepLeft.		

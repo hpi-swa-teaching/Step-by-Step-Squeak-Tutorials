@@ -6,12 +6,12 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"story",
 		"prevButton",
 		"nextButton",
 		"skipButton",
 		"buttonWrapper",
-		"progressBar" ],
+		"progressBar",
+		"play" ],
 	"name" : "SBSNavigator",
 	"pools" : [
 		 ],

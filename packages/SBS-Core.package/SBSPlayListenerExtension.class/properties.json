@@ -1,0 +1,15 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"onStart",
+		"onEnd" ],
+	"name" : "SBSPlayListenerExtension",
+	"pools" : [
+		 ],
+	"super" : "SBSListenerExtension",
+	"type" : "normal" }

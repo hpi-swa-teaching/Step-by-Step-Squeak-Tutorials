@@ -5,10 +5,10 @@
 		"singleStage" : "DK 6/27/2017 23:21",
 		"singleStage:" : "DK 6/26/2017 21:59" },
 	"instance" : {
-		"askForStoryChange:" : "DK 6/26/2017 21:53",
-		"changeStory:" : "Deeps 6/26/2017 22:07",
-		"currentStory" : "DK 6/26/2017 21:53",
-		"currentStory:" : "DK 6/26/2017 21:53",
-		"isAvailable" : "DK 6/27/2017 23:22",
-		"removeCurrentStory" : "dk 7/2/2017 15:33",
-		"swapStory:" : "DK 6/27/2017 22:33" } }
+		"askForPlayChange:" : "dk 7/26/2017 00:22",
+		"changePlay:" : "dk 7/26/2017 00:24",
+		"currentPlay" : "dk 7/26/2017 00:25",
+		"currentPlay:" : "dk 7/26/2017 00:23",
+		"isAvailable" : "dk 7/26/2017 00:25",
+		"removeCurrentPlay" : "dk 7/26/2017 00:25",
+		"swapPlay:" : "dk 7/26/2017 00:37" } }
