@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "EM 7/13/2017 11:30",
-		"tearDown" : "dk 7/26/2017 00:36",
-		"testAddAnimationToPlay" : "dk 7/26/2017 00:45",
+		"setUp" : "dk 7/26/2017 01:45",
+		"tearDown" : "dk 7/26/2017 01:45",
+		"testAddAnimationToPlay" : "dk 7/26/2017 01:46",
 		"testFadeEnterAnimation" : "dk 7/26/2017 00:37",
-		"testFadeExitAnimation" : "dk 7/26/2017 00:37",
+		"testFadeExitAnimation" : "dk 7/26/2017 01:28",
 		"testSwipeEnterAnimation" : "dk 7/26/2017 00:37",
-		"testSwipeExitAnimation" : "dk 7/26/2017 00:37" } }
+		"testSwipeExitAnimation" : "dk 7/26/2017 01:28" } }

@@ -1,3 +1,3 @@
 not yet classified
 onPrevClicked
-	self play prevStep.
+	self play prevScene.

@@ -1,4 +1,4 @@
 event handling
 checkIfKillAllPressed: anEvent
 	(anEvent isKeystroke and: [anEvent keyString = self class KillAllKeyString]) 
-		ifTrue: [self step tools killAll].
+		ifTrue: [self scene tools killAll].

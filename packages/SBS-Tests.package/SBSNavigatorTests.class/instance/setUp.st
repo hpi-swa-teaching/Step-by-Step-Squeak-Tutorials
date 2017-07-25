@@ -1,9 +1,9 @@
 as yet unclassified
 setUp 
-	self play: (SBSStory withTitle: '').
+	self play: (SBSPlay withTitle: '').
 	self play
-		addStep: self class TestStep;
-		addStep: self class TestStep;
-		addStep: self class TestStep.
+		addScene: self class TestScene;
+		addScene: self class TestScene;
+		addScene: self class TestScene.
 	SBSStage singleStage changePlay: self play.
 	self wantsToTest: play navigator.

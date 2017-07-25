@@ -1,0 +1,21 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"onMorphMouseEvent",
+		"onMorphFound",
+		"onMorphDeleted",
+		"onNext",
+		"onPrev",
+		"onEnter",
+		"onLeave",
+		"onKeyboardEvent" ],
+	"name" : "SBSSceneListenerExtension",
+	"pools" : [
+		 ],
+	"super" : "SBSListenerExtension",
+	"type" : "normal" }

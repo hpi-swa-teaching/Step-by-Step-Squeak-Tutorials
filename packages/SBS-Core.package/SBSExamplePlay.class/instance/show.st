@@ -2,5 +2,5 @@ as yet unclassified
 show
 	self 
 		initializePlay;
-		initializeSteps.
+		initializeScenes.
 	SBSStage singleStage changePlay: self play.

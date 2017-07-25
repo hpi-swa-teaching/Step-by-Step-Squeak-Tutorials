@@ -1,5 +1,5 @@
 event handling
 checkIfMouseButtonWasPressed: anEvent
-	(self step options showNextStepOnMorphClick and: 
+	(self scene options showNextSceneOnMorphClick and: 
 		[anEvent isMouseUp])
-		ifTrue: [ self step play nextStep].
+		ifTrue: [ self scene play nextScene].

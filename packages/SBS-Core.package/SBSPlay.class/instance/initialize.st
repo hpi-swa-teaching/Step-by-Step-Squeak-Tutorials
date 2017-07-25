@@ -2,7 +2,7 @@ initialization
 initialize
 	super initialize.
 	self
-		emptySteps;
+		emptyScenes;
 		initializeNavigator;
 		defaultOptions;
 		initializeTools;

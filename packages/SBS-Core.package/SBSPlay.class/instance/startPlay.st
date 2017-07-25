@@ -1,8 +1,8 @@
 as yet unclassified
 startPlay
-	(self isRunning or: [self steps isEmpty]) ifTrue: [^ self].
+	(self isRunning or: [self scenes isEmpty]) ifTrue: [^ self].
 	self isRunning: true.
 	self applyStartOptions.
 	self listenerExtension runOnStart.
-	self showStep: self steps first.
+	self showScene: self scenes first.
 	self navigator show.

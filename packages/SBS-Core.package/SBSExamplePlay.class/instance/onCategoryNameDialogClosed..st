@@ -1,3 +1,3 @@
 event handling
 onCategoryNameDialogClosed: aFillInTheBlankMorph
-	self play nextStep.
+	self play nextScene.

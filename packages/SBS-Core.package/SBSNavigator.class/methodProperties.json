@@ -23,12 +23,12 @@
 		"initializeNavigatorButtons" : "Deeps 7/19/2017 17:59",
 		"initializeProgressBar" : "Deeps 7/21/2017 16:56",
 		"initializeRootLayout" : "Deeps 7/21/2017 16:56",
-		"isFirstStep:" : "Deeps 6/18/2017 16:38",
-		"isLastStep:" : "dk 7/3/2017 13:27",
+		"isFirstScene:" : "dk 7/26/2017 01:24",
+		"isLastScene:" : "dk 7/26/2017 01:25",
 		"nextButton" : "DK 6/26/2017 21:42",
 		"nextButton:" : "DK 6/26/2017 21:42",
-		"onNextClicked" : "dk 7/26/2017 00:20",
-		"onPrevClicked" : "dk 7/26/2017 00:20",
+		"onNextClicked" : "dk 7/26/2017 01:28",
+		"onPrevClicked" : "dk 7/26/2017 01:28",
 		"onSkipClicked" : "dk 7/26/2017 00:36",
 		"play" : "dk 7/26/2017 00:33",
 		"play:" : "dk 7/26/2017 00:33",
@@ -42,4 +42,4 @@
 		"skipButton" : "DK 6/26/2017 21:43",
 		"skipButton:" : "DK 6/26/2017 21:43",
 		"updateNextButtonLabel:" : "Deeps 7/19/2017 17:59",
-		"updateProgressBar" : "dk 7/26/2017 00:20" } }
+		"updateProgressBar" : "dk 7/26/2017 01:29" } }

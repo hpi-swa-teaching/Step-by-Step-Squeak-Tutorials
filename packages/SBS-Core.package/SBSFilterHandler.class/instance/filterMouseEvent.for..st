@@ -1,9 +1,9 @@
 event handling
 filterMouseEvent: anEvent for: anObject
-	anEvent isDraggingEvent ifTrue: [ self step updateDraw ].
+	anEvent isDraggingEvent ifTrue: [ self scene updateDraw ].
 	((self rightMouseButtonAllowed: anEvent) and:
-	[(self step isEventInNavigator: anEvent) or:
-	[(self step isEventInHighlightedMorph: anEvent) or: 
-	[anObject = self step highlightedMorph]]])
+	[(self scene isEventInNavigator: anEvent) or:
+	[(self scene isEventInHighlightedMorph: anEvent) or: 
+	[anObject = self scene highlightedMorph]]])
 		ifFalse: [ anEvent ignore ].
 	^ anEvent

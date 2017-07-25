@@ -1,0 +1,4 @@
+accessing
+showNextSceneOnMorphClick
+	
+	^ showNextSceneOnMorphClick
