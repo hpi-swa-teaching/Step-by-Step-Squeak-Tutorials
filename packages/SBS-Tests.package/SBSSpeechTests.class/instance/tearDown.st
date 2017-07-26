@@ -1,4 +1,4 @@
 speechTests
 tearDown
 	super tearDown.
-	SBSExplanation allInstancesDo: [:x | x delete].
+	SBSSpeech allInstancesDo: [:x | x delete].
