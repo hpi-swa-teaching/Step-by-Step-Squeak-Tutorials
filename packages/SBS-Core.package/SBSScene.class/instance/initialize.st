@@ -2,7 +2,7 @@ initialization
 initialize
 	super initialize.
 	self
-		emptyExplanations;
+		emptySpeech;
 		defaultOptions;
 		emptyListeners;
 		initializeTools;

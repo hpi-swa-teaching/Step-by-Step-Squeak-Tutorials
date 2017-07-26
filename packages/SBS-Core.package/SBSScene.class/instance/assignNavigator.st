@@ -1,5 +1,5 @@
 accessing
 assignNavigator
-	self explanations
+	self speeches
 		ifEmpty: [self assignNavigatorToSelf]
-		ifNotEmpty: [self assignNavigatorToFirstExplanation].
+		ifNotEmpty: [self assignNavigatorToFirstSpeech].

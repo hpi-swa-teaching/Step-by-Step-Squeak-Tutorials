@@ -7,7 +7,6 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"morphFinder",
-		"explanations",
 		"highlightedMorph",
 		"listenerExtension",
 		"options",
@@ -16,7 +15,8 @@
 		"filterEventHandler",
 		"bubbleEventHandler",
 		"animationExtension",
-		"play" ],
+		"play",
+		"speeches" ],
 	"name" : "SBSScene",
 	"pools" : [
 		 ],

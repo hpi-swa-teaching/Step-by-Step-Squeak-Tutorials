@@ -1,8 +1,8 @@
 initialization
 initializeShowPackageNameScene
-	self packageNameExplanation: ((SBSExplanation withTextNearHighlightedMorph: 'Placeholder') 
+	self packageNameSpeech: ((SBSSpeech withTextNearHighlightedMorph: 'Placeholder') 
 															alignType: #center). "gets filled in onPackageNameDialogClosed:"
 	self play addScene:
 		((SBSSceneFactory makeSceneForMorphSearchStartingAt: World using: #knownname searchValue: 'System Browser')
-			addExplanation: self packageNameExplanation;
+			addSpeech: self packageNameSpeech;
 			hideBackground).

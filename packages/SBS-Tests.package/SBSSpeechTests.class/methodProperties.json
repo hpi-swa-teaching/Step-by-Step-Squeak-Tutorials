@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"TestSpeechBackgroundColor" : "dk 7/26/2017 11:37",
+		"TestSpeechPosition" : "dk 7/26/2017 11:38",
+		"TestSpeechText" : "dk 7/26/2017 11:38",
+		"TestSpeechTextColor" : "dk 7/26/2017 11:38" },
+	"instance" : {
+		"setUp" : "dk 7/26/2017 11:40",
+		"tearDown" : "DK 6/26/2017 22:10",
+		"testEventWhenClicked" : "dk 7/26/2017 11:26",
+		"testInitializeWithMorph" : "dk 7/26/2017 11:40",
+		"testInitializeWithPosition" : "dk 7/26/2017 11:40" } }

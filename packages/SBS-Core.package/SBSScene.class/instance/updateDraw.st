@@ -2,4 +2,4 @@ drawing
 updateDraw
 	self 
 		changed;
-		updateExplanationPositions.
+		updateSpeechPositions.

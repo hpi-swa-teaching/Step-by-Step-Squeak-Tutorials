@@ -2,8 +2,8 @@ initialization
 initializeOpenBrowserScene
 	self play addScene: 
 		((SBSSceneFactory makeSceneForMorph: World)
-			addExplanation: (SBSExplanation 
+			addSpeech: (SBSSpeech 
 										withText: 'To open the Browser, click into the world (the background of the squeak window).'
-										atCenter: self defaultExplanationPosition);
+										atCenter: self defaultSpeechPosition);
 			showNextSceneOnMorphClickOnly;
 			blockRightMouseClick).

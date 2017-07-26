@@ -8,8 +8,8 @@
 	"instvars" : [
 		"browser",
 		"codePane",
-		"packageNameExplanation",
-		"play" ],
+		"play",
+		"packageNameSpeech" ],
 	"name" : "SBSExamplePlay",
 	"pools" : [
 		 ],

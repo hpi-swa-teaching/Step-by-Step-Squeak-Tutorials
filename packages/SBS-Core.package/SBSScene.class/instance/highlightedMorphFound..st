@@ -4,6 +4,6 @@ highlightedMorphFound: aMorph
 	self 
 		highlightedMorph: aMorph;
 		registerMouseBubbleFilter;
-		updateExplanations;
+		updateSpeeches;
 		updateDraw.
 	self listenerExtension runOnMorphFound: aMorph.

@@ -1,3 +1,3 @@
 as yet unclassified
 TestScene
-	^ (SBSSceneFactory makeSceneWithExplanationMessage: 'Hello World' atPosition: 100 @ 100)
+	^ (SBSSceneFactory makeSceneWithSpeech: 'Hello World' atPosition: 100 @ 100)
