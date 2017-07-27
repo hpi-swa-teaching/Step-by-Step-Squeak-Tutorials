@@ -1,4 +1,4 @@
 accessing
-codePane: anObject
+codePane: aPane
 	
-	codePane := anObject.
+	codePane := aPane.

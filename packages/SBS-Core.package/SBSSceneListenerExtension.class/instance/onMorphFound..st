@@ -1,3 +1,4 @@
 accessing
-onMorphFound: aBlockOrSymbol 
+onMorphFound: aBlockOrSymbol
+
 	onMorphFound := aBlockOrSymbol

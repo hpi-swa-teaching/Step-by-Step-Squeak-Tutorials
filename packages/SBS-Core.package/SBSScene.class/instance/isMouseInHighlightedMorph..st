@@ -1,5 +1,5 @@
 event handling
-isEventInHighlightedMorph: anEvent
+isMouseInHighlightedMorph: anEvent
 	^	self wasHighlightedMorphFound and:
 			[self highlightedMorph visible and:
 			[self highlightedMorph containsPoint: anEvent cursorPoint]]

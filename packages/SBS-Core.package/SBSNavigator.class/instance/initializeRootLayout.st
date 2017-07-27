@@ -1,5 +1,6 @@
 initialization
 initializeRootLayout
+
 	self 
 		layoutPolicy: TableLayout new;
 		listDirection: #topToBottom;

@@ -1,3 +1,4 @@
 event handling
-filterMouseEvent: anEvent for: anObject
+filterKeyboardEvent: anEvent
+
 	self subclassResponsibility.

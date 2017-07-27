@@ -1,5 +1,6 @@
 initialization
 initializeButtonLayout
+
 	self buttonWrapper: Morph new.
 	self buttonWrapper
 		layoutPolicy: TableLayout new;

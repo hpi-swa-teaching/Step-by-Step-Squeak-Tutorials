@@ -1,8 +1,10 @@
 as yet unclassified
 endPlay
+
 	self isRunning
 		ifFalse: [^ self].
-	self applyEndOptions; isRunning: false.
+	self applyEndOptions;
+		isRunning: false.
 	self listenerExtension runOnEnd.
 	self currentScene leaveScene.
 	self scenes

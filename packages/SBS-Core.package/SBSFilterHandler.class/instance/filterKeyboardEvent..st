@@ -1,5 +1,5 @@
 event handling
-filterKeyboardEvent: anEvent for: anObject
+filterKeyboardEvent: anEvent
 
 	self handleGlobalKeyEvent: anEvent.
 	^	anEvent

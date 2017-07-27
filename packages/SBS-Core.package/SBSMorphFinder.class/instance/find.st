@@ -1,5 +1,6 @@
 as yet unclassified
 find
+
 	| cases |
 	cases := {
 		[#root] -> [self rootMorph].
@@ -10,7 +11,6 @@ find
 		[#contents] -> [self findByContents].
 		[#custom] -> [self findByCriteria: self searchCriteria].
 		[#submorphindex] -> [self findBySubmorphIndex].
-		[#block] -> [self findByBlock].
-	}.
+		[#block] -> [self findByBlock]}.
 	self considerHierarchy.
 	^ self searchType caseOf: cases

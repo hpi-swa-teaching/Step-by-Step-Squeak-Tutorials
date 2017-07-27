@@ -1,5 +1,6 @@
 as yet unclassified
 addScene: aScene
+
 	aScene
 		play: self;
 		navigator: self navigator;

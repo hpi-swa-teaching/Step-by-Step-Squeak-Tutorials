@@ -1,4 +1,4 @@
 accessing
-scene: anObject
+scene: aScene
 	
-	scene := anObject.
+	scene := aScene.

@@ -2,8 +2,11 @@
 	"class" : {
 		"KillAllKeyString" : "Deeps 7/19/2017 16:07" },
 	"instance" : {
-		"checkIfKillAllPressed:" : "dk 7/26/2017 01:15",
-		"filterKeyboardEvent:for:" : "Deeps 7/19/2017 16:07",
-		"filterMouseEvent:for:" : "dk 7/26/2017 01:16",
-		"handleGlobalKeyEvent:" : "dk 7/26/2017 01:16",
-		"rightMouseButtonAllowed:" : "dk 7/26/2017 01:16" } }
+		"checkIfKillAllPressed:" : "Deeps 7/27/2017 18:39",
+		"filterKeyboardEvent:" : "Deeps 7/27/2017 18:57",
+		"filterKeyboardEvent:for:" : "Deeps 7/27/2017 18:39",
+		"filterMouseEvent:" : "Deeps 7/27/2017 19:09",
+		"filterMouseEvent:for:" : "Deeps 7/27/2017 19:24",
+		"handleGlobalKeyEvent:" : "Deeps 7/27/2017 18:39",
+		"isUnrestrictedEvent:for:" : "Deeps 7/27/2017 19:24",
+		"rightMouseButtonAllowed:" : "Deeps 7/27/2017 18:40" } }

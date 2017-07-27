@@ -1,5 +1,6 @@
 as yet unclassified
 showScene: aScene
+
 	| lastScene |
 	lastScene := self currentScene.
 	self currentScene: aScene.

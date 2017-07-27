@@ -1,5 +1,6 @@
 not yet classified
 updateProgressBar
+
 	self progressBar
 		maximum: self play totalNumberOfScenes;
 		progress: self play currentSceneNumber;
