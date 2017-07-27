@@ -3,7 +3,7 @@ highlightedMorph: aMorph
 
 	self 
 		assert: [aMorph notNil];
-		highlightedMorph: aMorph;
+		basicHighlightedMorph: aMorph;
 		registerMouseBubbleFilter;
 		updateSpeeches;
 		updateDraw.

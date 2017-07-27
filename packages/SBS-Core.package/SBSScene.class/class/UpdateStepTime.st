@@ -1,4 +1,0 @@
-constants
-UpdateStepTime
-
-	^ 50

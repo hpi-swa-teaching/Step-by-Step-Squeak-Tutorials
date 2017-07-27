@@ -8,5 +8,4 @@ initialize
 		initializeListeners;
 		initializeTools;
 		initializeAppearance;
-		initializeEventHandlers;
-		startAnimationStepping.
+		initializeEventHandlers.

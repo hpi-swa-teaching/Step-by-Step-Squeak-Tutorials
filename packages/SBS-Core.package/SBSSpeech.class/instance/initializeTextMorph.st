@@ -1,7 +1,7 @@
 initialization
 initializeTextMorph
+
 	self 
-		textMorph: TextMorph new;
+		textMorph: (TextMorph new readOnly: true);
 		addMorphBack: self textMorph.
-	self textMorph readOnly: true.
 	self textColor: (self userInterfaceTheme textColor ifNil: [self class DefaultTextColor]).

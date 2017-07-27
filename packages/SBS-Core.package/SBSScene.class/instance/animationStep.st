@@ -1,4 +1,4 @@
 stepping and presenter
 animationStep
 
-	self animationExtension doAnimation: self.
+	self animationExtension doAnimation.

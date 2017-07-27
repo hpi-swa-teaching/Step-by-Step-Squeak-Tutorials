@@ -1,4 +1,4 @@
 as yet unclassified
 resetHighlightedMorph
 
-	self highlightedMorph: nil.
+	self basicHighlightedMorph: nil.

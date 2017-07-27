@@ -1,3 +1,4 @@
 accessing
 backgroundColor
+
 	^ self color
