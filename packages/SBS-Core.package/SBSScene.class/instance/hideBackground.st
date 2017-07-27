@@ -1,3 +1,6 @@
 convenience
 hideBackground
-	self color: Color transparent.
+
+	self 
+		color: Color transparent;
+		updateBackgroundColor.

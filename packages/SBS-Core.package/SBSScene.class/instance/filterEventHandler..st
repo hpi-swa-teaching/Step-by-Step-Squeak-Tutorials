@@ -1,4 +1,4 @@
 accessing
-filterEventHandler: anObject
+filterEventHandler: aFilterHandler
 	
-	filterEventHandler := anObject.
+	filterEventHandler := aFilterHandler.

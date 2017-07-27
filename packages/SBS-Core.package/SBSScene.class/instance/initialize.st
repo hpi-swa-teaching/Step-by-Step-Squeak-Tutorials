@@ -1,10 +1,12 @@
 initialization
 initialize
+
 	super initialize.
 	self
-		emptySpeech;
-		defaultOptions;
-		emptyListeners;
+		initializeSpeeches;
+		initializeOptions;
+		initializeListeners;
 		initializeTools;
 		initializeAppearance;
-		initializeEventHandlers.
+		initializeEventHandlers;
+		startAnimationStepping.

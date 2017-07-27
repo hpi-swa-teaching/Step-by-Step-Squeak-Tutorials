@@ -1,5 +1,5 @@
-event handling
+conditions
 isEventInHighlightedMorph: anEvent
 
-	^ ((self scene isEventInNavigator: anEvent) not
-		and: [(self scene isMouseInHighlightedMorph: anEvent)])
+	^ (self scene isMouseInNavigator: anEvent) not
+			and: [self scene isMouseInHighlightedMorph: anEvent]

@@ -1,3 +1,4 @@
-accessing
+conditions
 wasHighlightedMorphFound
-	^	self highlightedMorph notNil.
+
+	^	self highlightedMorph notNil

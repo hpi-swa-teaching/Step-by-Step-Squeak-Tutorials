@@ -1,3 +1,4 @@
-as yet unclassified
+convenience
 addExitAnimation: aSBSAnimation
+
 	self animationExtension addExitAnimation: aSBSAnimation.

@@ -1,3 +1,4 @@
 constants
 UpdateStepTime
-	^ 50.
+
+	^ 50

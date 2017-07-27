@@ -1,0 +1,4 @@
+constants
+AnimationStepTime
+
+	^	30

@@ -1,4 +1,4 @@
-as yet unclassified
-step
+stepping and presenter
+animationStep
 
 	self animationExtension doAnimation: self.

@@ -1,4 +1,4 @@
 initialization
-defaultOptions
+initializeOptions
 
 	self options: SBSPlayOptions new.

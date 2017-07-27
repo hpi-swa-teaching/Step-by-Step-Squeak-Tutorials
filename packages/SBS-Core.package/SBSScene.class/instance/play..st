@@ -1,4 +1,4 @@
 accessing
-play: aStory
+play: aPlay
 	
-	play := aStory.
+	play := aPlay.

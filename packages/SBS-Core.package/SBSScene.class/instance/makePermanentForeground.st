@@ -1,3 +1,4 @@
 initialization
 makePermanentForeground
-	self extension setProperty: #morphicLayerNumber toValue: 0.
+
+	self extension setProperty: #morphicLayerNumber toValue: self class ForegroundLayer.

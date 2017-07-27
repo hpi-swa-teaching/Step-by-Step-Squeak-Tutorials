@@ -5,7 +5,7 @@ initialize
 	self
 		emptyScenes;
 		initializeNavigator;
-		defaultOptions;
+		initializeOptions;
 		initializeTools;
-		emptyListeners;
+		initializeListeners;
 		isRunning: false.

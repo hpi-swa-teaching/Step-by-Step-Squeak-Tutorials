@@ -1,3 +1,4 @@
 stepping and presenter
 stopDeleteStepping
-	self stopSteppingSelector: #deleteScene.
+
+	self stopSteppingSelector: #deleteStep.

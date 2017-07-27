@@ -1,4 +1,4 @@
 accessing
-bubbleEventHandler: anObject
+bubbleEventHandler: aBubbleHandler
 	
-	bubbleEventHandler := anObject.
+	bubbleEventHandler := aBubbleHandler.

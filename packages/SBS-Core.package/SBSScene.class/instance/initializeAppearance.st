@@ -1,5 +1,6 @@
 initialization
 initializeAppearance
+
 	self
 		updateBackgroundColor;
 		fitSizeToFullscreen;

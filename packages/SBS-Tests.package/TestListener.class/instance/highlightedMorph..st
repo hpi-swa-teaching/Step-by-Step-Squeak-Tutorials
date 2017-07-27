@@ -1,3 +1,3 @@
 as yet unclassified
-highlightedMorphFound: aBool
+highlightedMorph: aBool
 	highlightedMorphFound := aBool.

@@ -1,3 +1,4 @@
 initialization
-emptySpeech 
+initializeSpeeches 
+
 	self speeches: OrderedCollection new.

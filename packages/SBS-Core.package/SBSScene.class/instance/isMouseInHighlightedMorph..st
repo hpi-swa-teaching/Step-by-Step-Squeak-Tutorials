@@ -1,5 +1,5 @@
-event handling
+conditions
 isMouseInHighlightedMorph: anEvent
-	^	self wasHighlightedMorphFound and:
-			[self highlightedMorph visible and:
-			[self highlightedMorph containsPoint: anEvent cursorPoint]]
+
+	^	self isHighlightedMorphVisible and:
+			[self highlightedMorph containsPoint: anEvent cursorPoint]

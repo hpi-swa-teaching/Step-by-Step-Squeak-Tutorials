@@ -1,5 +1,5 @@
 initialization
-emptyListeners
+initializeListeners
 
 	self listenerExtension: SBSPlayListenerExtension new.
 	self animationExtension: SBSAnimationExtension new.

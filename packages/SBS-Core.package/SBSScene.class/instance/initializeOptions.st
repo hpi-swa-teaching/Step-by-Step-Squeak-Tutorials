@@ -1,3 +1,4 @@
 initialization
-defaultOptions
+initializeOptions
+
 	self options: SBSSceneOptions new.

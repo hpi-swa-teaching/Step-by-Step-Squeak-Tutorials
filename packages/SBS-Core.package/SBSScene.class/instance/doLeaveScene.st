@@ -1,5 +1,6 @@
-as yet unclassified
-doLeaveScene 	
+lifecycle
+doLeaveScene
+
 	self listenerExtension runOnLeave.
 	self wasHighlightedMorphFound ifTrue: [ self unregisterMouseBubbleFilter].
 	self
