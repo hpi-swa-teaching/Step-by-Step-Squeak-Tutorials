@@ -1,5 +1,6 @@
 initialization
 initialize
+
 	super initialize.
 	self 
 		backgroundAlpha: self class BackgroundAlpha;

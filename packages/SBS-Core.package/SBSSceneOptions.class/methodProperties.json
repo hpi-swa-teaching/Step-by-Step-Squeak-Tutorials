@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"BackgroundAlpha" : "Deeps 7/1/2017 17:04",
-		"BackgroundColor" : "Deeps 7/1/2017 17:04",
-		"BlockRightMouseClick" : "Deeps 7/8/2017 16:20",
-		"HideNextButton" : "Deeps 7/1/2017 17:05",
-		"HideSystemButtons" : "Deeps 7/1/2017 17:05",
-		"ShowNextSceneOnMorphClick" : "dk 7/26/2017 01:42" },
+		"BackgroundAlpha" : "Deeps 7/27/2017 22:14",
+		"BackgroundColor" : "Deeps 7/27/2017 22:14",
+		"BlockRightMouseClick" : "Deeps 7/27/2017 22:14",
+		"HideNextButton" : "Deeps 7/27/2017 22:14",
+		"HideSystemButtons" : "Deeps 7/27/2017 22:14",
+		"ShowNextSceneOnMorphClick" : "Deeps 7/27/2017 22:14" },
 	"instance" : {
 		"backgroundAlpha" : "Deeps 7/1/2017 17:01",
 		"backgroundAlpha:" : "Deeps 7/1/2017 17:02",
@@ -17,6 +17,6 @@
 		"hideNextButton:" : "Deeps 7/1/2017 16:26",
 		"hideSystemButtons" : "Deeps 7/1/2017 15:49",
 		"hideSystemButtons:" : "Deeps 7/1/2017 15:50",
-		"initialize" : "dk 7/26/2017 01:42",
+		"initialize" : "Deeps 7/27/2017 22:14",
 		"showNextSceneOnMorphClick" : "dk 7/26/2017 01:44",
 		"showNextSceneOnMorphClick:" : "dk 7/26/2017 01:44" } }
