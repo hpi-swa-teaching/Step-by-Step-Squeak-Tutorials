@@ -2,4 +2,4 @@ initialization
 initialize
 
 	super initialize.
-	self useDeepSearch.
+	self useDeepSearch: self class DefaultUseDeepSearch.
