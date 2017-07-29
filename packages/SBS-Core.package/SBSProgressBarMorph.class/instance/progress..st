@@ -1,5 +1,5 @@
 accessing
 progress: aNumber
 	
-	(aNumber < self minimum or: [aNumber > self maximum]) 
-		ifFalse: [self basicProgress: aNumber].
+	self assert: [aNumber > self minimum and: [aNumber < self maximum]].
+	self basicProgress: aNumber.

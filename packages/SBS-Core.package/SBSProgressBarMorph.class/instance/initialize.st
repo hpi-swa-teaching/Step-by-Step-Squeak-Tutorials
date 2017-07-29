@@ -6,4 +6,4 @@ initialize
 		initializeBackground;
 		initializeText;
 		initializeProgressBar;
-		setMinSize.
+		updateMinimumSize.

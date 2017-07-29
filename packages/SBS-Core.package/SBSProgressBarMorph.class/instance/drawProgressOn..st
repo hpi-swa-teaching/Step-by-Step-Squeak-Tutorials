@@ -1,9 +1,5 @@
 drawing
 drawProgressOn: aCanvas
 
-	| rectY splitX |
-	rectY := self top + (self getTwoThirdOfHeight).
-	splitX := self left + ((self progress - self minimum) / (self maximum - self minimum) * self width).
-	aCanvas
-		fillRectangle: (self left @ rectY corner: splitX @ self bottom) color: self progressColor;
-		fillRectangle: (splitX @ rectY corner: self bottomRight) color: self noProgressColor.
+	aCanvas fillRectangle: (self left @ self progressBarTop corner: self progressToWidth @ self bottom) 
+					color: self progressColor.

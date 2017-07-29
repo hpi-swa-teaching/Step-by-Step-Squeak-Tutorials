@@ -2,7 +2,7 @@ lifecycle
 doLeaveScene
 
 	self listenerExtension runOnLeave.
-	self wasHighlightedMorphFound ifTrue: [ self unregisterMouseBubbleFilter].
+	self wasHighlightedMorphFound ifTrue: [self unregisterMouseBubbleFilter].
 	self
 		unregisterEventCaptureFilter;
 		stopSearchStepping;

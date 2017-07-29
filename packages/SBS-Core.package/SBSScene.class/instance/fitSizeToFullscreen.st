@@ -1,4 +1,4 @@
-initialization
+computing
 fitSizeToFullscreen
 
 	self bounds: (Display fullBoundingBox withBottom: 
