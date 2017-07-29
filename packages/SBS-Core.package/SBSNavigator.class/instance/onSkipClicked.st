@@ -1,4 +1,4 @@
-not yet classified
+actions
 onSkipClicked
 
 	self play endPlay.

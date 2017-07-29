@@ -1,4 +1,4 @@
-not yet classified
+lifecycle
 updateProgressBar
 
 	self progressBar

@@ -1,4 +1,4 @@
-not yet classified
+convenience
 isLastScene: aBoolean
 
 	aBoolean

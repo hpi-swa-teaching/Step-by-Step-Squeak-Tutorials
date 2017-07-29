@@ -1,4 +1,4 @@
-not yet classified
+actions
 onPrevClicked
 
 	self play prevScene.

@@ -1,8 +1,7 @@
 initialization
 initializeButtonLayout
 
-	self buttonWrapper: Morph new.
-	self buttonWrapper
+	self buttonWrapper: (Morph new
 		layoutPolicy: TableLayout new;
 		listDirection: #leftToRight;
 		wrapDirection: #topToBottom;
@@ -11,5 +10,5 @@ initializeButtonLayout
 		cellInset: 5 @ 5;
 		hResizing: #spaceFill;
 		spaceFillWeight: self class ButtonSpaceFillWeight;
-		color: Color transparent.
+		color: Color transparent).
 	self addMorphBack: self buttonWrapper.

@@ -1,4 +1,4 @@
-not yet classified
+convenience
 showSkipButton
 
 	self skipButton show.

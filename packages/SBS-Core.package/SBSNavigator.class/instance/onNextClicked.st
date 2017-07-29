@@ -1,3 +1,4 @@
-not yet classified
+actions
 onNextClicked
+
 	self play nextScene.
