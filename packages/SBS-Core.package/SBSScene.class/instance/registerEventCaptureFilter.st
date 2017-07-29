@@ -1,0 +1,4 @@
+events-filtering-capturing
+registerEventCaptureFilter
+
+	World addEventCaptureFilter: self filterEventHandler.

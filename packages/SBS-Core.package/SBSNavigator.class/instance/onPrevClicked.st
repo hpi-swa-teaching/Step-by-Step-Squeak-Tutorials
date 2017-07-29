@@ -1,3 +1,4 @@
-not yet classified
+actions
 onPrevClicked
-	self story prevStep.
+
+	self play prevScene.

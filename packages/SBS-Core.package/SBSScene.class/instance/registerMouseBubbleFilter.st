@@ -1,0 +1,4 @@
+events-filtering-bubbling
+registerMouseBubbleFilter
+
+	self highlightedMorph addMouseBubbleFilter: self bubbleEventHandler.

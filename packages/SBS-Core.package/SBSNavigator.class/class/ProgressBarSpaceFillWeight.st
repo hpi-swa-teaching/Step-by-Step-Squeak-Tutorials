@@ -1,3 +1,4 @@
 constants
-ProgressBarSpaceFillWeight 
+ProgressBarSpaceFillWeight
+
 	^ 0.3

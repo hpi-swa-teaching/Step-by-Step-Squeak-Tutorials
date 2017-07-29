@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"onEnter" : "Deeps 7/1/2017 14:39",
+		"onEnter:" : "Deeps 7/1/2017 14:39",
+		"onKeyboardEvent" : "Deeps 7/1/2017 16:10",
+		"onKeyboardEvent:" : "Deeps 7/1/2017 16:10",
+		"onLeave" : "Deeps 7/1/2017 14:39",
+		"onLeave:" : "Deeps 7/1/2017 14:39",
+		"onMorphDeleted" : "Deeps 7/1/2017 14:28",
+		"onMorphDeleted:" : "Deeps 7/27/2017 19:30",
+		"onMorphFound" : "Deeps 7/1/2017 14:28",
+		"onMorphFound:" : "Deeps 7/27/2017 19:30",
+		"onMorphMouseEvent" : "Deeps 7/1/2017 16:12",
+		"onMorphMouseEvent:" : "Deeps 7/1/2017 16:13",
+		"onNext" : "Deeps 7/1/2017 14:39",
+		"onNext:" : "Deeps 7/1/2017 14:39",
+		"onPrev" : "Deeps 7/1/2017 14:39",
+		"onPrev:" : "Deeps 7/1/2017 14:39",
+		"runOnEnter" : "Deeps 7/27/2017 19:31",
+		"runOnKeyboardEvent:" : "Deeps 7/27/2017 19:31",
+		"runOnLeave" : "Deeps 7/29/2017 15:54",
+		"runOnMorphDeleted:" : "Deeps 7/29/2017 15:54",
+		"runOnMorphFound:" : "Deeps 7/29/2017 15:54",
+		"runOnMorphMouseEvent:" : "Deeps 7/29/2017 15:54",
+		"runOnNext" : "Deeps 7/29/2017 15:54",
+		"runOnPrev" : "Deeps 7/29/2017 15:54" } }

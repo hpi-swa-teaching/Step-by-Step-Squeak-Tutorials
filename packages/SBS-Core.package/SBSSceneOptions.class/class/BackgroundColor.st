@@ -1,0 +1,4 @@
+constants
+BackgroundColor
+
+	^	Color black

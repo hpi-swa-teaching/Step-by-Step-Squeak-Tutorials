@@ -1,3 +1,0 @@
-constants
-DefaultAlignType
-	^ #auto

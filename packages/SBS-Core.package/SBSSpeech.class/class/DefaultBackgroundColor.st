@@ -1,0 +1,4 @@
+constants
+DefaultBackgroundColor
+
+	^ Color white

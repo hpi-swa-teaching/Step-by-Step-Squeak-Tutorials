@@ -1,0 +1,17 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"enterAnimation",
+		"exitAnimation",
+		"enterAnimated",
+		"exitAnimated" ],
+	"name" : "SBSAnimationExtension",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

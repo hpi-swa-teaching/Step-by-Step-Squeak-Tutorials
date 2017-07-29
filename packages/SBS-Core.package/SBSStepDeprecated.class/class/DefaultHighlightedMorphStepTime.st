@@ -1,3 +1,0 @@
-constants
-DefaultHighlightedMorphStepTime
-	^	500.

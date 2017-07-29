@@ -1,3 +1,4 @@
-private
+accessing
 buttonWrapper
+
 	^ buttonWrapper

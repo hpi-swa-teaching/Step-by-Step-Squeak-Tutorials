@@ -1,0 +1,18 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"alignToMorph",
+		"alignType",
+		"highlightedMorph",
+		"textMorph",
+		"maxWidth" ],
+	"name" : "SBSSpeech",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"maximum",
+		"minimum",
+		"progress",
+		"progressColor",
+		"noProgressColor",
+		"textColor",
+		"font",
+		"text" ],
+	"name" : "SBSProgressBarMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

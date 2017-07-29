@@ -1,3 +1,4 @@
-as yet unclassified
+conditions
 isAvailable
-	^ self currentStory isNil or: [self currentStory isRunning not]
+
+	^ self currentPlay isNil or: [self currentPlay isRunning not]

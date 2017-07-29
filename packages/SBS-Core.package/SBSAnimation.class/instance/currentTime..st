@@ -1,3 +1,4 @@
 accessing
-currentTime: anObject
-	currentTime := anObject.
+currentTime: aTime
+
+	currentTime := aTime.

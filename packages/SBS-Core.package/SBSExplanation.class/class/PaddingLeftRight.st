@@ -1,3 +1,0 @@
-constants
-PaddingLeftRight
-	^ 20

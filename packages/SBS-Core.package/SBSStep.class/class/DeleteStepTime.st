@@ -1,3 +1,0 @@
-constants
-DeleteStepTime
-	^ 500

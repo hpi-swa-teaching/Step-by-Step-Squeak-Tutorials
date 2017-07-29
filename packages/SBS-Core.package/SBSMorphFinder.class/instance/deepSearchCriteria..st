@@ -1,4 +1,5 @@
-as yet unclassified
+actions
 deepSearchCriteria: aMethodBlock
+
 	^ self rootMorph 
-			findDeepSubmorphThat: [ :s | s visible and: [aMethodBlock value: s]] ifAbsent: [nil].
+			findDeepSubmorphThat: [ :morph | morph visible and: [aMethodBlock value: morph]] ifAbsent: [nil].

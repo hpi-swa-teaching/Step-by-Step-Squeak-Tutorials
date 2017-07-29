@@ -1,3 +1,3 @@
-as yet unclassified
+convenience
 showAllSystemButtons
 	self visibleSystemButtons do: [ :s | s show].

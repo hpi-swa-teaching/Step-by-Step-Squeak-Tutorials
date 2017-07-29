@@ -1,6 +1,7 @@
-not yet classified
+lifecycle
 updateProgressBar
+
 	self progressBar
-		maximum: self story totalNumberOfSteps;
-		currentValue: self story currentStepNumber;
-		text: 'Step ', self story currentStepNumber, '/', self story totalNumberOfSteps.
+		maximum: self play totalNumberOfScenes;
+		progress: self play currentSceneNumber;
+		text: 'Scene ', self play currentSceneNumber, '/', self play totalNumberOfScenes.

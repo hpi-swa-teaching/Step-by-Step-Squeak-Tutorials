@@ -1,0 +1,4 @@
+constants
+YellowButtonString
+
+	^	'( yellow )'

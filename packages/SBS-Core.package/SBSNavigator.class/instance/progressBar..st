@@ -1,3 +1,4 @@
-private
-progressBar: anObject
-	progressBar := anObject.
+accessing
+progressBar: aProgressBar
+
+	progressBar := aProgressBar.

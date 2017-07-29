@@ -1,3 +1,4 @@
-not yet classified
+actions
 onSkipClicked
-	self story endStory.
+
+	self play endPlay.

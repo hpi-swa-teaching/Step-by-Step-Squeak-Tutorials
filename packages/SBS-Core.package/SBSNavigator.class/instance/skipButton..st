@@ -1,3 +1,4 @@
 accessing
-skipButton: aMorph
-	skipButton := aMorph.
+skipButton: aButton
+
+	skipButton := aButton.

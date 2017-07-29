@@ -1,11 +1,10 @@
 initialization
 initialize
+
 	super initialize.
 	self 
-		resistsRemoval: true;
-		sticky: true;
-		height: self class NavigatorHeight;
+		initializeAppearance;
 		initializeRootLayout;
-		initializeProgressBar;
 		initializeButtonLayout;
-		initializeNavigatorButtons.
+		initializeNavigatorButtons;
+		initializeProgressBar.

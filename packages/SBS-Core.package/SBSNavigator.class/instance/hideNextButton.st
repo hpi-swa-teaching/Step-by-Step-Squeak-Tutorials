@@ -1,3 +1,4 @@
-not yet classified
+convenience
 hideNextButton
+
 	self nextButton hide.

@@ -1,0 +1,4 @@
+constants
+PaddingLeftRight
+
+	^ 20

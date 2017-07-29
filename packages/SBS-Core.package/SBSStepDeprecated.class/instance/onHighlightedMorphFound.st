@@ -1,3 +1,0 @@
-events-processing
-onHighlightedMorphFound
-	self listenerExtension runOnMorphFound: self highlightedMorph.

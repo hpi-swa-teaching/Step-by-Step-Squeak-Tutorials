@@ -1,3 +1,0 @@
-convenience
-showNextStepOnMorphClick
-	self options showNextStepOnMorphClick: true.

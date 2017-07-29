@@ -1,0 +1,4 @@
+constants
+KillAllKeyString
+
+	^ '<Ctrl-space>'

@@ -1,6 +1,6 @@
-as yet unclassified
+actions
 findByCriteria: aMethodBlock
-	aMethodBlock ifNil: [^ nil]. 
-	^ self useDeepSearch 
-			ifTrue: [ self deepSearchCriteria: aMethodBlock]
-			ifFalse: [ self flatSearchCriteria: aMethodBlock]
+ 
+	^ self basicUseDeepSearch 
+			ifTrue: [self deepSearchCriteria: aMethodBlock]
+			ifFalse: [self flatSearchCriteria: aMethodBlock]

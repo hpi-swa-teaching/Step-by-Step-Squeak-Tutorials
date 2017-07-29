@@ -1,3 +1,4 @@
-not yet classified
+convenience
 hideSkipButton
+
 	self skipButton hide.

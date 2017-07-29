@@ -1,3 +1,4 @@
 accessing
-searchType: anObject
-	searchType := anObject.
+searchType: aSymbol
+
+	searchType := aSymbol.

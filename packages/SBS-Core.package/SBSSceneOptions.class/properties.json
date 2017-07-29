@@ -1,0 +1,20 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"hideSystemButtons",
+		"hideNextButton",
+		"drawBackground",
+		"backgroundColor",
+		"backgroundAlpha",
+		"blockRightMouseClick",
+		"showNextSceneOnMorphClick" ],
+	"name" : "SBSSceneOptions",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

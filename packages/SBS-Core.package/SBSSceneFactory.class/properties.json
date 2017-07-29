@@ -1,0 +1,14 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SBSSceneFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

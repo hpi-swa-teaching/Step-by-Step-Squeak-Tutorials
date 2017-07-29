@@ -1,3 +1,0 @@
-constants
-HideNextButton
-	^	false

@@ -1,3 +1,4 @@
 constants
 DefaultBackgroundColor
-	^ Color black
+
+	^ Color transparent

@@ -1,0 +1,24 @@
+{
+	"category" : "SBS-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morphFinder",
+		"highlightedMorph",
+		"listenerExtension",
+		"options",
+		"navigator",
+		"tools",
+		"filterEventHandler",
+		"bubbleEventHandler",
+		"animationExtension",
+		"play",
+		"speeches" ],
+	"name" : "SBSScene",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

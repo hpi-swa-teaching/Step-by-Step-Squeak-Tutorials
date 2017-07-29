@@ -1,3 +1,4 @@
 accessing
-duration: anObject
-	duration := anObject.
+duration: aDuration
+
+	duration := aDuration.

@@ -1,14 +1,14 @@
 {
 	"class" : {
-		"basicSingleStage" : "DK 6/27/2017 23:18",
-		"reset" : "Deeps 6/26/2017 22:07",
-		"singleStage" : "pre 6/28/2017 10:54",
-		"singleStage:" : "DK 6/26/2017 21:59" },
+		"basicSingleStage" : "Deeps 7/29/2017 15:12",
+		"reset" : "Deeps 7/29/2017 15:13",
+		"singleStage" : "Deeps 7/29/2017 15:12",
+		"singleStage:" : "Deeps 7/29/2017 15:12" },
 	"instance" : {
-		"askForStoryChange:" : "DK 6/26/2017 21:53",
-		"changeStory:" : "Deeps 6/26/2017 22:07",
-		"currentStory" : "DK 6/26/2017 21:53",
-		"currentStory:" : "DK 6/26/2017 21:53",
-		"isAvailable" : "DK 6/27/2017 23:22",
-		"removeCurrentStory" : "dk 7/2/2017 15:33",
-		"swapStory:" : "DK 6/27/2017 22:33" } }
+		"askForPlayChange:" : "Deeps 7/29/2017 15:01",
+		"changePlay:" : "Deeps 7/29/2017 15:12",
+		"currentPlay" : "Deeps 7/29/2017 15:03",
+		"currentPlay:" : "Deeps 7/29/2017 15:03",
+		"isAvailable" : "Deeps 7/29/2017 15:04",
+		"removeCurrentPlay" : "Deeps 7/29/2017 15:04",
+		"swapPlay:" : "Deeps 7/29/2017 15:12" } }

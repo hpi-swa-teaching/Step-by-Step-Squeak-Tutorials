@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"story" ],
+		"play" ],
 	"name" : "SBSNavigatorTests",
 	"pools" : [
 		 ],
-	"super" : "MTFTestCase",
+	"super" : "SBSTestCase",
 	"type" : "normal" }

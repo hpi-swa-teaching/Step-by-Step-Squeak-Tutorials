@@ -1,0 +1,19 @@
+initialization
+initializeScenes
+
+	self
+		initializeWelcomeScene;
+		initializeOpenBrowserScene;
+		initializeSelectBrowserScene;
+		initializeBrowserOpenedScene;
+		initializePackagePaneScene;
+		initializeAddPackageScene;
+		initializeEnterPackageNameScene;
+		initializeShowPackageNameScene;
+		initializeCodePaneScene;
+		initializeHighlightCategoryPaneScene;
+		initializeMethodScene;
+		initializeOpenCategoryContextScene;
+		initializeAddCategoryScene;
+		initializeEnterCategoryNameScene;
+		initializeCompletedScene.

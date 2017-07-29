@@ -1,4 +1,0 @@
-accessing
-onStoryStart
-	self 
-		hideAllMorphs.

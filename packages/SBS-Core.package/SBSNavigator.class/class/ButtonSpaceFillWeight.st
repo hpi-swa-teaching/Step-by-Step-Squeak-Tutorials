@@ -1,3 +1,4 @@
 constants
-ButtonSpaceFillWeight  
+ButtonSpaceFillWeight
+
 	^ 0.7

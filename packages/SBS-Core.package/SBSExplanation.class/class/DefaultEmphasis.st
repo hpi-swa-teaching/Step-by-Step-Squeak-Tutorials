@@ -1,3 +1,0 @@
-constants
-DefaultEmphasis
-	^ 1

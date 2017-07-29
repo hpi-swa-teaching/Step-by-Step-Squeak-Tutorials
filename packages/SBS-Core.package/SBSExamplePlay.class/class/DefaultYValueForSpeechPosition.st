@@ -1,0 +1,4 @@
+constants
+DefaultYValueForSpeechPosition
+
+	^ 200

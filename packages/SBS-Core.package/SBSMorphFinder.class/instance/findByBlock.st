@@ -1,3 +1,5 @@
-as yet unclassified
+actions
 findByBlock
-	^ self block ifNil: [nil] ifNotNil: [self block value]
+
+	self assert: [self block notNil].
+	^ self block value

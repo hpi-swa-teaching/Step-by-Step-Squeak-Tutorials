@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"eventHappened",
-		"explanationClicked",
-		"highlightedMorphFound" ],
+		"highlightedMorphFound",
+		"speechClicked" ],
 	"name" : "TestListener",
 	"pools" : [
 		 ],

@@ -1,4 +1,4 @@
-accessing
+convenience
 useDeepSearch
-	
-	^ useDeepSearch
+
+	self useDeepSearch: true.
