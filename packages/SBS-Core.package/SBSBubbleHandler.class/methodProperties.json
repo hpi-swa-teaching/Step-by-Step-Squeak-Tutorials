@@ -2,7 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"checkIfMouseButtonWasPressed:" : "Deeps 7/27/2017 18:27",
-		"filterMouseEvent:" : "Deeps 7/27/2017 19:02",
-		"handleMouseEvent:" : "Deeps 7/27/2017 18:38",
-		"isEventInHighlightedMorph:" : "Deeps 7/27/2017 21:23" } }
+		"checkAdvancePlay:" : "Deeps 7/29/2017 15:26",
+		"filterMouseEvent:" : "Deeps 7/29/2017 15:27",
+		"handleMouseEvent:" : "Deeps 7/29/2017 15:26" } }

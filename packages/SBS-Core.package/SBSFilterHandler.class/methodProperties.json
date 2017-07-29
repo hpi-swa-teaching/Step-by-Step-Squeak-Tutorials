@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"KillAllKeyString" : "Deeps 7/19/2017 16:07" },
+		"KillAllKeyString" : "Deeps 7/29/2017 15:33",
+		"YellowButtonString" : "Deeps 7/29/2017 15:33" },
 	"instance" : {
-		"checkIfKillAllPressed:" : "Deeps 7/29/2017 15:22",
+		"checkIfKillAllPressed:" : "Deeps 7/29/2017 15:27",
 		"filterKeyboardEvent:" : "Deeps 7/27/2017 18:57",
-		"filterKeyboardEvent:for:" : "Deeps 7/27/2017 18:39",
-		"filterMouseEvent:" : "Deeps 7/27/2017 21:23",
-		"filterMouseEvent:for:" : "Deeps 7/27/2017 19:24",
+		"filterMouseEvent:" : "Deeps 7/29/2017 15:33",
 		"handleGlobalKeyEvent:" : "Deeps 7/27/2017 18:39",
-		"isUnrestrictedEvent:for:" : "Deeps 7/27/2017 21:23",
-		"rightMouseButtonAllowed:" : "Deeps 7/27/2017 18:40" } }
+		"isMouseInAllowedArea:" : "Deeps 7/29/2017 15:30",
+		"isRightMouseButtonAllowed:" : "Deeps 7/29/2017 15:33",
+		"updateDrawIfDragging:" : "Deeps 7/29/2017 15:28" } }

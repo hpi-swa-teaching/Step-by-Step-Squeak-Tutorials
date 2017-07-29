@@ -1,9 +1,8 @@
 event handling
 filterMouseEvent: anEvent
 
-	anEvent isDraggingEvent ifTrue: [self scene updateDraw].
-	((self rightMouseButtonAllowed: anEvent) and:
-	[(self scene isMouseInNavigator: anEvent) or:
-	[(self scene isMouseInHighlightedMorph: anEvent)]])
+	self updateDrawIfDragging: anEvent.
+	((self isRightMouseButtonAllowed: anEvent) and:
+	[self isMouseInAllowedArea: anEvent])
 		ifFalse: [ anEvent ignore ].
 	^ anEvent

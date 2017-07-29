@@ -2,4 +2,4 @@ event handling
 handleMouseEvent: anEvent
 
 	self scene listenerExtension runOnMorphMouseEvent: anEvent.
-	self checkIfMouseButtonWasPressed: anEvent.
+	self checkAdvancePlay: anEvent.

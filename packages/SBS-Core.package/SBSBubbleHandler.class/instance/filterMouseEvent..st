@@ -1,6 +1,6 @@
 event handling
 filterMouseEvent: anEvent
 
-	(self isEventInHighlightedMorph: anEvent)
+	(self scene isMouseNotInNavigatorButInHighlightedMorph: anEvent)
 		ifTrue: [self handleMouseEvent: anEvent].
 	^ anEvent
