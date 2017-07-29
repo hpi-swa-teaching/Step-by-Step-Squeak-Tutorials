@@ -1,4 +1,4 @@
-accessing
+convenience
 hideAllMorphsOnStart
 
 	self options hideAllMorphs: true.

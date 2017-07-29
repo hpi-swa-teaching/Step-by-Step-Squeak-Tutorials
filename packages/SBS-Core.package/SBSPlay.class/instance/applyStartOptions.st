@@ -1,4 +1,4 @@
-as yet unclassified
+lifecyle
 applyStartOptions
 
 	self options hideAllMorphs ifTrue: [self tools hideAllMorphs].

@@ -1,4 +1,4 @@
-as yet unclassified
+convenience
 currentSceneNumber
 
 	^ self scenes indexOf: self currentScene

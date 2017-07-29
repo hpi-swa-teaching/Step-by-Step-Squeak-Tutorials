@@ -1,4 +1,4 @@
-as yet unclassified
+convenience-lifecycle
 startPlay
 
 	(self isRunning or: [self scenes isEmpty]) ifTrue: [^ self].

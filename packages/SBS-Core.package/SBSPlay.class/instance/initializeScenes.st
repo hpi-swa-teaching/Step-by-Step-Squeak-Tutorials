@@ -1,4 +1,4 @@
 initialization
-emptyScenes
+initializeScenes
 
 	self scenes: OrderedCollection new.

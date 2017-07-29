@@ -3,7 +3,7 @@ initialize
 
 	super initialize.
 	self
-		emptyScenes;
+		initializeScenes;
 		initializeNavigator;
 		initializeOptions;
 		initializeTools;

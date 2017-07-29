@@ -1,7 +1,7 @@
-as yet unclassified
+convenience
 nextScene
 
 	self currentScene listenerExtension runOnNext.
-	self currentScene == self scenes last
+	self currentScene = self scenes last
 		ifTrue: [self endPlay]
-		ifFalse: [self showScene: (self scenes at: self currentSceneNumber + 1)].
+		ifFalse: [self showNextScene].

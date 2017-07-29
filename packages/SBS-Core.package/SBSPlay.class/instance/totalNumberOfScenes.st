@@ -1,4 +1,4 @@
-as yet unclassified
+convenience
 totalNumberOfScenes
 
 	^ self scenes size
