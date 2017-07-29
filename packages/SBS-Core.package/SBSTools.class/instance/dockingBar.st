@@ -1,5 +1,5 @@
 accessing
 dockingBar
 
-	self basicDockingBar ifNil: [self searchDockingBar]. 
+	self basicDockingBar ifNil: [self dockingBar: self searchDockingBar]. 
 	^	self basicDockingBar

@@ -1,4 +1,4 @@
-as yet unclassified
+convenience
 runBlockOrSelector: aBlockOrSelector withArgument: anObject
 
 	aBlockOrSelector ifNil: [^ self].

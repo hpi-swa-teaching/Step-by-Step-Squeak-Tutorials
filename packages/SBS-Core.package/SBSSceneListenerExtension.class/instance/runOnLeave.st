@@ -1,3 +1,4 @@
-accessing
+convenience
 runOnLeave
+
 	self runBlockOrSelector: self onLeave.
