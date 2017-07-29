@@ -1,4 +1,4 @@
 accessing
-maxWidth: aNumber
+maxWidth: aWidth
 
-	maxWidth := aNumber.
+	maxWidth := aWidth.

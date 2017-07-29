@@ -4,7 +4,7 @@ initialize
 	super initialize.
 	self
 		initializeTextMorph;
+		setBackgroundColor;
 		cornerStyle: #rounded;
-		backgroundColor: self class DefaultBackgroundColor;
 		maxWidth: self class DefaultMaxWidth;
 		alignType: self class DefaultAlignType.

@@ -1,4 +1,4 @@
 accessing
-prevButton: aMorph
+prevButton: aButton
 
-	prevButton := aMorph.
+	prevButton := aButton.

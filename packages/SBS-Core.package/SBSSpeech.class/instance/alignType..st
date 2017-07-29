@@ -1,4 +1,4 @@
 accessing
-alignType: aSymbol
+alignType: anAlignType
 
-	alignType := aSymbol.
+	alignType := anAlignType.

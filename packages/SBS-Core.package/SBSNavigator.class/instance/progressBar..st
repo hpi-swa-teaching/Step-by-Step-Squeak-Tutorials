@@ -1,4 +1,4 @@
 accessing
-progressBar: anObject
+progressBar: aProgressBar
 
-	progressBar := anObject.
+	progressBar := aProgressBar.

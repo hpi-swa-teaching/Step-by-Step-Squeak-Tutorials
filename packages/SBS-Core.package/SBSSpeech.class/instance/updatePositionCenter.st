@@ -1,3 +1,4 @@
-as yet unclassified
+computing
 updatePositionCenter
+
 	self center: self highlightedMorph center.

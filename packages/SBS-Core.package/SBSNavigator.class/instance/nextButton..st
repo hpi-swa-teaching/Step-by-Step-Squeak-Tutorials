@@ -1,4 +1,4 @@
 accessing
-nextButton: aMorph
+nextButton: aButton
 
-	nextButton := aMorph.
+	nextButton := aButton.

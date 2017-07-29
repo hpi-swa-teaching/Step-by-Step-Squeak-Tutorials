@@ -7,4 +7,4 @@ initializeRootLayout
 		wrapDirection: #none;
 		listCentering: #topLeft;
 		wrapCentering: #center;
-		layoutInset: 10 @ 10.
+		layoutInset: self class LayoutInset.

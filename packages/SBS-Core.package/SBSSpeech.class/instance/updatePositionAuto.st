@@ -1,5 +1,6 @@
-as yet unclassified
+computing
 updatePositionAuto
+
 	| methods |
 	methods := OrderedCollection  
 		with: [self updatePositionBottom]
@@ -7,6 +8,6 @@ updatePositionAuto
 		with: [self updatePositionLeft]
 		with: [self updatePositionTop]
 		with: [self updatePositionCenter].
-	methods do: [ :m |
-		m value.
-		(self owner bounds containsRect: self bounds) ifTrue: [^ self].].
+	methods do: [ :m | 
+		m value. 
+		(self owner bounds containsRect: self bounds) ifTrue: [^ self]].

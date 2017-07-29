@@ -1,5 +1,6 @@
-as yet unclassified
+computing
 updateTextMorphWidth
+
 	self textMorph width < self class MinWidth
 		ifTrue: [self width: self class MinWidth]
 		ifFalse: [self textMorph width > self maxWidth
