@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 traverseRootMorphHierarchy
 
 	(self rootMorph isMemberOf: SBSMorphFinder) 

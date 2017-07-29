@@ -1,4 +1,4 @@
-as yet unclassified
+constructors
 makeSceneWithSpeech: aSpeechString center: aPoint 
 
 	^ SBSScene new 

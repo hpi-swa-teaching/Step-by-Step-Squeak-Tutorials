@@ -1,4 +1,4 @@
-as yet unclassified
+constructors
 makeSceneForMorphUsingCustomSearchStartingAt: aMorph searchCriteria: aMethodBlock
 
 	^ SBSScene new

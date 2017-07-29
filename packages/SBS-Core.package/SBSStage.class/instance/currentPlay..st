@@ -1,3 +1,4 @@
-private
+accessing
 currentPlay: aPlay
+
 	currentPlay := aPlay.

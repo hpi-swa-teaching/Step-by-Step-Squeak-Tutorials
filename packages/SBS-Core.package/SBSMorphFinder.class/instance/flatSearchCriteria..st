@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 flatSearchCriteria: aMethodBlock
 
 	self assert: [aMethodBlock notNil].

@@ -1,3 +1,4 @@
-as yet unclassified
+convenience
 removeCurrentPlay
+
 	self currentPlay: nil.

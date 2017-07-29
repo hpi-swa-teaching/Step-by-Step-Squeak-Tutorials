@@ -1,4 +1,4 @@
-as yet unclassified
+constructors
 makeSceneForMorphBlockDescription: aMethodBlock
 
 	^ SBSScene new

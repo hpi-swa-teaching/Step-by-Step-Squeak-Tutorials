@@ -1,4 +1,4 @@
-as yet unclassified
+constructors
 makeSceneForMorphSearchStartingAt: aMorph using: aSymbol searchValue: aString
 
 	^ SBSScene new

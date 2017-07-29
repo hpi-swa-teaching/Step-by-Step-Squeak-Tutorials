@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 findByClass
 
 	^ self findByCriteria: [:morph | morph isMemberOf: self searchValue]

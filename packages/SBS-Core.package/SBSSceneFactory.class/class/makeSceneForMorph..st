@@ -1,4 +1,4 @@
-as yet unclassified
+constructors
 makeSceneForMorph: aMorph
 
 	^ SBSScene new

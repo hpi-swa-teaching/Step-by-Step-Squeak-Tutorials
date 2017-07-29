@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 findByCriteria: aMethodBlock
  
 	^ self basicUseDeepSearch 
