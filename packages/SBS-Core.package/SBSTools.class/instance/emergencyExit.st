@@ -1,6 +1,7 @@
-accessing
-killAll
+convenience
+emergencyExit
+
 	SBSStage singleStage isAvailable ifFalse: [SBSStage singleStage currentPlay endPlay].
 	SBSStage reset.
-	SBSScene allSubInstancesDo: [ :s | s delete. s abandon. ].
+	SBSScene allSubInstancesDo: [ :s | s abandon].
 	Smalltalk garbageCollect.

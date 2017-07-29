@@ -1,6 +1,5 @@
-as yet unclassified
+convenience
 hideAllMorphs
-	| menu |
-	menu := self dockingbar.
-	self visibleMorphs: (World submorphs select: [ :s | s visible and: [s ~= menu]]) asOrderedCollection.
+
+	self visibleMorphs: self findAllVisibleMorphs.
 	self visibleMorphs do: [ :s | s hide].

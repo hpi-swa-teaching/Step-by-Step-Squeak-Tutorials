@@ -1,4 +1,5 @@
-as yet unclassified
+convenience
 hideAllSystemButtons
-	self visibleSystemButtons: (SystemWindowButton allInstances select: [ :s | s visible]) asOrderedCollection.
+
+	self visibleSystemButtons: self findAllSystemButtons.
 	self visibleSystemButtons do: [ :s | s hide].

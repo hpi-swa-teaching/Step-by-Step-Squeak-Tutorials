@@ -2,7 +2,7 @@
 	"class" : {
 		"KillAllKeyString" : "Deeps 7/19/2017 16:07" },
 	"instance" : {
-		"checkIfKillAllPressed:" : "Deeps 7/27/2017 18:39",
+		"checkIfKillAllPressed:" : "Deeps 7/29/2017 15:22",
 		"filterKeyboardEvent:" : "Deeps 7/27/2017 18:57",
 		"filterKeyboardEvent:for:" : "Deeps 7/27/2017 18:39",
 		"filterMouseEvent:" : "Deeps 7/27/2017 21:23",
