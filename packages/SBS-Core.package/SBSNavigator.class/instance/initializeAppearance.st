@@ -1,7 +1,7 @@
 initialization
 initializeAppearance
 
-	self 
+	self
 		resistsRemoval: true;
 		sticky: true;
 		height: self class NavigatorHeight;

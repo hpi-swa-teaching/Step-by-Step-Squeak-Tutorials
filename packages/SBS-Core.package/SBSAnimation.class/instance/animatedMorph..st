@@ -1,4 +1,4 @@
 accessing
-animatedMorph: aMorph
+animatedMorph: anObject
 	
-	animatedMorph := aMorph.
+	animatedMorph := anObject.

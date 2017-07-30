@@ -1,6 +1,5 @@
 accessing
 highlightedMorph: aMorph
 
-	self 
-		basicHighlightedMorph: aMorph;
+	self basicHighlightedMorph: aMorph;
 		updatePosition.

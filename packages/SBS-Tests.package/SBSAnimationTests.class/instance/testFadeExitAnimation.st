@@ -1,8 +1,6 @@
 as yet unclassified
 testFadeExitAnimation
-
-	self subject addExitAnimation: ((SBSFadeAnimation newFadeOutWithDuration: 400) 
-										onFinished: [self assert: self subject color alpha equals: 0]).
-	self subject play startPlay.
-	self assert: (self subject color alpha roundTo: 0.1) equals: 0.5.
-	self subject play nextScene.
+	self subject morphs first addExitAnimation: ((SBSFadeAnimation newFadeOutWithDuration: 400) onFinished: [self assert: self subject morphs first color alpha equals: 0]).
+	self subject morphs first play startPlay.
+	self assert: (self subject morphs first color alpha roundTo: 0.1) equals: 0.5.
+	self subject morphs first play nextScene.

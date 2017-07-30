@@ -1,7 +1,6 @@
 initialization
 assignActionsToNavigationButtons
 
-	self 
-		assignAction: #onPrevClicked toButton: self prevButton;
-		assignAction: #onSkipClicked toButton: self skipButton;
-		assignAction: #onNextClicked toButton: self nextButton.
+	self assignAction: #onPrevClicked toButton: self prevButton.
+	self assignAction: #onSkipClicked toButton: self skipButton.
+	self assignAction: #onNextClicked toButton: self nextButton.

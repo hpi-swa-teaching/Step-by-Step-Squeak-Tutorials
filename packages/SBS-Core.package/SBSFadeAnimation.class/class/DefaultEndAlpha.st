@@ -1,4 +1,4 @@
 constants
-DefaultHighAlpha
+DefaultEndAlpha
 
 	^ 0.5

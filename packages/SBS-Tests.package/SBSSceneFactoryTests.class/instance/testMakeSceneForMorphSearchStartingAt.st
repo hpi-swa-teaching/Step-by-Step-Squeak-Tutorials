@@ -1,6 +1,5 @@
 as yet unclassified
 testMakeSceneForMorphSearchStartingAt
-
 	| scene stringMorph |
 	stringMorph := StringMorph new openInWorld.
 	stringMorph contents: self class TestString.

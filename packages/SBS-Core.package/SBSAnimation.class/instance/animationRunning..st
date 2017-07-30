@@ -1,4 +1,4 @@
 accessing
-animationRunning: aBoolean
+animationRunning: anObject
 	
-	animationRunning := aBoolean.
+	animationRunning := anObject.

@@ -1,0 +1,4 @@
+constants
+DefaultStartAlpha
+
+	^ 0

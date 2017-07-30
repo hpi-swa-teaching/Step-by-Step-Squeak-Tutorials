@@ -1,4 +1,4 @@
 accessing
-startTime: aTime
+startTime: anObject
 	
-	startTime := aTime.
+	startTime := anObject.

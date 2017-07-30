@@ -1,4 +1,6 @@
 animation
 doAnimation
 
-	self animationRunning ifTrue: [ self animate].
+	self animationRunning ifTrue: [
+		self updateStatus.
+		self doAnimationStep].

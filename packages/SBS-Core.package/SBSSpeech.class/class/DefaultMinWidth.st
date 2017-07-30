@@ -1,4 +1,0 @@
-constants
-DefaultMinWidth
-
-	^ 320

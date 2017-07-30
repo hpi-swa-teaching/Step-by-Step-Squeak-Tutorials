@@ -1,10 +1,8 @@
 as yet unclassified
 testSwipeExitAnimation
-
-	self subject addExitAnimation: ((SBSSwipeAnimation newRightToLeftWithDuration: 200) 
-										onFinished: [self assert: self subject position x equals: Display width]).
-	self subject play startPlay.
-	self assert: self subject position x equals: 0.
-	self subject play nextScene.
+	self subject morphs first addExitAnimation: ((SBSSwipeAnimation newRightToLeftWithDuration: 200) onFinished: [self assert: self subject morphs first position x equals: Display width]).
+	self subject morphs first play startPlay.
+	self assert: self subject morphs first position x equals: 0.
+	self subject morphs first play nextScene.
 	
 
