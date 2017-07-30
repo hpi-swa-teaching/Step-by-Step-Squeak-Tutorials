@@ -1,4 +1,5 @@
-as yet unclassified
+animation
 computeMorphPosition
-	^ self startPosition + ((self endPosition - self startPosition) * (self currentTime / self duration))
+
+	^ self startPosition + ((self endPosition - self startPosition) * self progress)
 	

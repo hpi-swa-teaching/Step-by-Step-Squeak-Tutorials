@@ -1,4 +1,5 @@
-as yet unclassified
+animation
 stopAnimation
-	self animationStarted: false.
-	self onFinishBlock ifNotNil: [self onFinishBlock value: self morph].
+
+	self animationRunning: false.
+	self onFinished ifNotNil: [self onFinished value: self animatedMorph].

@@ -1,12 +1,14 @@
 {
 	"class" : {
-		"newFadeInWithDuration:" : "DK 6/27/2017 23:42",
-		"newFadeOutWithDuration:" : "DK 6/27/2017 23:41" },
+		"DefaultEndAlpha" : "EM 7/30/2017 11:50",
+		"DefaultStartAlpha" : "EM 7/30/2017 11:50",
+		"newFadeInWithDuration:" : "EM 7/30/2017 11:53",
+		"newFadeOutWithDuration:" : "EM 7/30/2017 11:52" },
 	"instance" : {
-		"computeAlpha" : "DK 6/27/2017 23:40",
-		"doAnimationStep" : "DK 6/27/2017 23:40",
-		"endAlpha" : "DK 6/27/2017 23:40",
-		"endAlpha:" : "DK 6/27/2017 23:40",
-		"startAlpha" : "DK 6/27/2017 23:40",
-		"startAlpha:" : "DK 6/27/2017 23:40",
-		"startAnimation:" : "EM 6/27/2017 12:00" } }
+		"computeAlpha" : "EM 7/30/2017 11:43",
+		"doAnimationStep" : "EM 7/30/2017 11:44",
+		"endAlpha" : "EM 7/30/2017 11:43",
+		"endAlpha:" : "EM 7/30/2017 11:43",
+		"startAlpha" : "EM 7/30/2017 11:43",
+		"startAlpha:" : "EM 7/30/2017 11:43",
+		"startAnimation" : "EM 7/30/2017 11:46" } }

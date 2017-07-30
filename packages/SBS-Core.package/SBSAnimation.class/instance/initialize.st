@@ -1,7 +1,6 @@
-as yet unclassified
+initialization
 initialize
+
 	super initialize.
-	self 
-		currentTime: 0;
-		animationStarted: false.
+	self animationRunning: false.
 	

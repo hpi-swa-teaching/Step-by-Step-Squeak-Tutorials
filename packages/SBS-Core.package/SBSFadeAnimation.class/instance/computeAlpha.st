@@ -1,3 +1,4 @@
-as yet unclassified
+animation
 computeAlpha
-	^ self startAlpha  + ((self endAlpha - self startAlpha) * (self currentTime / self duration))
+
+	^ self startAlpha  + ((self endAlpha - self startAlpha) * self progress)

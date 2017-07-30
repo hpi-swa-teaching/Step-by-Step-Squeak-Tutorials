@@ -1,8 +1,8 @@
-as yet unclassified
+constructors
 newFadeOutWithDuration: aDuration
+
 	^ SBSFadeAnimation new 
-		startAlpha: 0.5; 
-		endAlpha: 0;
-		duration: aDuration; 
-		onFinishBlock: 
-			[:morph | morph hide.]
+						   startAlpha: self DefaultEndAlpha; 
+				     		   endAlpha: self DefaultStartAlpha;
+						   duration: aDuration; 
+						   onFinishBlock: [:morph | morph hide.]

@@ -1,3 +1,4 @@
-as yet unclassified
+animation
 doAnimationStep 
-	self morph color: (Color r: (self morph color red) g: (self morph color green) b: (self morph color blue) alpha: self computeAlpha).
+
+	self animatedMorph color alpha: self computeAlpha.

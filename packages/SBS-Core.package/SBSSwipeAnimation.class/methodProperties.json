@@ -8,10 +8,10 @@
 		"newLeftToRightWithDuration:" : "DK 6/27/2017 23:40",
 		"newRightToLeftWithDuration:" : "DK 6/27/2017 23:40" },
 	"instance" : {
-		"computeMorphPosition" : "DK 6/27/2017 23:39",
-		"doAnimationStep" : "DK 6/27/2017 23:39",
-		"endPosition" : "DK 6/26/2017 21:36",
-		"endPosition:" : "DK 6/26/2017 21:36",
-		"startAnimation:" : "EM 6/27/2017 10:39",
+		"computeMorphPosition" : "EM 7/30/2017 11:47",
+		"doAnimationStep" : "EM 7/30/2017 12:55",
+		"endPosition" : "EM 7/30/2017 11:47",
+		"endPosition:" : "EM 7/30/2017 11:47",
+		"startAnimation" : "EM 7/30/2017 11:48",
 		"startPosition" : "DK 6/26/2017 21:37",
 		"startPosition:" : "DK 6/26/2017 21:37" } }
