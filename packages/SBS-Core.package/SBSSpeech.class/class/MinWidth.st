@@ -1,4 +1,0 @@
-constants
-MinWidth
-
-	^ 300

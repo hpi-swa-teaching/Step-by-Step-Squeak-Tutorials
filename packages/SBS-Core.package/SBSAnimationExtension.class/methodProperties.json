@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addEnterAnimation:" : "EM 7/11/2017 16:44",
-		"addExitAnimation:" : "EM 7/11/2017 16:43",
-		"doAnimation" : "Deeps 7/27/2017 23:14",
+		"addEnterAnimation:" : "EM 7/30/2017 12:07",
+		"addExitAnimation:" : "EM 7/30/2017 12:07",
+		"doAnimation" : "EM 7/30/2017 12:07",
 		"enterAnimated" : "EM 7/11/2017 16:43",
 		"enterAnimated:" : "EM 7/11/2017 16:43",
 		"enterAnimation" : "EM 7/11/2017 16:43",
@@ -13,6 +13,6 @@
 		"exitAnimated:" : "EM 7/11/2017 16:43",
 		"exitAnimation" : "EM 7/11/2017 16:43",
 		"exitAnimation:" : "EM 7/11/2017 16:43",
-		"initialize" : "EM 7/11/2017 17:02",
-		"startEnterAnimation:Then:" : "EM 7/11/2017 17:06",
-		"startExitAnimation:Then:" : "EM 7/11/2017 17:06" } }
+		"initialize" : "EM 7/30/2017 12:07",
+		"startEnterAnimation" : "EM 7/30/2017 12:18",
+		"startExitAnimation" : "EM 7/30/2017 12:19" } }

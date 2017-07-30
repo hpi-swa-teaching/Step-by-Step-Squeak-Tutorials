@@ -2,6 +2,6 @@ initialization
 initializeTextMorph
 
 	self textMorph: (TextMorph new readOnly: true);
-		setTextMorphFont;
 		setTextMorphColor;
+		setTextMorphFont;
 		addMorphBack: self textMorph.

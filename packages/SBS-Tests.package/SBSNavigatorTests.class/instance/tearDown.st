@@ -1,5 +1,6 @@
 as yet unclassified
-tearDown 
+tearDown
+
 	SBSStage reset.
 	self subject: nil.
 	self play notNil ifTrue: [self play endPlay].

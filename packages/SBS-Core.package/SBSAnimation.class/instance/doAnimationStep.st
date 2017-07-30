@@ -1,3 +1,4 @@
-as yet unclassified
+animation
 doAnimationStep
+
 	self subclassResponsibility.

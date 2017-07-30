@@ -1,7 +1,9 @@
 lifecycle
 leaveScene
 
-	self animationExtension startExitAnimation: self Then: [ :step | step doLeaveScene].
+	self animationExtension exitAnimated 
+		ifTrue: [self animationExtension startExitAnimation]
+		ifFalse: [self leave].
 		
 		
 		

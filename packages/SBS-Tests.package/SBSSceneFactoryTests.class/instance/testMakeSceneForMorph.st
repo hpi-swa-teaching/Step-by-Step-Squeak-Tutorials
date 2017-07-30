@@ -1,5 +1,6 @@
 as yet unclassified
 testMakeSceneForMorph
+
 	| scene rect |
 	rect := RectangleMorph new openInWorld.
 	scene := (SBSSceneFactory makeSceneForMorph: rect).

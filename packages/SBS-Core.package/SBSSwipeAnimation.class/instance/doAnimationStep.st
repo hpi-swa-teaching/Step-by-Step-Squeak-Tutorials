@@ -1,3 +1,4 @@
-as yet unclassified
+animation
 doAnimationStep 
-	self morph position: self computeMorphPosition.
+
+	self animatedMorph position: self computeMorphPosition.

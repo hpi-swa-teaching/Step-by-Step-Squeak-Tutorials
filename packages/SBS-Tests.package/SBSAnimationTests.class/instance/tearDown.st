@@ -1,5 +1,6 @@
 as yet unclassified
 tearDown 
+
 	SBSStage reset.
 	self subject morphs first play endPlay.
 	self subject: nil.

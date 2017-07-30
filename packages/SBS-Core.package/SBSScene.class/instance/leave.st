@@ -1,5 +1,5 @@
 lifecycle
-doLeaveScene
+leave
 
 	self listenerExtension runOnLeave.
 	self wasHighlightedMorphFound ifTrue: [self unregisterMouseBubbleFilter].
@@ -9,4 +9,4 @@ doLeaveScene
 		stopDeleteStepping;
 		applyExitOptions;
 		hide.
-	self play lastSceneLeft.		
+	self play onSceneLeft.		
