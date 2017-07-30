@@ -24,4 +24,4 @@ To protect the tutorial user, against dirty code from the tutorial creator, he c
 
 ## Coding standards
 
-Our coding standards are located in the [Wiki](https://github.com/openHPI/jenz/wiki/).
+Our coding standards are located in the [Wiki](https://github.com/HPI-SWA-Teaching/SWT17-Project-11/wiki).
