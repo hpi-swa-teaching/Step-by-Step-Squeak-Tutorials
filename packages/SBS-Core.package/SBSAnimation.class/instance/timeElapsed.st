@@ -1,4 +1,4 @@
 accessing
 timeElapsed
 
-	^ (Time millisecondClockValue - self startTime) >= self duration.
+	^ (Time millisecondClockValue - self startTime) >= self duration

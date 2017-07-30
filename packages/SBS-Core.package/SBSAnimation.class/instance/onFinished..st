@@ -1,4 +1,4 @@
 accessing
-onFinished: anObject
+onFinished: aBlock
 	
-	onFinished := anObject.
+	onFinished := aBlock.

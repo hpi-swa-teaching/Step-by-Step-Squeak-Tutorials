@@ -2,7 +2,7 @@ constructors
 newFadeOutWithDuration: aDuration
 
 	^ SBSFadeAnimation new 
-						   startAlpha: self DefaultEndAlpha; 
-				     		   endAlpha: self DefaultStartAlpha;
+						   startAlpha: self DefaultHighAlpha; 
+				     		   endAlpha: self DefaultLowAlpha;
 						   duration: aDuration; 
 						   onFinishBlock: [:morph | morph hide.]

@@ -3,9 +3,9 @@
 		 },
 	"instance" : {
 		"setUp" : "dk 7/30/2017 17:06",
-		"tearDown" : "dk 7/30/2017 17:06",
-		"testAddAnimationToPlay" : "dk 7/30/2017 17:06",
-		"testFadeEnterAnimation" : "dk 7/30/2017 17:06",
-		"testFadeExitAnimation" : "dk 7/30/2017 17:06",
-		"testSwipeEnterAnimation" : "dk 7/30/2017 17:07",
-		"testSwipeExitAnimation" : "dk 7/30/2017 17:07" } }
+		"tearDown" : "dk 7/30/2017 17:44",
+		"testAddAnimationToPlay" : "dk 7/30/2017 17:46",
+		"testFadeEnterAnimation" : "dk 7/30/2017 19:12",
+		"testFadeExitAnimation" : "dk 7/30/2017 19:12",
+		"testSwipeEnterAnimation" : "dk 7/30/2017 19:12",
+		"testSwipeExitAnimation" : "dk 7/30/2017 19:13" } }

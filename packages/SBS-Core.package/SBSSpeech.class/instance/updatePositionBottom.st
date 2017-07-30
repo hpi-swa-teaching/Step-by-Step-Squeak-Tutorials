@@ -1,5 +1,6 @@
 computing
 updatePositionBottom
 
-	self updatePositionCenter;
+	self 
+		updatePositionCenter;
 		top: self highlightedMorph bottom + self class Margin.
