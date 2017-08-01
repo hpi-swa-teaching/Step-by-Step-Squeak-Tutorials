@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"DefaultEndAlpha" : "EM 7/30/2017 11:50",
-		"DefaultStartAlpha" : "EM 7/30/2017 11:50",
-		"newFadeInWithDuration:" : "EM 7/30/2017 11:53",
-		"newFadeOutWithDuration:" : "EM 7/30/2017 19:33" },
+		"DefaultHighAlpha" : "dk 7/30/2017 17:57",
+		"DefaultLowAlpha" : "dk 7/30/2017 17:57",
+		"newFadeInWithDuration:" : "dk 7/30/2017 17:59",
+		"newFadeOutWithDuration:" : "dk 8/1/2017 12:13" },
 	"instance" : {
 		"computeAlpha" : "EM 7/30/2017 11:43",
 		"doAnimationStep" : "EM 7/30/2017 19:31",

@@ -1,10 +1,10 @@
 {
 	"class" : {
-		"DefaultVector" : "DK 6/26/2017 21:35",
-		"LeftPosition" : "DK 6/27/2017 23:39",
-		"RightPosition" : "DK 6/27/2017 23:39",
-		"newExitLeftToRightWithDuration:" : "DK 6/27/2017 23:39",
-		"newExitRightToLeftWithDuration:" : "DK 6/27/2017 23:39",
+		"DefaultVector" : "dk 8/1/2017 12:14",
+		"LeftPosition" : "dk 8/1/2017 12:14",
+		"RightPosition" : "dk 8/1/2017 12:14",
+		"newExitLeftToRightWithDuration:" : "dk 8/1/2017 12:14",
+		"newExitRightToLeftWithDuration:" : "dk 8/1/2017 12:14",
 		"newLeftToRightWithDuration:" : "DK 6/27/2017 23:40",
 		"newRightToLeftWithDuration:" : "DK 6/27/2017 23:40" },
 	"instance" : {

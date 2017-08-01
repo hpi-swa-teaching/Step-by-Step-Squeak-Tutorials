@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"TestSpeechBackgroundColor" : "dk 7/26/2017 11:37",
-		"TestSpeechPosition" : "dk 7/26/2017 11:38",
-		"TestSpeechText" : "dk 7/26/2017 11:38",
-		"TestSpeechTextColor" : "dk 7/26/2017 11:38" },
+		"TestSpeechBackgroundColor" : "dk 7/30/2017 17:11",
+		"TestSpeechPosition" : "dk 7/30/2017 17:11",
+		"TestSpeechText" : "dk 7/30/2017 17:11",
+		"TestSpeechTextColor" : "dk 7/30/2017 17:11" },
 	"instance" : {
-		"setUp" : "dk 7/26/2017 11:40",
-		"tearDown" : "dk 7/26/2017 13:44",
+		"setUp" : "dk 7/30/2017 17:04",
+		"tearDown" : "dk 7/30/2017 17:04",
 		"testInitializeWithMorph" : "dk 7/26/2017 11:40",
 		"testInitializeWithPosition" : "dk 7/26/2017 11:40" } }

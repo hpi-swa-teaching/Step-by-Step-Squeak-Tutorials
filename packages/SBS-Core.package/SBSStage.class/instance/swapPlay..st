@@ -1,6 +1,6 @@
 lifecycle
 swapPlay: aPlay
 
-	self currentPlay ifNotNil: [self currentPlay endPlay].
+	self currentPlay ifNotNil: [self currentPlay end].
 	self currentPlay: aPlay.
-	self currentPlay startPlay.
+	self currentPlay start.

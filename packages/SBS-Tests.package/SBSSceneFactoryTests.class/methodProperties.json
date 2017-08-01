@@ -1,13 +1,13 @@
 {
 	"class" : {
-		"TestSpeechPosition" : "dk 7/26/2017 11:44",
-		"TestSpeechString" : "dk 7/26/2017 11:43",
-		"TestString" : "dk 6/29/2017 11:13" },
+		"TestSpeechPosition" : "dk 7/30/2017 17:11",
+		"TestSpeechString" : "dk 7/30/2017 17:11",
+		"TestString" : "dk 7/30/2017 17:11" },
 	"instance" : {
-		"play" : "dk 7/26/2017 00:48",
-		"play:" : "dk 7/26/2017 01:50",
-		"setUp" : "dk 7/26/2017 01:51",
-		"tearDown" : "dk 7/26/2017 11:17",
-		"testMakeSceneForMorph" : "dk 7/26/2017 01:52",
-		"testMakeSceneForMorphSearchStartingAt" : "dk 7/26/2017 01:52",
-		"testMakeSceneWithSpeechAtPosition" : "dk 7/26/2017 11:44" } }
+		"play" : "dk 7/30/2017 17:08",
+		"play:" : "dk 7/30/2017 17:08",
+		"setUp" : "dk 7/30/2017 17:08",
+		"tearDown" : "dk 8/1/2017 12:22",
+		"testMakeSceneForMorph" : "dk 7/30/2017 17:08",
+		"testMakeSceneForMorphSearchStartingAt" : "dk 7/30/2017 17:08",
+		"testMakeSceneWithSpeechAtPosition" : "dk 7/30/2017 17:08" } }

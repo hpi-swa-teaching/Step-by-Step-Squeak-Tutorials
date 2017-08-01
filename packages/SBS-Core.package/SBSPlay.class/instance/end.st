@@ -1,5 +1,5 @@
 convenience-lifecycle
-endPlay
+end
 
 	self isRunning ifFalse: [^ self].
 	self 

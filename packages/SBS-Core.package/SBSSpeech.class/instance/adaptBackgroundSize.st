@@ -1,7 +1,9 @@
 computing
-updateBackgroundSize
+adaptBackgroundSize
 
-	self updateTextMorphWidth;
+	self 
+		adaptWidth;
 		height: self textMorph height + self class PaddingTopBottom + SBSNavigator NavigatorHeight.
-	self textMorph center: self center;
+	self textMorph 
+			center: self center;
 			top: self top + (self class PaddingTopBottom / 2).

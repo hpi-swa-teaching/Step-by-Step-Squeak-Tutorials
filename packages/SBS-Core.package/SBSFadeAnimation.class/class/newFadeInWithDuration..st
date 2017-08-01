@@ -2,6 +2,6 @@ constructors
 newFadeInWithDuration: aDuration
 
 	^ SBSFadeAnimation new 
-						   startAlpha: self DefaultStartAlpha; 
-						   endAlpha: self DefaultEndAlpha; 
+						   startAlpha: self DefaultLowAlpha; 
+						   endAlpha: self DefaultHighAlpha; 
 						   duration: aDuration

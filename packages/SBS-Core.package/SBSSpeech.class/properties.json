@@ -10,7 +10,8 @@
 		"alignType",
 		"highlightedMorph",
 		"textMorph",
-		"maxWidth" ],
+		"maxWidth",
+		"minWidth" ],
 	"name" : "SBSSpeech",
 	"pools" : [
 		 ],

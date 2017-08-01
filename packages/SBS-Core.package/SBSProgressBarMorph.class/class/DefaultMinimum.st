@@ -1,4 +1,4 @@
 constants
 DefaultMinimum
 
-	^	0.0
+	^ 0.0

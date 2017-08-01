@@ -8,6 +8,5 @@ updatePositionAuto
 		with: [self updatePositionLeft]
 		with: [self updatePositionTop]
 		with: [self updatePositionCenter].
-	methods do: [ :m | 
-		m value. 
+	methods do: [ :m | m value. 
 		(self owner bounds containsRect: self bounds) ifTrue: [^ self]].

@@ -1,4 +1,4 @@
 actions
 showPrevScene
 
-	self showScene: (self scenes at: self currentSceneNumber - 1).
+	self showScene: (self scenes before: self currentScene).

@@ -1,0 +1,4 @@
+constants
+DefaultMinWidth
+
+	^ 320

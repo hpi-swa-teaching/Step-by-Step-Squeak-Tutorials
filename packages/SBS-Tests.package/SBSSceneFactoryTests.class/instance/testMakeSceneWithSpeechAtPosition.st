@@ -1,5 +1,6 @@
 as yet unclassified
 testMakeSceneWithSpeechAtPosition
+
 	| scene |
 	scene := (SBSSceneFactory makeSceneWithSpeech: self class TestSpeechString atPosition: self class TestSpeechPosition).
 	self play addScene: scene.

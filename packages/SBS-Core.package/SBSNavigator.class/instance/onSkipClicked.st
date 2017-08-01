@@ -1,4 +1,4 @@
 actions
 onSkipClicked
 
-	self play endPlay.
+	self play end.
