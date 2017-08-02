@@ -1,5 +1,5 @@
 conditions
 isMouseNotInNavigatorButInHighlightedMorph: anEvent
 
-	^	(self isMouseNotInNavigator: anEvent) and: 
+	^	((self isMouseNotInNavigator: anEvent) not) and: 
 			[self isMouseInHighlightedMorph: anEvent]

@@ -1,6 +1,6 @@
 actions
 searchDockingBar
 
-	^	(SBSMorphFinder withRoot: World withType: #class withValue: DockingBarMorph)
+	^	(SBSMorphFinder withRoot: World withCustomCriteria: [ :m | m isDockingBar])
 			useFlatSearch;
 			find
