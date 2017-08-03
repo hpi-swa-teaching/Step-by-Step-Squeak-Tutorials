@@ -1,12 +1,5 @@
 computing
 updatePositionAuto
 
-	| methods |
-	methods := OrderedCollection  
-		with: [self updatePositionBottom]
-		with: [self updatePositionRight]
-		with: [self updatePositionLeft]
-		with: [self updatePositionTop]
-		with: [self updatePositionCenter].
-	methods do: [ :m | m value. 
+	self class PositionMethods do: [ :m | self perform: m. 
 		(self owner bounds containsRect: self bounds) ifTrue: [^ self]].
