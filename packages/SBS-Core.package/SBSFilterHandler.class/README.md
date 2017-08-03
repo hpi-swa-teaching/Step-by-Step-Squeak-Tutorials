@@ -1,0 +1,1 @@
+A SBSFilterHandler is a filter of user interactions. This makes it possible to prevent the user to mess it up by doing things that are not part of the tutorial.

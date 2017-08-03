@@ -1,0 +1,1 @@
+A SBSSceneFactory is a pattern to build the scenes.

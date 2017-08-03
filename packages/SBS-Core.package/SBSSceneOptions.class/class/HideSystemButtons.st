@@ -1,4 +1,4 @@
 constants
 HideSystemButtons
 
-	^	false
+	^ false

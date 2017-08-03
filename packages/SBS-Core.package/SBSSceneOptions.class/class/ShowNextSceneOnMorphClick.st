@@ -1,4 +1,4 @@
 constants
 ShowNextSceneOnMorphClick
 
-	^	false
+	^ false

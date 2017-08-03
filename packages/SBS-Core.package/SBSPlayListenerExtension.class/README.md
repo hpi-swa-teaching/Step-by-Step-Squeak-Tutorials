@@ -1,0 +1,1 @@
+A SBSPlayListenerExtension is a class that makes it possible to react on the events happening in the Play.

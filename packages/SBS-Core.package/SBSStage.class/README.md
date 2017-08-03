@@ -1,0 +1,1 @@
+A SBSStage is the place where Plays are played. For that it's possible to run multiple Plays after each other, all are played on this stage.

@@ -1,0 +1,1 @@
+A SBSBubbleHandler is a filter that makes it possible to react on the right user interaction.

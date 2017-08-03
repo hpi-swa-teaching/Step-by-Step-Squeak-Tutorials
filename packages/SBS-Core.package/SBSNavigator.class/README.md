@@ -1,0 +1,1 @@
+A SBSNavigator is the main navigation bar the user can use. It contains the buttons 'skip', 'previous' and 'next'. It also holds the progressBar and the speech, that is given to the user.

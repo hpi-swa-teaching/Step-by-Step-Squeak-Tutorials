@@ -1,0 +1,1 @@
+A SBSFadeAnimation is a concrete implemention of SBSAnimation for the animation of fading.

@@ -1,0 +1,1 @@
+A SBSMorphFinder is a fundamental tool to enable the Stepy-By-Stepy-tutorial designer to navigate through all the world of morphs and find the necessary ones. It is used in a lot of other classes.

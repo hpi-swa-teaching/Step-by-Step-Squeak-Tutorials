@@ -1,0 +1,1 @@
+A SBSSceneListenerExtension is a class that makes it possible to react on the events happening in a single Scene.

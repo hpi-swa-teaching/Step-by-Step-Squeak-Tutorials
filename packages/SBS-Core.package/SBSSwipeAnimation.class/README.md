@@ -1,0 +1,1 @@
+A SBSSwipeAnimation is a concrete implemention of SBSAnimation for the animation of swiping.

@@ -1,4 +1,4 @@
 constants
 HideNextButton
 
-	^	false
+	^ false

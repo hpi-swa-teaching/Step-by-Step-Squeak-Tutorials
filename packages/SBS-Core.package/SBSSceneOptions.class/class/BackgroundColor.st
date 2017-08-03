@@ -1,4 +1,4 @@
 constants
 BackgroundColor
 
-	^	Color black
+	^ Color black

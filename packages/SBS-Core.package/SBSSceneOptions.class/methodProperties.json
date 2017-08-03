@@ -1,11 +1,11 @@
 {
 	"class" : {
 		"BackgroundAlpha" : "Deeps 7/27/2017 22:14",
-		"BackgroundColor" : "Deeps 7/27/2017 22:14",
+		"BackgroundColor" : "pre 8/3/2017 21:02",
 		"BlockRightMouseClick" : "Deeps 7/27/2017 22:14",
-		"HideNextButton" : "Deeps 7/27/2017 22:14",
-		"HideSystemButtons" : "Deeps 7/27/2017 22:14",
-		"ShowNextSceneOnMorphClick" : "Deeps 7/27/2017 22:14" },
+		"HideNextButton" : "pre 8/3/2017 21:02",
+		"HideSystemButtons" : "pre 8/3/2017 21:02",
+		"ShowNextSceneOnMorphClick" : "pre 8/3/2017 21:02" },
 	"instance" : {
 		"backgroundAlpha" : "Deeps 7/1/2017 17:01",
 		"backgroundAlpha:" : "Deeps 7/1/2017 17:02",

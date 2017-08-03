@@ -1,0 +1,1 @@
+A SBSTools is a class with different helper methods to provide logic functionalities.

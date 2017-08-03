@@ -1,0 +1,1 @@
+A SBSListenerExtension is a meta class that adds listener to the actions and events happening during the tutorial and makes it possible to react on them. This class is for inheritence, concrete ListenerExtensions are implemented in SBSPlayListenerExtension and SBSSceneListenerExtension.

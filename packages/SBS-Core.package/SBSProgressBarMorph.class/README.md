@@ -1,0 +1,1 @@
+A SBSProgressBarMorph is the bar showing the user's progress textually and graphically. It is updated with every scene that's completed.

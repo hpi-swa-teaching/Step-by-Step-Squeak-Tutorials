@@ -1,5 +1,6 @@
-as yet unclassified
+configs
 newExitRightToLeftWithDuration: aDuration
+
 	^ SBSSwipeAnimation new 
 		startPosition: self RightPosition;
 		endPosition: self LeftPosition;

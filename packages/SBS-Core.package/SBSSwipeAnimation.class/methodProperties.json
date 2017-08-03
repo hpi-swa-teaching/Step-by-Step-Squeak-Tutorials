@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"DefaultVector" : "dk 8/1/2017 12:14",
-		"LeftPosition" : "dk 8/1/2017 12:14",
-		"RightPosition" : "dk 8/1/2017 12:14",
-		"newExitLeftToRightWithDuration:" : "dk 8/1/2017 12:14",
-		"newExitRightToLeftWithDuration:" : "dk 8/1/2017 12:14",
-		"newLeftToRightWithDuration:" : "DK 6/27/2017 23:40",
-		"newRightToLeftWithDuration:" : "DK 6/27/2017 23:40" },
+		"DefaultVector" : "pre 8/3/2017 21:00",
+		"LeftPosition" : "pre 8/3/2017 21:00",
+		"RightPosition" : "pre 8/3/2017 21:00",
+		"newExitLeftToRightWithDuration:" : "pre 8/3/2017 21:00",
+		"newExitRightToLeftWithDuration:" : "pre 8/3/2017 21:00",
+		"newLeftToRightWithDuration:" : "pre 8/3/2017 21:00",
+		"newRightToLeftWithDuration:" : "pre 8/3/2017 21:00" },
 	"instance" : {
 		"computeMorphPosition" : "EM 7/30/2017 11:47",
 		"doAnimationStep" : "EM 7/30/2017 12:55",
