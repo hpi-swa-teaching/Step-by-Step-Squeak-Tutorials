@@ -1,5 +1,6 @@
 speechTests
 testInitializeWithPosition
+
 	self
 		assert: self subject label equals: self class TestSpeechText;
 		assert: self subject textColor equals: self class TestSpeechTextColor;

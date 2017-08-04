@@ -1,5 +1,6 @@
 speechTests
 testInitializeWithMorph
+
 	| rectangle speech |
 	rectangle := RectangleMorph new.
 	rectangle position: self class TestSpeechPosition.

@@ -2,4 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"checkMorph:" : "dk 8/4/2017 11:58",
+		"setUp" : "dk 8/4/2017 11:12",
+		"tearDown" : "dk 8/4/2017 11:26",
+		"testAddScene" : "dk 8/4/2017 11:14",
+		"testHideAllMorphsOnStart" : "dk 8/4/2017 12:00",
+		"testNextScene" : "dk 8/4/2017 12:09",
+		"testPrevScene" : "dk 8/4/2017 13:12",
+		"testShowNextScene" : "dk 8/4/2017 12:03",
+		"testShowPrevScene" : "dk 8/4/2017 12:04",
+		"testShowScene" : "dk 8/4/2017 12:06" } }
