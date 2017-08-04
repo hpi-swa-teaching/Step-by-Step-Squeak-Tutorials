@@ -7,4 +7,4 @@ end
 		isRunning: false.
 	self listenerExtension runOnEnd.
 	self currentScene leaveScene.
-	self tidyUp.
+
