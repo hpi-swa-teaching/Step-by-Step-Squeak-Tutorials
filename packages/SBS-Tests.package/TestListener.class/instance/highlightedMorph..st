@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 highlightedMorph: aBool
 
 	highlightedMorphFound := aBool.

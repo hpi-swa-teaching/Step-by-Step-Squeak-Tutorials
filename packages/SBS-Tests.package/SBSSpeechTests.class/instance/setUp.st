@@ -1,4 +1,4 @@
-speechTests
+running
 setUp
 
 	self wantsToTest: (

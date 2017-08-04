@@ -5,11 +5,12 @@
 		"TestSpeechText" : "dk 7/30/2017 17:11",
 		"TestSpeechTextColor" : "dk 7/30/2017 17:11" },
 	"instance" : {
-		"foundDialog:" : "dk 8/4/2017 13:26",
+		"foundDialog:" : "dk 8/4/2017 21:45",
+		"generateDialog" : "dk 8/4/2017 21:42",
 		"play" : "dk 8/4/2017 13:24",
 		"play:" : "dk 8/4/2017 13:24",
 		"setUp" : "dk 7/30/2017 17:04",
 		"tearDown" : "dk 8/4/2017 13:26",
-		"testAutoPosition" : "dk 8/4/2017 13:25",
+		"testAutoPosition" : "dk 8/4/2017 21:42",
 		"testInitializeWithMorph" : "dk 8/4/2017 10:42",
 		"testInitializeWithPosition" : "dk 8/4/2017 10:42" } }

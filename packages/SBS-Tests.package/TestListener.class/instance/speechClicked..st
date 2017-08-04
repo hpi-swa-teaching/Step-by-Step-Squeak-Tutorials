@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 speechClicked: aBool
 
 	speechClicked := aBool.

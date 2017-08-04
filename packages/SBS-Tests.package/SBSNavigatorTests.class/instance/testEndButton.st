@@ -1,4 +1,4 @@
-as yet unclassified
+test cases
 testEndButton
 
 	self play showScene: self play scenes last.

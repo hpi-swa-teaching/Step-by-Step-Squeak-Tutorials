@@ -1,4 +1,4 @@
-as yet unclassified
+test cases
 testEndPlay
 
 	SBSStage singleStage changePlay: self subject.

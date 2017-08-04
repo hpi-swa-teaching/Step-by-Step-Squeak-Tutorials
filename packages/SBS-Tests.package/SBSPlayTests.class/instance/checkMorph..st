@@ -1,4 +1,4 @@
-as yet unclassified
+test cases
 checkMorph: aMorph
 	
 	"delaying this here in case play start takes too long"

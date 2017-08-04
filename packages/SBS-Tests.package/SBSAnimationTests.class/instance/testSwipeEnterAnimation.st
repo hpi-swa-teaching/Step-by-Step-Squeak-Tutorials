@@ -1,4 +1,4 @@
-as yet unclassified
+test cases
 testSwipeEnterAnimation
 
 	self subject addEnterAnimation: ((SBSSwipeAnimation newRightToLeftWithDuration: 200)

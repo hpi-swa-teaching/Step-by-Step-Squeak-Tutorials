@@ -1,4 +1,4 @@
-as yet unclassified
+test cases
 testProgressBar
 
 	self assert: self subject progressBar maximum equals: self play totalNumberOfScenes.

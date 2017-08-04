@@ -1,4 +1,4 @@
-as yet unclassified
+test cases
 testFadeEnterAnimation
 
 	self subject addEnterAnimation: ((SBSFadeAnimation newFadeInWithDuration: 200) 

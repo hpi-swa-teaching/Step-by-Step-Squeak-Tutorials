@@ -1,4 +1,4 @@
-speechTests
+test cases
 foundDialog: aDialog
 	
 	self assert: (self play scenes first speeches first right equals: aDialog left - SBSSpeech Margin).

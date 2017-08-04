@@ -1,4 +1,4 @@
-as yet unclassified
+test cases
 testPrevButton
 
 	self play showScene: self play scenes second.

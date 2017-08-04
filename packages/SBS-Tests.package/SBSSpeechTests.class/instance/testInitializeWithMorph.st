@@ -1,4 +1,4 @@
-speechTests
+test cases
 testInitializeWithMorph
 
 	| rectangle speech |
