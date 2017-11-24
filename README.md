@@ -1,4 +1,4 @@
-# Step-By-Step [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/SWT17-Project-11.svg?branch=master)](https://travis-ci.org/HPI-SWA-Teaching/SWT17-Project-11)
+# Step-By-Step [![Build Status](https://travis-ci.org/hpi-swa-teaching/SWT17-Project-11.svg?branch=master)](https://travis-ci.org/hpi-swa-teaching/SWT17-Project-11)
 
 ## Overview
 A simple package, offering an API for building step-based walkthroughs and intros in Squeak.
@@ -24,4 +24,4 @@ To protect the tutorial user, against dirty code from the tutorial creator, he c
 
 ## Coding standards
 
-Our coding standards are located in the [Wiki](https://github.com/HPI-SWA-Teaching/SWT17-Project-11/wiki/Coding-Standards).
+Our coding standards are located in the [Wiki](https://github.com/hpi-swa-teaching/SWT17-Project-11/wiki/Coding-Standards).
